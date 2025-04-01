@@ -1,0 +1,9934 @@
+ï»¿1
+00:00:00,000 --> 00:00:00,098
+[Projector ratcheting]
+
+2
+00:00:07,283 --> 00:00:10,252
+<i>[indistinct conversation]</i>
+
+3
+00:00:10,286 --> 00:00:13,255
+<i>[upbeat music playing]</i>
+
+4
+00:00:15,000 --> 00:00:21,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+5
+00:00:24,667 --> 00:00:25,759
+- Hey, Pete.
+
+6
+00:00:25,801 --> 00:00:27,234
+You're not leaving already,
+are you?
+
+7
+00:00:27,269 --> 00:00:29,760
+- Uh, no, it's... -
+my wife is waiting up for me.
+
+8
+00:00:29,805 --> 00:00:30,829
+- Come on.
+
+9
+00:00:30,873 --> 00:00:32,033
+One more drink, huh?
+
+10
+00:00:32,074 --> 00:00:34,167
+I have a little
+going-away present for you.
+
+11
+00:00:34,210 --> 00:00:37,668
+I, uh...
+I got you a raise.
+
+12
+00:00:37,713 --> 00:00:38,907
+I know it must be tough
+for you
+
+13
+00:00:38,948 --> 00:00:40,506
+trying to start a family
+in this economy.
+
+14
+00:00:40,549 --> 00:00:43,074
+Now, it's not much,
+$2,000 a year.
+
+15
+00:00:43,119 --> 00:00:44,586
+I tried to make it more,
+
+16
+00:00:44,620 --> 00:00:46,747
+but only vPs
+make that kind of money.
+
+17
+00:00:46,789 --> 00:00:49,724
+And the company policy
+is pretty firm on it, so...
+
+18
+00:00:49,759 --> 00:00:50,817
+- Thank you for that.
+
+19
+00:00:50,860 --> 00:00:52,225
+- It's my pleasure.
+
+20
+00:00:52,261 --> 00:00:53,888
+- Do you have any idea
+who's replacing you?
+
+21
+00:00:53,929 --> 00:00:54,918
+- [Sighs]
+
+22
+00:00:54,964 --> 00:00:57,558
+No.
+Uh, yeah, it's a woman.
+
+23
+00:00:57,600 --> 00:00:59,397
+I don't know her.
+
+24
+00:00:59,435 --> 00:01:03,201
+She's coming from Slater's,
+ACS banner out west.
+
+25
+00:01:03,239 --> 00:01:06,902
+And all I heard about her,
+she's a real ballbuster.
+
+26
+00:01:06,942 --> 00:01:08,239
+[Chuckles]
+
+27
+00:01:08,277 --> 00:01:09,744
+So good luck with that,
+my friend.
+
+28
+00:01:09,779 --> 00:01:10,837
+[Chuckles]
+
+29
+00:01:10,880 --> 00:01:12,507
+The last seven years
+in this department
+
+30
+00:01:12,548 --> 00:01:14,516
+have been, um...
+
+31
+00:01:14,550 --> 00:01:17,246
+have been some of
+the most meaningful in my life.
+
+32
+00:01:17,286 --> 00:01:21,188
+No, I'm being serious
+for a moment.
+
+33
+00:01:21,223 --> 00:01:24,249
+A lot has happened,
+a lot of great memories.
+
+34
+00:01:24,293 --> 00:01:26,989
+My second child was born
+while I've been working here.
+
+35
+00:01:27,029 --> 00:01:30,021
+Some of you were there
+at his baptism.
+
+36
+00:01:31,333 --> 00:01:34,097
+You're all like family to me,
+and, uh...
+
+37
+00:01:34,136 --> 00:01:36,502
+[sighs]
+
+38
+00:01:36,539 --> 00:01:38,632
+I hate to say it, but I'm
+gonna miss you all very much.
+
+39
+00:01:38,674 --> 00:01:40,039
+So...
+
+40
+00:01:40,076 --> 00:01:41,304
+[sighs emotionally]
+
+41
+00:01:41,343 --> 00:01:42,435
+Cheers, cheers, huh?
+
+42
+00:01:42,478 --> 00:01:43,638
+- To Jim.
+- All right.
+
+43
+00:01:43,679 --> 00:01:45,544
+- Thank you to all of you.
+Cheers, cheers.
+
+44
+00:01:45,581 --> 00:01:46,639
+- Cheers.
+
+45
+00:01:46,682 --> 00:01:49,651
+<i>[upbeat music]</i>
+
+46
+00:02:06,135 --> 00:02:10,868
+-<i>Iceman, iceman,</i>
+<i>candy man, and sandman</i>
+
+47
+00:02:10,906 --> 00:02:13,374
+<i>All the things</i>
+<i>I wanted for</i>
+
+48
+00:02:13,409 --> 00:02:15,775
+<i>Someone else took them</i>
+
+49
+00:02:15,811 --> 00:02:20,077
+<i>Lonely in a new shirt,</i>
+<i>lonely watching baseball</i>
+
+50
+00:02:20,116 --> 00:02:24,416
+<i>If I had to do it all again,</i>
+<i>I wouldn't</i>
+
+51
+00:02:24,453 --> 00:02:27,945
+<i>Throw it all away</i>
+
+52
+00:02:29,525 --> 00:02:34,224
+<i>Throw it all away</i>
+
+53
+00:02:34,263 --> 00:02:38,221
+<i>I want a holiday</i>
+
+54
+00:02:38,266 --> 00:02:39,290
+ <i>I want</i> 
+
+55
+00:02:39,334 --> 00:02:42,326
+[dishes clinking,
+water running]
+
+56
+00:02:45,406 --> 00:02:47,169
+- Sorry.
+I couldn't get away.
+
+57
+00:02:47,208 --> 00:02:48,175
+- Did you eat?
+
+58
+00:02:48,209 --> 00:02:49,904
+- I had some nachos.
+
+59
+00:02:51,446 --> 00:02:52,845
+What is this?
+
+60
+00:02:52,881 --> 00:02:55,213
+- That's to fix the car.
+$1,500.
+
+61
+00:02:55,250 --> 00:02:56,376
+- What was wrong with it?
+
+62
+00:02:56,417 --> 00:02:58,044
+- I don't know.
+Something with the brakes.
+
+63
+00:02:58,086 --> 00:02:59,383
+Hey, could you put Henry
+to sleep?
+
+64
+00:02:59,420 --> 00:03:01,251
+He's driving me crazy.
+
+65
+00:03:01,289 --> 00:03:02,916
+- <i>Kids, it's me, Racer Steve!</i>
+
+66
+00:03:02,957 --> 00:03:04,083
+- <i>And I'm Princess Katie.</i>
+
+67
+00:03:04,125 --> 00:03:06,093
+<i>Welcome to our...</i> -
+
+68
+00:03:06,127 --> 00:03:07,253
+- Come on, buddy.
+
+69
+00:03:07,295 --> 00:03:08,262
+Time for bed.
+
+70
+00:03:08,296 --> 00:03:09,263
+- No.
+
+71
+00:03:09,297 --> 00:03:10,423
+- Come on.
+
+72
+00:03:10,465 --> 00:03:11,432
+[Groans]
+
+73
+00:03:11,466 --> 00:03:12,626
+- We don't go to bed.
+
+74
+00:03:14,636 --> 00:03:17,935
+<i>[telephone rings]</i>
+
+75
+00:03:17,972 --> 00:03:19,030
+Dad, get it.
+
+76
+00:03:19,073 --> 00:03:21,837
+<i>[telephone rings]</i>
+
+77
+00:03:21,876 --> 00:03:23,400
+<i>[answering machine beeps]</i>
+
+78
+00:03:23,444 --> 00:03:25,412
+- <i>This message</i>
+<i>Is for Pete Cozy.</i>
+
+79
+00:03:25,446 --> 00:03:27,676
+<i>I'm calling</i>
+<i>from Banking Services Credit.</i>
+
+80
+00:03:27,715 --> 00:03:28,841
+- It would have been more,
+
+81
+00:03:28,883 --> 00:03:32,011
+but he would had
+to have made me vice president.
+
+82
+00:03:32,053 --> 00:03:33,816
+- So why didn't he make you
+vice president?
+
+83
+00:03:33,855 --> 00:03:35,550
+- I don't know.
+I guess it's a big deal.
+
+84
+00:03:35,590 --> 00:03:36,955
+- We could use the money.
+
+85
+00:03:36,991 --> 00:03:38,583
+- [Scoffs]
+
+86
+00:03:38,626 --> 00:03:40,617
+I don't want
+to be vice president.
+
+87
+00:03:40,662 --> 00:03:42,630
+I don't want any more
+responsibility at that place
+
+88
+00:03:42,664 --> 00:03:44,359
+than I already have.
+
+89
+00:03:44,399 --> 00:03:47,368
+I mean, vice presidents
+stay late at the office.
+
+90
+00:03:47,402 --> 00:03:48,528
+They work weekends.
+
+91
+00:03:48,570 --> 00:03:50,037
+I don't want to do that.
+
+92
+00:03:50,071 --> 00:03:51,663
+I want to do my job,
+come home,
+
+93
+00:03:51,706 --> 00:03:54,402
+and spend as much time
+with my family as I can.
+
+94
+00:03:54,442 --> 00:03:57,434
+- Did you ever hear back
+from that other job?
+
+95
+00:03:57,478 --> 00:03:58,638
+- No.
+
+96
+00:03:58,680 --> 00:04:00,614
+Not yet.
+
+97
+00:04:00,648 --> 00:04:03,617
+[Calm instrumental music]
+
+98
+00:04:03,651 --> 00:04:11,649
+<i></i>
+
+99
+00:04:18,299 --> 00:04:20,324
+[sighs]
+
+100
+00:04:20,368 --> 00:04:22,165
+What's up?
+
+101
+00:04:22,203 --> 00:04:25,695
+- It's her new car,
+our new boss.
+
+102
+00:04:25,740 --> 00:04:27,367
+Looks brand-new.
+
+103
+00:04:27,408 --> 00:04:29,035
+- Did you see her?
+- Nope.
+
+104
+00:04:29,077 --> 00:04:31,978
+We got a meeting at 10:00
+in the conference room.
+
+105
+00:04:32,013 --> 00:04:34,345
+- [Sighs]
+
+106
+00:04:41,122 --> 00:04:42,919
+Morning.
+- I feel like shit.
+
+107
+00:04:42,957 --> 00:04:44,515
+Being human sucks.
+
+108
+00:04:44,559 --> 00:04:45,924
+I hope someone brought
+doughnuts.
+
+109
+00:04:45,960 --> 00:04:48,087
+I'm starving.
+
+110
+00:04:48,129 --> 00:04:50,859
+[Indistinct conversation]
+
+111
+00:04:50,898 --> 00:04:51,865
+- Just look at this.
+
+112
+00:04:51,899 --> 00:04:53,662
+Look at him.
+There he is.
+
+113
+00:04:53,701 --> 00:04:55,692
+[Laughter]
+
+114
+00:04:58,473 --> 00:05:00,304
+- Have you seen him?
+
+115
+00:05:00,341 --> 00:05:02,241
+- Her.
+He's a she.
+
+116
+00:05:02,277 --> 00:05:03,539
+- No way.
+
+117
+00:05:03,578 --> 00:05:04,545
+- You didn't know?
+
+118
+00:05:04,579 --> 00:05:05,978
+- No, no shit.
+
+119
+00:05:06,014 --> 00:05:07,038
+I hope she's hot.
+
+120
+00:05:07,081 --> 00:05:09,049
+- Hi, everybody.
+
+121
+00:05:09,083 --> 00:05:11,017
+I'd like to introduce myself
+
+122
+00:05:11,052 --> 00:05:12,383
+and tell you all
+a little bit about
+
+123
+00:05:12,420 --> 00:05:14,411
+what we'll be doing
+for the next few months.
+
+124
+00:05:14,455 --> 00:05:16,753
+My name is Susan Felders.
+
+125
+00:05:16,791 --> 00:05:20,090
+I've been in pricing
+and marketing for 11 years.
+
+126
+00:05:20,128 --> 00:05:21,117
+[Laughs]
+
+127
+00:05:21,162 --> 00:05:23,153
+Before moving to ACS,
+
+128
+00:05:23,197 --> 00:05:26,826
+I was president of pricing
+at Safeway, SoCal region.
+
+129
+00:05:26,868 --> 00:05:29,962
+ACS then hired me to run
+their Slater's Markets banner,
+
+130
+00:05:30,004 --> 00:05:32,438
+200 stores on the West Coast.
+
+131
+00:05:32,473 --> 00:05:35,169
+And here I am at Wolski's.
+
+132
+00:05:35,209 --> 00:05:36,608
+I'm passing out my rÃ©sumÃ©.
+
+133
+00:05:36,644 --> 00:05:38,942
+My cell phone number's
+at the top.
+
+134
+00:05:38,980 --> 00:05:40,777
+Wolski's
+is the lowest performance banner
+
+135
+00:05:40,815 --> 00:05:42,840
+on the ACS chain.
+
+136
+00:05:42,884 --> 00:05:44,749
+We are losing sales.
+
+137
+00:05:44,786 --> 00:05:48,517
+Our stores
+look like time vaults from 1985.
+
+138
+00:05:48,556 --> 00:05:50,547
+Our corporate image
+has nothing to do
+
+139
+00:05:50,591 --> 00:05:52,684
+with pricing or value.
+
+140
+00:05:52,727 --> 00:05:54,217
+What we have, mostly,
+is locations.
+
+141
+00:05:54,262 --> 00:05:56,526
+You know, we're the store
+that managed to stay in business
+
+142
+00:05:56,564 --> 00:05:58,589
+when Walmart
+opened down by the highway.
+
+143
+00:05:58,633 --> 00:06:00,123
+We're the store
+for the little old lady
+
+144
+00:06:00,168 --> 00:06:03,103
+who takes ten minutes
+counting out exact change,
+
+145
+00:06:03,137 --> 00:06:05,332
+the store for the husband
+who forgot to buy milk
+
+146
+00:06:05,373 --> 00:06:06,931
+at the Super Saver.
+
+147
+00:06:06,974 --> 00:06:08,441
+Now, I took this job
+to change that.
+
+148
+00:06:08,476 --> 00:06:10,808
+We are gonna change that,
+
+149
+00:06:10,845 --> 00:06:12,710
+starting here,
+
+150
+00:06:12,747 --> 00:06:14,078
+right now,
+
+151
+00:06:14,115 --> 00:06:16,879
+in this room.
+
+152
+00:06:16,918 --> 00:06:17,907
+- Hey... -
+- Hi, Matt, right?
+
+153
+00:06:17,952 --> 00:06:19,112
+I know you all
+have a lot of questions,
+
+154
+00:06:19,153 --> 00:06:20,711
+and I will have answers
+for you.
+
+155
+00:06:20,755 --> 00:06:23,121
+But I don't want to waste
+anyone's time in a conference.
+
+156
+00:06:23,157 --> 00:06:24,556
+I will be meeting
+with each one of you
+
+157
+00:06:24,592 --> 00:06:25,559
+in the next few days,
+
+158
+00:06:25,593 --> 00:06:26,719
+So thank you.
+
+159
+00:06:26,761 --> 00:06:27,887
+This is exciting.
+
+160
+00:06:30,798 --> 00:06:33,460
+- [Whispers]
+She's hot.
+
+161
+00:06:38,005 --> 00:06:39,597
+- Hi, Brian.
+
+162
+00:06:39,640 --> 00:06:41,301
+Hey, it's Pete Cozy.
+
+163
+00:06:42,710 --> 00:06:43,768
+Yeah, no... -
+
+164
+00:06:46,581 --> 00:06:48,105
+Okay, um...
+
+165
+00:06:50,284 --> 00:06:53,219
+Do you know of anyone else
+that might be hiring?
+
+166
+00:06:55,123 --> 00:06:57,091
+[Sighs]
+
+167
+00:06:57,125 --> 00:06:58,956
+- [Mouthing words]
+
+168
+00:07:05,600 --> 00:07:06,624
+- Can I help you?
+
+169
+00:07:06,667 --> 00:07:08,191
+- Hi, Pete, right?
+
+170
+00:07:08,236 --> 00:07:10,830
+I was just checking out
+your playlists.
+
+171
+00:07:10,872 --> 00:07:12,669
+I approve.
+- Thank you.
+
+172
+00:07:12,707 --> 00:07:14,800
+- I was just curious 'cause
+all the jobs on your rÃ©sumÃ©
+
+173
+00:07:14,842 --> 00:07:16,275
+were in the music industry.
+
+174
+00:07:16,310 --> 00:07:17,743
+It's not every day
+someone transfers
+
+175
+00:07:17,779 --> 00:07:19,007
+to the supermarket business.
+
+176
+00:07:19,046 --> 00:07:21,378
+How'd you end up here?
+
+177
+00:07:21,416 --> 00:07:22,440
+- I don't know.
+
+178
+00:07:22,483 --> 00:07:25,452
+- [Laughs]
+
+179
+00:07:25,486 --> 00:07:27,249
+Is there anything fun
+to do around here?
+
+180
+00:07:27,288 --> 00:07:28,550
+See any good shows?
+
+181
+00:07:28,589 --> 00:07:30,079
+- I don't really get out much.
+
+182
+00:07:30,124 --> 00:07:31,250
+I have a kid.
+- Aww.
+
+183
+00:07:31,292 --> 00:07:32,520
+Boy or girl?
+
+184
+00:07:32,560 --> 00:07:34,721
+- A boy.
+
+185
+00:07:34,762 --> 00:07:36,229
+His name's Henry.
+He's three.
+
+186
+00:07:36,264 --> 00:07:38,425
+- That's so cute.
+
+187
+00:07:41,269 --> 00:07:43,169
+I'd like to talk to you
+outside of the office
+
+188
+00:07:43,204 --> 00:07:45,866
+for a few minutes,
+a more casual atmosphere.
+
+189
+00:07:45,907 --> 00:07:50,606
+But if you have to go home,
+I totally understand.
+
+190
+00:07:50,645 --> 00:07:52,078
+- I don't mind
+that she's coming over.
+
+191
+00:07:52,113 --> 00:07:54,240
+I just wish you would have
+given me some time to prepare.
+
+192
+00:07:54,282 --> 00:07:56,045
+- She's just coming over
+for a drink.
+
+193
+00:07:56,083 --> 00:07:57,482
+She's not expecting
+anything.
+
+194
+00:07:57,518 --> 00:07:58,745
+- The place is a mess.
+
+195
+00:07:58,785 --> 00:08:00,275
+- Seemed like
+the easiest thing to do.
+
+196
+00:08:00,320 --> 00:08:03,118
+[Knocking at door]
+
+197
+00:08:03,156 --> 00:08:04,180
+Hey, come on in.
+
+198
+00:08:04,224 --> 00:08:05,521
+- I was so lost.
+
+199
+00:08:05,559 --> 00:08:07,220
+I didn't realize
+you had it so rough.
+
+200
+00:08:07,260 --> 00:08:09,251
+- Oh, no,
+it's not a bad neighborhood.
+
+201
+00:08:09,296 --> 00:08:10,194
+- Oh, okay.
+
+202
+00:08:10,997 --> 00:08:12,430
+I needed to get out of L.A.
+
+203
+00:08:12,466 --> 00:08:14,798
+I was in a lousy relationship.
+
+204
+00:08:14,835 --> 00:08:16,894
+It wasn't working out
+at Slater's.
+
+205
+00:08:16,937 --> 00:08:19,565
+ACS made me an offer
+I couldn't refuse.
+
+206
+00:08:19,606 --> 00:08:20,903
+They said
+if I took over here,
+
+207
+00:08:20,941 --> 00:08:23,466
+I could do anything
+I wanted.
+
+208
+00:08:23,510 --> 00:08:26,308
+We are going to transform
+this company.
+
+209
+00:08:26,346 --> 00:08:27,813
+- Wow.
+
+210
+00:08:27,848 --> 00:08:30,282
+You know, I don't even know
+what Pete does, actually.
+
+211
+00:08:30,317 --> 00:08:32,182
+- 'Cause it sounds so boring
+when I talk about it.
+
+212
+00:08:32,219 --> 00:08:33,447
+- Really?
+- Yeah.
+
+213
+00:08:33,487 --> 00:08:35,455
+- I love talking shop.
+
+214
+00:08:35,489 --> 00:08:37,616
+Our department takes data
+
+215
+00:08:37,657 --> 00:08:39,284
+that represents
+customers' behavior,
+
+216
+00:08:39,326 --> 00:08:40,623
+like what customers
+are buying.
+
+217
+00:08:40,660 --> 00:08:43,128
+It then translates that data
+into strategies
+
+218
+00:08:43,163 --> 00:08:45,631
+that can be used in stores
+to increase sales.
+
+219
+00:08:45,665 --> 00:08:47,098
+- Oh, you mean
+like putting soda cans
+
+220
+00:08:47,133 --> 00:08:48,327
+at the ends of the aisle.
+
+221
+00:08:48,368 --> 00:08:51,303
+- Yeah, that kind of thing,
+but so much more.
+
+222
+00:08:51,338 --> 00:08:52,999
+Look, you guys
+drink organic milk, right?
+
+223
+00:08:53,039 --> 00:08:54,028
+- Yeah.
+
+224
+00:08:54,074 --> 00:08:56,406
+- Right, one child,
+suburban,
+
+225
+00:08:56,443 --> 00:08:58,411
+I know how much you make.
+
+226
+00:08:58,445 --> 00:09:00,208
+You're an easy demographic.
+
+227
+00:09:00,247 --> 00:09:04,149
+I bet I could guess
+75% of what's in your fridge.
+
+228
+00:09:04,184 --> 00:09:06,880
+I mean, the stuff you buy
+doesn't happen by accident.
+
+229
+00:09:08,421 --> 00:09:10,548
+What do you do, Sara?
+
+230
+00:09:10,590 --> 00:09:13,150
+- I'm not actually working
+right now.
+
+231
+00:09:13,193 --> 00:09:15,058
+You know, raising Henry
+is a full-time job.
+
+232
+00:09:15,095 --> 00:09:16,687
+- She's going back to work soon.
+
+233
+00:09:16,730 --> 00:09:18,789
+- Yeah, maybe.
+
+234
+00:09:20,400 --> 00:09:21,628
+- Oh, what is that?
+
+235
+00:09:21,668 --> 00:09:23,898
+- We're having a Halloween party
+at the office.
+
+236
+00:09:23,937 --> 00:09:24,995
+Spouses are invited.
+
+237
+00:09:25,038 --> 00:09:26,403
+- On Halloween?
+
+238
+00:09:26,439 --> 00:09:27,929
+- Yeah, when else?
+
+239
+00:09:27,974 --> 00:09:29,066
+- Oh, you know what?
+
+240
+00:09:29,109 --> 00:09:30,201
+That's Henry's party.
+
+241
+00:09:30,243 --> 00:09:31,801
+They're having
+a little Halloween party
+
+242
+00:09:31,845 --> 00:09:32,971
+at his school, so...
+
+243
+00:09:33,013 --> 00:09:35,311
+- It's earlier,
+so we could go to both.
+
+244
+00:09:35,348 --> 00:09:37,714
+- Can I come?
+
+245
+00:09:37,751 --> 00:09:38,740
+- To Henry's party?
+
+246
+00:09:38,785 --> 00:09:41,754
+- Yeah,
+unless it's not cool.
+
+247
+00:09:41,788 --> 00:09:42,777
+- [Laughs]
+
+248
+00:09:42,822 --> 00:09:44,687
+No.
+I guess it would be okay.
+
+249
+00:09:44,724 --> 00:09:45,691
+- Good night.
+
+250
+00:09:45,725 --> 00:09:46,692
+- No.
+
+251
+00:09:46,726 --> 00:09:49,354
+- [Sighs]
+
+252
+00:09:49,396 --> 00:09:51,694
+I better go too.
+
+253
+00:09:51,731 --> 00:09:54,199
+Here's what
+I wanted to talk to you about.
+
+254
+00:09:54,234 --> 00:09:56,464
+A lot of bosses coming into
+a department like this
+
+255
+00:09:56,503 --> 00:09:58,528
+would lay off
+a lot of people.
+
+256
+00:09:58,572 --> 00:10:00,164
+I don't have time
+to go out and rehire.
+
+257
+00:10:00,206 --> 00:10:02,470
+We're just going to have to work
+with what we have.
+
+258
+00:10:02,509 --> 00:10:05,945
+But I do have to fire someone,
+just to trim costs.
+
+259
+00:10:05,979 --> 00:10:07,003
+- Mm.
+
+260
+00:10:07,047 --> 00:10:08,241
+- It's not you, obviously.
+
+261
+00:10:08,281 --> 00:10:10,078
+But I thought you might know
+who it should be.
+
+262
+00:10:10,116 --> 00:10:12,744
+Who is the worst performer
+in the office?
+
+263
+00:10:12,786 --> 00:10:14,754
+Who's bringing morale down?
+- Can I think about it?
+
+264
+00:10:14,788 --> 00:10:16,278
+- No, I don't want you
+to think about it.
+
+265
+00:10:16,323 --> 00:10:18,416
+I'm sure as soon as I said it,
+a name came into your head.
+
+266
+00:10:18,458 --> 00:10:20,619
+- Matt Davis?
+- Really?
+
+267
+00:10:20,660 --> 00:10:21,718
+Why him?
+
+268
+00:10:21,761 --> 00:10:23,126
+- He's always missing deadlines.
+
+269
+00:10:23,163 --> 00:10:26,189
+I mean,
+he's kind of half-assed.
+
+270
+00:10:26,232 --> 00:10:27,358
+- What about Tony Gomes?
+
+271
+00:10:27,400 --> 00:10:28,492
+- Tony?
+
+272
+00:10:28,535 --> 00:10:29,559
+No.
+
+273
+00:10:29,603 --> 00:10:30,900
+I mean,
+I think we should keep him.
+
+274
+00:10:30,937 --> 00:10:32,632
+He's all right.
+
+275
+00:10:32,672 --> 00:10:34,003
+He's a good worker.
+
+276
+00:10:34,040 --> 00:10:35,064
+- All right.
+
+277
+00:10:35,108 --> 00:10:36,632
+Thanks.
+
+278
+00:10:36,676 --> 00:10:38,303
+I'm glad I asked you that.
+
+279
+00:10:38,345 --> 00:10:39,369
+- Good morning.
+
+280
+00:10:39,412 --> 00:10:40,538
+- Good morning.
+Wolski's.
+
+281
+00:10:40,580 --> 00:10:41,911
+Yes, mm-hmm, please hold.
+
+282
+00:10:44,451 --> 00:10:46,749
+- What's going on?
+
+283
+00:10:46,786 --> 00:10:48,583
+- She fired Tony.
+
+284
+00:10:48,622 --> 00:10:50,419
+- No way.
+
+285
+00:10:50,457 --> 00:10:53,119
+- She wants to see you too.
+
+286
+00:11:02,936 --> 00:11:04,426
+- Dude...
+
+287
+00:11:05,538 --> 00:11:07,506
+I'm sorry.
+
+288
+00:11:07,540 --> 00:11:10,100
+- I hated this place anyway.
+
+289
+00:11:10,143 --> 00:11:11,110
+[Knock at door]
+
+290
+00:11:11,144 --> 00:11:12,771
+- Yeah, come in.
+
+291
+00:11:15,015 --> 00:11:16,448
+Shut the door.
+
+292
+00:11:21,354 --> 00:11:23,322
+- I thought
+you weren't gonna fire Tony.
+
+293
+00:11:23,356 --> 00:11:24,618
+- I never said that.
+
+294
+00:11:24,658 --> 00:11:26,216
+I just wanted your opinion.
+
+295
+00:11:26,259 --> 00:11:27,590
+- He's got four kids.
+
+296
+00:11:27,627 --> 00:11:28,685
+- I don't feel good about it.
+
+297
+00:11:28,728 --> 00:11:30,025
+Firing people sucks.
+
+298
+00:11:30,063 --> 00:11:31,860
+It's sweet that
+you're worried about his kids,
+
+299
+00:11:31,898 --> 00:11:32,956
+but he was slacking.
+
+300
+00:11:32,999 --> 00:11:34,125
+He wasn't happy here.
+
+301
+00:11:34,167 --> 00:11:35,657
+Sit.
+
+302
+00:11:36,870 --> 00:11:38,269
+We've got a lot of work
+to do here.
+
+303
+00:11:38,304 --> 00:11:39,601
+We don't have time
+to fuck around,
+
+304
+00:11:39,639 --> 00:11:40,765
+feeling bad for Tony Gomes.
+
+305
+00:11:40,807 --> 00:11:42,104
+He'll land on his feet.
+
+306
+00:11:42,142 --> 00:11:43,803
+Sit.
+
+307
+00:11:47,080 --> 00:11:48,945
+When I was working at Slater's,
+I hired a company
+
+308
+00:11:48,982 --> 00:11:50,847
+called Intellichoice
+to look over our stores
+
+309
+00:11:50,884 --> 00:11:52,181
+and to suggest strategies.
+
+310
+00:11:52,218 --> 00:11:54,345
+These guys are cutting-edge.
+
+311
+00:11:54,387 --> 00:11:55,615
+- Yeah, they're consultants.
+
+312
+00:11:55,655 --> 00:11:58,021
+- Yeah, they're very good
+at what they do.
+
+313
+00:11:58,058 --> 00:11:59,685
+When the preliminary results
+came in,
+
+314
+00:11:59,726 --> 00:12:01,523
+I was blown away.
+
+315
+00:12:01,561 --> 00:12:03,791
+And my boss at Slater's,
+an asshole named D'asarlo,
+
+316
+00:12:03,830 --> 00:12:05,457
+decided to can
+the whole thing.
+
+317
+00:12:05,498 --> 00:12:06,829
+- Why?
+
+318
+00:12:06,866 --> 00:12:08,766
+- Because he's an asshole.
+
+319
+00:12:08,802 --> 00:12:09,928
+He didn't give me a reason.
+
+320
+00:12:09,969 --> 00:12:11,698
+He said it was his decision,
+and that was it.
+
+321
+00:12:11,738 --> 00:12:13,296
+And that's what pissed me off.
+
+322
+00:12:13,339 --> 00:12:15,773
+So I did something that
+I probably shouldn't have done,
+
+323
+00:12:15,809 --> 00:12:18,141
+which is, I went to his boss
+at ACS, Jack Bennington,
+
+324
+00:12:18,178 --> 00:12:20,476
+to try to get him
+to change D'asarlo's mind.
+
+325
+00:12:20,513 --> 00:12:23,607
+Bennington didn't like the idea,
+but he offered me this job.
+
+326
+00:12:23,650 --> 00:12:25,675
+- Where you can do
+whatever you want.
+
+327
+00:12:25,719 --> 00:12:26,845
+- Yeah.
+
+328
+00:12:26,886 --> 00:12:28,353
+Slater's is a banner
+under ACS,
+
+329
+00:12:28,388 --> 00:12:30,219
+so as far as I'm concerned,
+
+330
+00:12:30,256 --> 00:12:33,555
+ACS owns the strategies
+that Intellichoice came up with.
+
+331
+00:12:33,593 --> 00:12:35,060
+I'm counting on you
+to understand
+
+332
+00:12:35,095 --> 00:12:36,653
+what's behind
+these strategies.
+
+333
+00:12:36,696 --> 00:12:37,958
+But you can handle that,
+right?
+
+334
+00:12:37,997 --> 00:12:39,828
+You went to Dartmouth.
+- Yeah.
+
+335
+00:12:39,866 --> 00:12:41,458
+How did you know
+I went to Dartmouth?
+
+336
+00:12:41,501 --> 00:12:43,401
+- It's on your rÃ©sumÃ©... -
+Dartmouth, economics,
+
+337
+00:12:43,436 --> 00:12:44,733
+Sony Music, Matador Records.
+
+338
+00:12:44,771 --> 00:12:47,069
+I need someone
+I can count on, Pete, okay,
+
+339
+00:12:47,107 --> 00:12:49,507
+someone
+who's not gonna bullshit me.
+
+340
+00:12:49,542 --> 00:12:52,773
+You be honest with me,
+and I'll be honest with you.
+
+341
+00:12:52,812 --> 00:12:54,439
+- Okay?
+- Sure.
+
+342
+00:12:54,481 --> 00:12:55,971
+- <i>Miss Felders,</i>
+<i>Ernie on line one.</i>
+
+343
+00:12:56,015 --> 00:12:57,846
+- [Groans]
+
+344
+00:12:57,884 --> 00:12:59,511
+It's the guy I left in L.A.
+
+345
+00:12:59,552 --> 00:13:01,747
+He's turning into a stalker.
+
+346
+00:13:01,788 --> 00:13:02,914
+I'll talk to you later.
+
+347
+00:13:02,956 --> 00:13:04,924
+Don't forget those files.
+
+348
+00:13:04,958 --> 00:13:06,789
+Those books are for you too.
+
+349
+00:13:08,828 --> 00:13:10,056
+Hey, what's up?
+
+350
+00:13:10,096 --> 00:13:12,690
+Would you stop?
+
+351
+00:13:12,732 --> 00:13:15,394
+I'm not going to talk to you
+if you're gonna cry.
+
+352
+00:13:15,435 --> 00:13:19,769
+- That guy
+has been calling nonstop.
+
+353
+00:13:19,806 --> 00:13:22,103
+Good.
+You got all those files.
+
+354
+00:13:22,141 --> 00:13:23,631
+Here's some more for you.
+
+355
+00:13:23,675 --> 00:13:24,733
+I can't keep up with her.
+
+356
+00:13:24,777 --> 00:13:25,971
+She's stressing me out.
+
+357
+00:13:26,011 --> 00:13:28,605
+Halloween party.
+Fun, fun, fun.
+
+358
+00:13:28,647 --> 00:13:29,875
+What are you gonna be?
+
+359
+00:13:29,915 --> 00:13:31,815
+- Oh, I'm not dressing up.
+
+360
+00:13:31,850 --> 00:13:34,045
+- Oh, yes, you are... -
+costume mandatory.
+
+361
+00:13:34,086 --> 00:13:35,610
+Read the memo,
+fun, fun, fun.
+
+362
+00:13:35,654 --> 00:13:36,882
+- Ernie!
+
+363
+00:13:36,922 --> 00:13:38,219
+- I'm gonna be Condoleezza Rice.
+
+364
+00:13:38,257 --> 00:13:40,088
+Do you think people
+still remember who she is?
+
+365
+00:13:40,125 --> 00:13:43,925
+- I'm not the one
+who peed in the bed!
+
+366
+00:13:43,962 --> 00:13:45,190
+Fuck you!
+
+367
+00:13:45,230 --> 00:13:46,788
+[Door rattles]
+
+368
+00:13:46,832 --> 00:13:47,821
+Under no circumstances
+
+369
+00:13:47,866 --> 00:13:49,163
+do his calls
+come into my office.
+
+370
+00:13:49,201 --> 00:13:50,998
+He's a fucking asshole.
+
+371
+00:13:51,036 --> 00:13:52,196
+Is Matt Davis here yet?
+
+372
+00:13:52,237 --> 00:13:53,602
+- No, he's late.
+
+373
+00:13:53,639 --> 00:13:56,472
+- He better get his fucking ass
+in here soon.
+
+374
+00:13:57,576 --> 00:14:00,568
+[Toy beeping and buzzing]
+
+375
+00:14:07,586 --> 00:14:09,645
+- Oh, Henry, Daddy's... -
+
+376
+00:14:09,688 --> 00:14:11,417
+Sara!
+
+377
+00:14:11,456 --> 00:14:13,253
+- Why do you have to read
+all this stuff for work?
+
+378
+00:14:13,292 --> 00:14:15,089
+You never had to read anything
+for work before.
+
+379
+00:14:15,127 --> 00:14:16,594
+- This is exactly
+the kind of thing
+
+380
+00:14:16,628 --> 00:14:18,118
+I've spent my whole life
+avoiding.
+
+381
+00:14:18,163 --> 00:14:19,425
+- Why don't you
+find another job?
+
+382
+00:14:19,464 --> 00:14:21,022
+- What do you think
+I've been trying to do?
+
+383
+00:14:21,066 --> 00:14:22,624
+- I'm sorry.
+
+384
+00:14:22,668 --> 00:14:24,431
+- <i>Hello, this is Gary</i>
+<i>calling from MasterCard</i>
+
+385
+00:14:24,469 --> 00:14:26,460
+<i>regarding the past-due balance</i>
+<i>on your account.</i>
+
+386
+00:14:26,505 --> 00:14:27,563
+- I thought you paid them.
+
+387
+00:14:27,606 --> 00:14:29,073
+- With what?
+
+388
+00:14:29,107 --> 00:14:31,598
+- Look, just send them $30
+so they stop calling.
+
+389
+00:14:31,643 --> 00:14:32,871
+- Okay, I will.
+
+390
+00:14:32,911 --> 00:14:35,277
+I will take Henry,
+and I will go and read to him.
+
+391
+00:14:35,314 --> 00:14:36,872
+- No.
+- I love you.
+
+392
+00:14:36,915 --> 00:14:39,349
+Say, "I love you, Daddy."
+- No.
+
+393
+00:14:39,384 --> 00:14:42,012
+[Fax machine whirring]
+
+394
+00:14:42,054 --> 00:14:45,023
+[Upbeat music]
+
+395
+00:14:45,057 --> 00:14:53,055
+<i>? ?</i>
+
+396
+00:15:08,380 --> 00:15:10,507
+- "I miss your smells... -
+
+397
+00:15:10,549 --> 00:15:15,009
+"your breath, sweat, feet,
+armpits,
+
+398
+00:15:15,053 --> 00:15:16,884
+the back of your leg
+when it was hot out."
+
+399
+00:15:16,922 --> 00:15:18,219
+- What the hell is that?
+
+400
+00:15:18,257 --> 00:15:19,519
+- Oh, Susan's boyfriend in L.A.
+
+401
+00:15:19,558 --> 00:15:20,820
+He faxed this last night.
+
+402
+00:15:20,859 --> 00:15:22,588
+It's totally screwed up.
+- This guy's crazy.
+
+403
+00:15:22,628 --> 00:15:23,822
+- Read that thing
+about the toy.
+
+404
+00:15:23,862 --> 00:15:25,022
+- Yeah.
+
+405
+00:15:26,565 --> 00:15:28,692
+- "When you put yourself
+inside me,
+
+406
+00:15:28,734 --> 00:15:30,702
+"it wasn't just a toy.
+
+407
+00:15:30,736 --> 00:15:33,364
+It was your love in my ass."
+
+408
+00:15:33,405 --> 00:15:34,394
+[Laughter]
+
+409
+00:15:34,439 --> 00:15:35,531
+- Where'd you find that?
+
+410
+00:15:35,574 --> 00:15:37,235
+- I found it on the fax machine
+when I came in.
+
+411
+00:15:37,276 --> 00:15:38,265
+I made a copy of it.
+
+412
+00:15:38,310 --> 00:15:39,800
+- It's, like, 12 pages long.
+
+413
+00:15:39,845 --> 00:15:41,710
+- No one's ever written me
+a letter that long.
+
+414
+00:15:41,747 --> 00:15:43,908
+- Shut up, you guys.
+Here she comes.
+
+415
+00:15:45,484 --> 00:15:46,678
+- [Snickers]
+
+416
+00:15:46,718 --> 00:15:48,015
+- Good morning.
+
+417
+00:15:48,053 --> 00:15:49,987
+- Morning.
+[Clears throat]
+
+418
+00:15:50,022 --> 00:15:51,080
+- Who gets this coffee?
+
+419
+00:15:51,123 --> 00:15:52,420
+It's really good.
+
+420
+00:15:52,457 --> 00:15:55,051
+- Doug.
+He's really weird about coffee.
+
+421
+00:15:55,093 --> 00:15:56,583
+- Doug, ah.
+
+422
+00:15:58,497 --> 00:15:59,623
+So does everybody know
+
+423
+00:15:59,665 --> 00:16:02,566
+what they're gonna be
+for Halloween?
+
+424
+00:16:02,601 --> 00:16:05,764
+- Well, I was thinking
+something from <i>Toy Story</i> maybe.
+
+425
+00:16:05,804 --> 00:16:06,930
+[Stifled laughter]
+
+426
+00:16:06,972 --> 00:16:08,439
+- Okay, you're not weird.
+
+427
+00:16:08,473 --> 00:16:09,462
+[Stifled laughter]
+
+428
+00:16:09,508 --> 00:16:10,941
+Did I miss something?
+
+429
+00:16:10,976 --> 00:16:14,104
+- I think he just choked
+on his doughnut.
+
+430
+00:16:14,146 --> 00:16:16,273
+- Speaking of,
+can we just nix these things?
+
+431
+00:16:16,315 --> 00:16:18,283
+They're totally gross.
+
+432
+00:16:18,317 --> 00:16:19,944
+Let's have something
+a little healthier.
+
+433
+00:16:19,985 --> 00:16:21,384
+- Mm-hmm.
+
+434
+00:16:21,420 --> 00:16:24,412
+- There seems to be too much
+snacking going on here anyway.
+
+435
+00:16:28,660 --> 00:16:30,651
+- Did she just call me fat?
+
+436
+00:16:32,197 --> 00:16:34,188
+Do I look fat to you?
+
+437
+00:16:35,600 --> 00:16:36,362
+Fuck.
+
+438
+00:16:37,169 --> 00:16:38,193
+[Knock at door]
+
+439
+00:16:38,236 --> 00:16:40,033
+[Keyboard clicking]
+
+440
+00:16:40,072 --> 00:16:41,471
+- You wanted to see me.
+
+441
+00:16:41,506 --> 00:16:43,303
+- Yeah, shut the door.
+
+442
+00:16:45,477 --> 00:16:47,138
+[Sniffs]
+
+443
+00:16:50,849 --> 00:16:52,180
+I'm giving you a raise.
+
+444
+00:16:52,217 --> 00:16:54,117
+I figure with Henry
+and the house and everything,
+
+445
+00:16:54,152 --> 00:16:55,312
+you could use it.
+
+446
+00:16:55,354 --> 00:16:56,821
+$40,000.
+
+447
+00:16:56,855 --> 00:16:58,015
+Does that sound fair?
+
+448
+00:17:00,125 --> 00:17:02,093
+- That's what I make
+right now.
+
+449
+00:17:02,127 --> 00:17:04,459
+- Yeah, so after that,
+you'll make $80,000, okay?
+
+450
+00:17:04,496 --> 00:17:07,431
+- L... - thank you.
+
+451
+00:17:07,466 --> 00:17:11,266
+I thought only vice presidents
+make that kind of money.
+
+452
+00:17:11,303 --> 00:17:13,396
+- Yeah.
+You're a vice president now.
+
+453
+00:17:13,438 --> 00:17:16,066
+Congratulations.
+
+454
+00:17:16,108 --> 00:17:18,338
+- Isn't that a big deal?
+
+455
+00:17:18,377 --> 00:17:20,709
+- Mm-mm, not for somebody
+who went to Dartmouth.
+
+456
+00:17:20,746 --> 00:17:22,611
+You should be making more
+than that if you ask me.
+
+457
+00:17:22,647 --> 00:17:24,444
+How old are you?
+- 36.
+
+458
+00:17:24,483 --> 00:17:26,110
+- Yeah, what are you
+waiting for?
+
+459
+00:17:26,151 --> 00:17:27,345
+You're married.
+You have a kid.
+
+460
+00:17:27,386 --> 00:17:28,683
+What are you going to do
+when Henry
+
+461
+00:17:28,720 --> 00:17:29,709
+wants to go to Dartmouth?
+
+462
+00:17:29,755 --> 00:17:32,519
+How are you gonna pay
+for that?
+
+463
+00:17:32,557 --> 00:17:34,457
+- That's not really
+your problem.
+
+464
+00:17:34,493 --> 00:17:37,018
+- Of course not.
+
+465
+00:17:37,062 --> 00:17:38,859
+[Chuckles]
+
+466
+00:17:49,074 --> 00:17:50,439
+The truth is...
+
+467
+00:17:51,843 --> 00:17:53,811
+I need you on my team.
+
+468
+00:17:53,845 --> 00:17:55,278
+We've got a ton of work
+to do here,
+
+469
+00:17:55,313 --> 00:17:57,213
+and I need to be able
+to count on you.
+
+470
+00:17:58,617 --> 00:18:00,482
+Did you look at those files
+I gave you yesterday?
+
+471
+00:18:00,519 --> 00:18:01,884
+- Yeah, some of them.
+
+472
+00:18:04,556 --> 00:18:05,716
+- [Sighs]
+
+473
+00:18:05,757 --> 00:18:07,486
+What about Todd Kenner
+from Intellichoice?
+
+474
+00:18:07,526 --> 00:18:09,494
+Have you talked to him yet?
+
+475
+00:18:09,528 --> 00:18:11,257
+- I didn't know
+I was supposed to.
+
+476
+00:18:13,298 --> 00:18:14,492
+- Get his number from Donna.
+
+477
+00:18:14,533 --> 00:18:16,330
+He's coming in next week
+to help get us started.
+
+478
+00:18:16,368 --> 00:18:17,494
+He's an interesting guy.
+
+479
+00:18:17,536 --> 00:18:19,026
+You'll like him.
+
+480
+00:18:22,340 --> 00:18:27,403
+I want to get three or four
+of his strategies
+
+481
+00:18:27,446 --> 00:18:30,711
+into our stores in two weeks.
+
+482
+00:18:30,749 --> 00:18:32,546
+- Two weeks?
+
+483
+00:18:35,087 --> 00:18:36,349
+No, no, no,
+it takes us two months
+
+484
+00:18:36,388 --> 00:18:37,753
+to turn around
+the scanning data... -
+
+485
+00:18:37,789 --> 00:18:42,590
+- Kroger has three departments
+doing what we do here,
+
+486
+00:18:42,627 --> 00:18:44,389
+and they have better data.
+
+487
+00:18:44,428 --> 00:18:47,591
+Safeway outspends us
+five to one on R&D,
+
+488
+00:18:47,631 --> 00:18:50,566
+and they're upgrading
+their entire checkout system
+
+489
+00:18:50,601 --> 00:18:51,898
+next month.
+
+490
+00:18:51,936 --> 00:18:53,403
+- But we're not Safeway.
+
+491
+00:18:53,437 --> 00:18:54,461
+- Exactly.
+
+492
+00:18:54,505 --> 00:18:56,132
+And we cannot compete
+with them
+
+493
+00:18:56,173 --> 00:18:58,641
+unless we pull our thumbs
+out of our asses!
+
+494
+00:18:58,676 --> 00:19:00,143
+Come on!
+
+495
+00:19:00,177 --> 00:19:02,771
+How did you guys get to be
+so fucking lazy?
+
+496
+00:19:02,813 --> 00:19:05,907
+It's like moving wet sandbags
+around here!
+
+497
+00:19:05,950 --> 00:19:08,282
+Oh, Christ...
+
+498
+00:19:10,154 --> 00:19:12,247
+I'm sorry.
+I...
+
+499
+00:19:12,289 --> 00:19:14,086
+I raised my voice.
+
+500
+00:19:14,125 --> 00:19:15,285
+I'm sorry.
+
+501
+00:19:17,795 --> 00:19:19,490
+I'm PMS'ing.
+
+502
+00:19:22,833 --> 00:19:24,824
+It's just frustrating.
+
+503
+00:19:26,337 --> 00:19:28,032
+[Sighs heavily]
+
+504
+00:19:28,072 --> 00:19:30,063
+It's just frustrating.
+
+505
+00:19:35,479 --> 00:19:37,947
+I know this isn't
+what you were planning on doing
+
+506
+00:19:37,982 --> 00:19:40,678
+for the rest of your life,
+but you're a smart guy.
+
+507
+00:19:40,718 --> 00:19:44,176
+You could do a lot worse
+and make a lot less doing it.
+
+508
+00:19:44,221 --> 00:19:47,054
+So if you want out,
+tell me now.
+
+509
+00:19:49,126 --> 00:19:50,286
+- I'm in.
+
+510
+00:19:50,327 --> 00:19:51,624
+- Good.
+
+511
+00:19:51,662 --> 00:19:53,755
+I want you to pick out
+three or four easy strategies
+
+512
+00:19:53,797 --> 00:19:55,230
+that will give us
+results quickly
+
+513
+00:19:55,266 --> 00:19:56,790
+because I want some momentum
+from those
+
+514
+00:19:56,834 --> 00:19:59,268
+that we can use to roll out
+some of the tougher stuff.
+
+515
+00:19:59,303 --> 00:20:00,736
+- Okay.
+
+516
+00:20:00,771 --> 00:20:03,331
+- Oh, I'm still invited
+to Henry's party, right?
+
+517
+00:20:03,374 --> 00:20:04,705
+- Yeah.
+
+518
+00:20:04,742 --> 00:20:06,300
+- Good.
+
+519
+00:20:06,343 --> 00:20:07,469
+Thanks, Pete.
+
+520
+00:20:09,847 --> 00:20:11,678
+Give this to Donna
+on the way out.
+
+521
+00:20:13,817 --> 00:20:15,978
+- What are you doing here?
+
+522
+00:20:16,020 --> 00:20:17,578
+- I'm waiting for you
+to get out of there.
+
+523
+00:20:19,657 --> 00:20:20,624
+How was your meeting?
+
+524
+00:20:20,658 --> 00:20:22,853
+- It was good.
+
+525
+00:20:22,893 --> 00:20:24,190
+That's exactly
+the kind of joke
+
+526
+00:20:24,228 --> 00:20:25,923
+my wife would get mad at me
+for making.
+
+527
+00:20:25,963 --> 00:20:27,123
+- Yeah, but she'd laugh.
+
+528
+00:20:27,164 --> 00:20:28,927
+- Maybe.
+
+529
+00:20:28,966 --> 00:20:30,024
+- Oh, I know how it is.
+
+530
+00:20:30,067 --> 00:20:31,364
+I was married.
+
+531
+00:20:31,402 --> 00:20:33,529
+Been there.
+Sucked.
+
+532
+00:20:33,571 --> 00:20:35,732
+You know what the trouble
+with marriage is?
+
+533
+00:20:35,773 --> 00:20:38,071
+It turns women into wives.
+
+534
+00:20:38,108 --> 00:20:40,633
+See, women laugh at your jokes
+and dress nice
+
+535
+00:20:40,678 --> 00:20:42,407
+and suck your cock.
+
+536
+00:20:42,446 --> 00:20:43,538
+Wives don't put out
+
+537
+00:20:43,581 --> 00:20:45,048
+and talk to you
+like you're retarded.
+
+538
+00:20:45,082 --> 00:20:46,709
+- [Chuckles]
+
+539
+00:20:46,750 --> 00:20:48,149
+- When was the last time
+you got laid?
+
+540
+00:20:48,185 --> 00:20:49,516
+- No comment.
+
+541
+00:20:49,553 --> 00:20:53,455
+- I've had sex 136 times
+in the last six months.
+
+542
+00:20:53,490 --> 00:20:56,288
+I'm a numbers guy.
+I can't help counting.
+
+543
+00:20:56,327 --> 00:20:58,989
+16 different women.
+16.
+
+544
+00:20:59,029 --> 00:21:00,997
+- For an average
+of 81/2 times each.
+
+545
+00:21:01,031 --> 00:21:02,362
+- Well, the mean is lower.
+
+546
+00:21:02,399 --> 00:21:03,593
+It was mostly with one woman.
+
+547
+00:21:03,634 --> 00:21:06,364
+The absolute deviation
+is around 3.6.
+
+548
+00:21:06,403 --> 00:21:09,304
+But you should have seen
+those stats when I was married.
+
+549
+00:21:09,340 --> 00:21:10,830
+Are you married, Donna?
+
+550
+00:21:10,874 --> 00:21:11,863
+- No.
+
+551
+00:21:11,909 --> 00:21:13,570
+- No?
+
+552
+00:21:15,512 --> 00:21:17,070
+- [Laughs]
+
+553
+00:21:17,114 --> 00:21:18,581
+That's not funny.
+
+554
+00:21:18,616 --> 00:21:20,083
+You could get fired for that.
+
+555
+00:21:20,117 --> 00:21:22,210
+- I didn't do it.
+
+556
+00:21:22,253 --> 00:21:24,414
+- Halloween party tomorrow.
+
+557
+00:21:24,455 --> 00:21:27,083
+- I'm gonna be
+Rudolph valentino.
+
+558
+00:21:27,124 --> 00:21:30,093
+He was a movie star
+during the silent era.
+
+559
+00:21:30,127 --> 00:21:31,492
+- I know who he is, Doug.
+
+560
+00:21:31,528 --> 00:21:33,223
+- Mm-hmm.
+
+561
+00:21:33,264 --> 00:21:34,663
+- Can you get out of my desk,
+please?
+
+562
+00:21:39,536 --> 00:21:41,003
+- Where's your costume?
+
+563
+00:21:41,038 --> 00:21:42,471
+- Oh, parents
+don't really dress up.
+
+564
+00:21:42,506 --> 00:21:43,666
+I'm gonna change later.
+
+565
+00:21:43,707 --> 00:21:45,834
+- You need to get
+in the spirit of things.
+
+566
+00:21:45,876 --> 00:21:47,867
+This is supposed to be fun.
+
+567
+00:21:49,346 --> 00:21:52,315
+[Mellow bass-driven rock music]
+
+568
+00:21:52,349 --> 00:22:00,347
+<i>? ?</i>
+
+569
+00:22:10,668 --> 00:22:12,932
+You like that, huh?
+
+570
+00:22:12,970 --> 00:22:15,598
+It's part of my costume.
+
+571
+00:22:15,639 --> 00:22:16,833
+You ever hear these guys?
+
+572
+00:22:16,874 --> 00:22:18,102
+[Radio volume increases]
+
+573
+00:22:18,142 --> 00:22:20,474
+- Sure, it's Luna.
+
+574
+00:22:20,511 --> 00:22:21,637
+I love these guys.
+
+575
+00:22:21,679 --> 00:22:23,738
+- I do too.
+
+576
+00:22:23,781 --> 00:22:26,545
+- I actually tried to sign them
+back when I worked at Sony.
+
+577
+00:22:26,583 --> 00:22:28,210
+- No way.
+
+578
+00:22:28,252 --> 00:22:29,617
+I followed them around
+one summer
+
+579
+00:22:29,653 --> 00:22:30,779
+when I was in college.
+
+580
+00:22:30,821 --> 00:22:32,812
+- Really?
+Yeah, Dean's awesome.
+
+581
+00:22:32,856 --> 00:22:34,687
+- Yeah, he is...
+
+582
+00:22:34,725 --> 00:22:37,819
+<i></i>
+
+583
+00:22:37,861 --> 00:22:41,922
+Even though
+he doesn't remember me.
+
+584
+00:22:41,965 --> 00:22:42,954
+[Horn honks]
+
+585
+00:22:43,000 --> 00:22:46,026
+- <i>Oh, I wish</i>
+<i>I were a little bar of soap</i>
+
+586
+00:22:46,070 --> 00:22:49,039
+<i>Oh, I wish</i>
+<i>I were a little bar of soap</i>
+
+587
+00:22:49,073 --> 00:22:50,438
+<i>I would slippy</i>
+<i>and I'd slidey</i>
+
+588
+00:22:50,474 --> 00:22:51,498
+<i>Over everybody's body</i>
+
+589
+00:22:51,542 --> 00:22:52,600
+- Hi, Henry!
+
+590
+00:22:52,643 --> 00:22:54,611
+- Hi.
+You must be Henry's mother.
+
+591
+00:22:54,645 --> 00:22:57,478
+- No, I'm not,
+but this is Henry's dad.
+
+592
+00:22:57,514 --> 00:22:59,175
+Hey, you.
+
+593
+00:22:59,216 --> 00:23:01,343
+I love your costume.
+
+594
+00:23:01,385 --> 00:23:03,512
+- I'm not wearing a costume.
+
+595
+00:23:03,554 --> 00:23:05,784
+- Oh, okay.
+
+596
+00:23:05,823 --> 00:23:07,450
+- I think it's time
+for everyone
+
+597
+00:23:07,491 --> 00:23:11,086
+to play Pin the Nose
+on the Pumpkin, yes.
+
+598
+00:23:11,128 --> 00:23:12,254
+- Yeah!
+
+599
+00:23:12,296 --> 00:23:13,388
+- Oh, hey.
+- Hi.
+
+600
+00:23:13,430 --> 00:23:15,295
+- You know what,
+parents can join too.
+
+601
+00:23:15,332 --> 00:23:16,731
+- Yay!
+
+602
+00:23:16,767 --> 00:23:18,735
+- And welcome.
+- Thank you.
+
+603
+00:23:18,769 --> 00:23:20,737
+- Why don't you take your coat
+off and stay awhile?
+
+604
+00:23:20,771 --> 00:23:22,204
+- I feel a little weird
+that no one else
+
+605
+00:23:22,239 --> 00:23:23,866
+is wearing a costume,
+but okay.
+
+606
+00:23:23,907 --> 00:23:24,874
+- I am.
+- All right.
+
+607
+00:23:24,908 --> 00:23:25,875
+- All right.
+- Let's do it.
+
+608
+00:23:25,909 --> 00:23:27,900
+Okay, here we go.
+Happy Halloween!
+
+609
+00:23:30,247 --> 00:23:31,441
+-<i>We dress ourselves</i>
+<i>In stripes and dots</i>
+
+610
+00:23:31,482 --> 00:23:33,074
+- Sorry I'm late.
+Hey.
+
+611
+00:23:33,117 --> 00:23:34,948
+- Look.
+
+612
+00:23:34,985 --> 00:23:41,151
+- <i>We dress ourselves</i>
+<i>without interference</i>
+
+613
+00:23:41,191 --> 00:23:44,524
+<i>We dress ourselves</i>
+<i>In greens and blues</i>
+
+614
+00:23:44,561 --> 00:23:46,791
+- None of these people
+are your friends, though, right?
+
+615
+00:23:46,830 --> 00:23:48,263
+- No.
+- No.
+
+616
+00:23:48,298 --> 00:23:49,595
+Well, I'm your friend now.
+
+617
+00:23:49,633 --> 00:23:51,658
+- [Chuckles]
+
+618
+00:23:51,702 --> 00:23:52,964
+- Do you see that sign
+over there?
+
+619
+00:23:53,003 --> 00:23:54,334
+- Where?
+
+620
+00:23:54,371 --> 00:23:56,032
+- I know, you can't see it.
+It's right there.
+
+621
+00:23:56,073 --> 00:23:57,438
+- Oh, yeah.
+
+622
+00:23:57,474 --> 00:23:58,805
+- Yeah.
+
+623
+00:23:58,842 --> 00:24:00,673
+Who's it for?
+
+624
+00:24:00,711 --> 00:24:02,338
+Is it for the kids?
+
+625
+00:24:02,379 --> 00:24:03,778
+- They can't read.
+- I know.
+
+626
+00:24:03,814 --> 00:24:05,247
+So it's... -
+it's for the parents,
+
+627
+00:24:05,282 --> 00:24:08,546
+but it's... - it's so high
+that you can't see it.
+
+628
+00:24:08,584 --> 00:24:10,313
+It's a good sign.
+
+629
+00:24:10,353 --> 00:24:12,082
+You should put it
+where you can see it.
+
+630
+00:24:12,121 --> 00:24:13,145
+- Yeah.
+
+631
+00:24:13,189 --> 00:24:15,054
+- That's part of my job.
+
+632
+00:24:15,091 --> 00:24:17,992
+I put signs
+where you can see them.
+
+633
+00:24:18,027 --> 00:24:21,224
+You'd be surprised
+at how hard it is to do.
+
+634
+00:24:23,399 --> 00:24:26,425
+I wish the people in the office
+were as fun as those kids.
+
+635
+00:24:26,469 --> 00:24:27,800
+- They're not so bad.
+
+636
+00:24:27,837 --> 00:24:29,828
+- Oh, come on,
+you hate them.
+
+637
+00:24:31,441 --> 00:24:32,806
+I mean,
+none of you guys are friends
+
+638
+00:24:32,842 --> 00:24:34,104
+outside of the office,
+are you?
+
+639
+00:24:34,143 --> 00:24:35,405
+- Not with me.
+
+640
+00:24:35,445 --> 00:24:37,072
+- That's one of the reasons
+why it's so hard
+
+641
+00:24:37,113 --> 00:24:38,603
+to get any momentum
+on anything.
+
+642
+00:24:38,648 --> 00:24:42,243
+Everything just stops at 5:45.
+
+643
+00:24:42,285 --> 00:24:45,049
+Don't you ever look forward
+to going to work?
+
+644
+00:24:46,589 --> 00:24:49,353
+I'd like to welcome everyone
+to the first annual
+
+645
+00:24:49,392 --> 00:24:53,226
+Wolski's pricing and marketing
+Halloween party, yeah!
+
+646
+00:24:53,262 --> 00:24:55,162
+All: Yeah.
+
+647
+00:24:55,198 --> 00:24:56,631
+- Oh, come on.
+
+648
+00:24:56,666 --> 00:24:59,863
+I had better reception
+at my dad's old age home.
+
+649
+00:24:59,902 --> 00:25:02,632
+I want to welcome everyone
+to the first annual
+
+650
+00:25:02,672 --> 00:25:06,540
+Wolski's pricing and marketing
+Halloween party!
+
+651
+00:25:06,576 --> 00:25:09,568
+[Loud cheering and applause]
+
+652
+00:25:11,013 --> 00:25:13,106
+All right, that's better.
+
+653
+00:25:13,149 --> 00:25:14,741
+I want you all
+to drink and dance
+
+654
+00:25:14,784 --> 00:25:16,775
+and mingle
+and have fun tonight.
+
+655
+00:25:16,819 --> 00:25:20,277
+This is the last fun you're
+gonna have until Christmas,
+
+656
+00:25:20,323 --> 00:25:22,689
+and no one leaves
+until they karaoke.
+
+657
+00:25:22,725 --> 00:25:26,092
+I'm serious.
+
+658
+00:25:26,128 --> 00:25:29,962
+So I'm gonna sing a song
+by one of my favorite bands,
+
+659
+00:25:29,999 --> 00:25:32,763
+Luna, and also
+one of Pete's favorite bands.
+
+660
+00:25:32,802 --> 00:25:35,771
+[Upbeat electric guitar music]
+
+661
+00:25:35,805 --> 00:25:37,295
+<i></i>
+
+662
+00:25:37,340 --> 00:25:40,673
+[scattered whooping
+and indistinct conversation]
+
+663
+00:25:40,710 --> 00:25:43,702
+[Laughter]
+
+664
+00:25:44,814 --> 00:25:47,942
+<i> Do I</i>
+
+665
+00:25:47,984 --> 00:25:51,112
+<i> Oh, do I</i>
+
+666
+00:25:51,153 --> 00:25:52,552
+<i> Remain</i>
+
+667
+00:25:52,588 --> 00:25:53,646
+[scattered cheering]
+
+668
+00:25:53,689 --> 00:25:57,625
+<i> In your mind</i>
+
+669
+00:25:57,660 --> 00:26:00,458
+<i> Only</i>
+
+670
+00:26:00,496 --> 00:26:04,762
+<i> To poison the love</i>
+
+671
+00:26:04,800 --> 00:26:06,427
+[cheering]
+
+672
+00:26:06,469 --> 00:26:09,768
+<i> That we find</i>
+
+673
+00:26:09,805 --> 00:26:13,104
+<i> Desires have misplaced,
+our wishes are washes </i><i></i>
+
+674
+00:26:13,142 --> 00:26:16,168
+<i> The air is filled
+with vibrations </i><i></i>
+
+675
+00:26:16,212 --> 00:26:18,874
+<i> I'm crying for you,
+you're crying for me </i><i></i>
+
+676
+00:26:18,915 --> 00:26:22,282
+<i> From station to station
+to station </i><i></i>
+
+677
+00:26:22,318 --> 00:26:24,684
+- <i> Holding each other
+tighter </i><i></i>
+
+678
+00:26:24,720 --> 00:26:27,814
+<i> The sky goes by, dear</i>
+
+679
+00:26:27,857 --> 00:26:29,290
+<i> Cries in the streets</i>
+
+680
+00:26:29,325 --> 00:26:33,455
+<i> I am the meat
+in your heart </i><i></i>
+
+681
+00:26:33,496 --> 00:26:35,657
+<i> Open your sandwich to me</i>
+
+682
+00:26:35,698 --> 00:26:37,097
+[cheering]
+
+683
+00:26:37,133 --> 00:26:38,191
+<i> Open it up</i>
+
+684
+00:26:38,234 --> 00:26:40,225
+Thank you.
+
+685
+00:26:41,637 --> 00:26:42,604
+- Nice song, Matt.
+
+686
+00:26:42,638 --> 00:26:43,605
+- Oh, Pete.
+
+687
+00:26:43,639 --> 00:26:44,799
+- Huh?
+
+688
+00:26:44,840 --> 00:26:48,139
+- Hey, I heard
+about what you said to Susan,
+
+689
+00:26:48,177 --> 00:26:50,111
+about how you
+wanted me fired, and... -
+
+690
+00:26:50,146 --> 00:26:51,408
+- I didn't... -
+- No, no.
+
+691
+00:26:51,447 --> 00:26:53,642
+I want to say this.
+
+692
+00:26:53,683 --> 00:26:55,776
+Fuck you,
+you two-faced prick.
+
+693
+00:26:55,818 --> 00:26:56,978
+I thought you were a cool guy.
+
+694
+00:26:57,019 --> 00:26:58,987
+But no,
+you're just another asshole.
+
+695
+00:26:59,021 --> 00:27:00,818
+Don't talk to me.
+
+696
+00:27:00,856 --> 00:27:02,687
+Dick.
+
+697
+00:27:06,028 --> 00:27:07,495
+- Hey.
+- Hey.
+
+698
+00:27:07,530 --> 00:27:09,430
+- You all right?
+
+699
+00:27:09,465 --> 00:27:10,864
+- Peachy, yeah.
+
+700
+00:27:10,900 --> 00:27:12,492
+- What's eating you?
+
+701
+00:27:12,535 --> 00:27:14,935
+- Happy Halloween.
+- Hi.
+
+702
+00:27:14,971 --> 00:27:15,995
+- [Laughs]
+
+703
+00:27:16,038 --> 00:27:17,266
+I got us some shots!
+
+704
+00:27:17,306 --> 00:27:19,206
+- Whoo-ooh!
+
+705
+00:27:19,241 --> 00:27:22,699
+- Oh, yeah, shots.
+
+706
+00:27:22,745 --> 00:27:24,508
+- <i>I heard it on the radio,</i>
+<i>and it's about time</i>
+
+707
+00:27:24,547 --> 00:27:25,673
+<i>To play something like...</i>
+
+708
+00:27:25,715 --> 00:27:26,841
+- Bet you wouldn't mind
+
+709
+00:27:26,882 --> 00:27:28,406
+getting in the middle
+of those two, huh?
+
+710
+00:27:28,451 --> 00:27:30,009
+- Yeah, right.
+
+711
+00:27:30,052 --> 00:27:31,849
+- Wish me luck, buddy.
+I'm going in.
+
+712
+00:27:31,887 --> 00:27:33,047
+- Go and get 'em.
+
+713
+00:27:33,089 --> 00:27:34,681
+- <i>When I felt</i>
+<i>that I needed to pump</i>
+
+714
+00:27:34,724 --> 00:27:37,921
+<i>It's on the radio,</i>
+<i>on the radio, on the radio</i>
+
+715
+00:27:37,960 --> 00:27:39,928
+<i>And it sounded</i>
+<i>a little something like this</i>
+
+716
+00:27:39,962 --> 00:27:41,054
+- Oh, my God.
+
+717
+00:27:41,097 --> 00:27:43,065
+She's high-energy.
+- Yeah, she is.
+
+718
+00:27:43,099 --> 00:27:45,226
+- Oh, we're gonna go
+to the city this weekend, okay?
+
+719
+00:27:45,267 --> 00:27:46,734
+- Who?
+- Susan and I.
+
+720
+00:27:46,769 --> 00:27:48,327
+We're gonna take Henry
+to the Met.
+
+721
+00:27:48,371 --> 00:27:50,339
+- Oh, good, yeah,
+I have work to do this weekend.
+
+722
+00:27:50,373 --> 00:27:51,397
+- Perfect.
+
+723
+00:27:51,440 --> 00:27:55,536
+- <i> And crown thy good with</i>
+
+724
+00:27:55,578 --> 00:27:56,567
+Brotherhood.
+
+725
+00:27:56,612 --> 00:27:57,601
+- Yeah.
+
+726
+00:27:57,647 --> 00:28:01,515
+- <i> From sea to shining sea</i>
+
+727
+00:28:01,550 --> 00:28:02,949
+[laughs]
+
+728
+00:28:02,985 --> 00:28:04,816
+<i> Oh, beautiful...</i>
+
+729
+00:28:04,854 --> 00:28:06,082
+- Good night, ladies.
+
+730
+00:28:06,122 --> 00:28:07,384
+- Bye.
+- It was so nice to meet you.
+
+731
+00:28:07,423 --> 00:28:08,947
+- Nice to meet you.
+- Get home safe, okay?
+
+732
+00:28:08,991 --> 00:28:11,585
+- Hey, do you know
+where Susan is?
+
+733
+00:28:11,627 --> 00:28:12,855
+- No.
+
+734
+00:28:12,895 --> 00:28:14,419
+- I really wanted
+to say good-bye.
+
+735
+00:28:14,463 --> 00:28:16,192
+- Come on, it's okay.
+
+736
+00:28:16,232 --> 00:28:17,563
+- I'll be fine.
+
+737
+00:28:17,600 --> 00:28:19,591
+- What is she, like, a witch?
+
+738
+00:28:19,635 --> 00:28:22,604
+- [Moaning loudly]
+
+739
+00:28:22,638 --> 00:28:25,630
+[Both moaning
+and shouting]
+
+740
+00:28:32,181 --> 00:28:34,649
+- Todd Kenner from Intellichoice
+is coming tomorrow.
+
+741
+00:28:34,684 --> 00:28:36,083
+We don't get a lot of time
+with him,
+
+742
+00:28:36,118 --> 00:28:38,951
+so I want everyone
+on top of their game.
+
+743
+00:28:38,988 --> 00:28:40,819
+Okay?
+
+744
+00:28:40,856 --> 00:28:42,881
+Uh, Pete, do you
+have the latest planograms?
+
+745
+00:28:42,925 --> 00:28:44,449
+- I do.
+They're right here.
+
+746
+00:28:44,493 --> 00:28:46,393
+- Oh, don't forget
+to check the vendor contracts.
+
+747
+00:28:46,429 --> 00:28:48,056
+If you need help with a vendor,
+let me know.
+
+748
+00:28:48,097 --> 00:28:49,086
+I know how to talk to them.
+
+749
+00:28:49,131 --> 00:28:50,120
+- Okay.
+
+750
+00:28:50,166 --> 00:28:52,134
+- Dave, are the new computers
+up yet?
+
+751
+00:28:52,168 --> 00:28:54,329
+- They're all up.
+I'm still fixing the network.
+
+752
+00:28:54,370 --> 00:28:56,497
+- Oh, wow, Dave.
+
+753
+00:28:56,539 --> 00:28:58,063
+I didn't know
+you had it in you.
+
+754
+00:28:58,107 --> 00:29:00,302
+Big applause.
+
+755
+00:29:00,342 --> 00:29:01,673
+Come on.
+
+756
+00:29:01,711 --> 00:29:02,837
+[Applause]
+
+757
+00:29:02,878 --> 00:29:05,142
+Doug,
+I want to see a rough layout
+
+758
+00:29:05,181 --> 00:29:06,671
+for the store manager
+presentation.
+
+759
+00:29:06,716 --> 00:29:08,343
+You can use some
+of the old stuff for now,
+
+760
+00:29:08,384 --> 00:29:10,443
+but I want to see a new look.
+
+761
+00:29:10,486 --> 00:29:13,250
+The old stuff
+looked like homework.
+
+762
+00:29:13,289 --> 00:29:16,554
+I want it to look like
+a magazine,
+
+763
+00:29:16,592 --> 00:29:18,822
+emphasis on profit.
+
+764
+00:29:18,861 --> 00:29:20,795
+Understand?
+
+765
+00:29:20,830 --> 00:29:23,025
+- Whatever you say,
+Susie Q.
+
+766
+00:29:24,967 --> 00:29:27,265
+- What did you call me?
+
+767
+00:29:27,303 --> 00:29:28,395
+- What?
+
+768
+00:29:28,437 --> 00:29:30,233
+Nothing.
+
+769
+00:29:30,271 --> 00:29:32,364
+- Yes, you did.
+
+770
+00:29:32,407 --> 00:29:34,534
+What did you call me?
+
+771
+00:29:34,576 --> 00:29:37,374
+- Susie Q.
+
+772
+00:29:37,412 --> 00:29:38,902
+I didn't mean anything.
+
+773
+00:29:40,648 --> 00:29:42,616
+- [Softly]
+No.
+
+774
+00:29:42,650 --> 00:29:45,278
+I...
+
+775
+00:29:45,320 --> 00:29:47,948
+I think it's nice.
+
+776
+00:29:47,989 --> 00:29:51,755
+I think everyone
+should have nicknames.
+
+777
+00:29:51,793 --> 00:29:53,624
+It's a great idea.
+
+778
+00:29:55,263 --> 00:29:58,130
+From now on,
+yours is Assface.
+
+779
+00:29:58,166 --> 00:30:01,294
+So let's get those layouts done,
+Assface.
+
+780
+00:30:02,604 --> 00:30:04,128
+- All right.
+
+781
+00:30:04,172 --> 00:30:06,197
+- "All right, Susie Q."
+
+782
+00:30:06,241 --> 00:30:08,971
+Right, Assface?
+
+783
+00:30:09,010 --> 00:30:11,478
+- Right, Susie Q.
+
+784
+00:30:11,513 --> 00:30:13,071
+- Thanks, Assface.
+
+785
+00:30:13,114 --> 00:30:14,138
+Oh, one more thing.
+
+786
+00:30:14,182 --> 00:30:15,843
+I negotiated a 30% discount
+
+787
+00:30:15,884 --> 00:30:17,181
+at the gym
+across the street.
+
+788
+00:30:17,218 --> 00:30:20,779
+Our HMO
+offers an additional 60%.
+
+789
+00:30:20,822 --> 00:30:22,790
+That leaves you
+with only $10 a month to pay.
+
+790
+00:30:22,824 --> 00:30:24,257
+See Donna for the paperwork.
+
+791
+00:30:24,292 --> 00:30:26,123
+I expect
+to see some of you there.
+
+792
+00:30:29,731 --> 00:30:31,198
+Thanks.
+This was a great meeting.
+
+793
+00:30:31,232 --> 00:30:32,529
+Thanks, guys.
+
+794
+00:30:33,735 --> 00:30:35,566
+- Right, right.
+
+795
+00:30:39,641 --> 00:30:42,405
+- Weren't you
+a little hard on Doug?
+
+796
+00:30:42,443 --> 00:30:43,910
+- Who?
+
+797
+00:30:43,945 --> 00:30:45,640
+- Assface.
+- No.
+
+798
+00:30:45,680 --> 00:30:48,740
+What's he thinking,
+calling me Susie Q?
+
+799
+00:30:48,783 --> 00:30:51,911
+He didn't give your old boss
+any cute nicknames, did he?
+
+800
+00:30:51,953 --> 00:30:52,977
+- But you guys, you... -
+
+801
+00:30:53,021 --> 00:30:54,113
+- Drop it.
+
+802
+00:31:06,634 --> 00:31:08,761
+- Did you go
+to the volvo dealership?
+
+803
+00:31:08,803 --> 00:31:12,432
+- Yeah,
+I went for a test-drive.
+
+804
+00:31:12,473 --> 00:31:13,667
+We need a new car.
+
+805
+00:31:13,708 --> 00:31:14,697
+Ours keeps breaking down.
+
+806
+00:31:14,742 --> 00:31:16,141
+And besides,
+I feel like such a loser
+
+807
+00:31:16,177 --> 00:31:18,077
+when I drop Henry off
+in my crappy car.
+
+808
+00:31:18,112 --> 00:31:19,739
+- I thought you hate
+all the moms at school
+
+809
+00:31:19,781 --> 00:31:21,442
+with their 4x4s.
+
+810
+00:31:21,482 --> 00:31:24,781
+- I do,
+but volvos are different.
+
+811
+00:31:24,819 --> 00:31:26,286
+- Well, it's a hefty sum.
+
+812
+00:31:26,321 --> 00:31:27,754
+- Yeah, but look at... -
+for the lease.
+
+813
+00:31:27,789 --> 00:31:29,188
+- Well, that's what
+I'm looking at.
+
+814
+00:31:29,224 --> 00:31:31,658
+I thought
+we'd pay off our mortgage.
+
+815
+00:31:31,693 --> 00:31:33,627
+- It was just an idea.
+
+816
+00:31:33,661 --> 00:31:35,629
+It's so nice
+not to have to worry
+
+817
+00:31:35,663 --> 00:31:37,790
+about money so much.
+
+818
+00:31:37,832 --> 00:31:39,629
+- We have to pay off
+our credit cards.
+
+819
+00:31:39,667 --> 00:31:40,793
+- Uh-uh.
+
+820
+00:31:40,835 --> 00:31:42,700
+I refinanced them.
+
+821
+00:31:42,737 --> 00:31:44,364
+Because
+of your new income level,
+
+822
+00:31:44,405 --> 00:31:46,202
+we qualify
+for a no-fee account,
+
+823
+00:31:46,241 --> 00:31:48,038
+so I got us a new card,
+
+824
+00:31:48,076 --> 00:31:50,738
+and I transferred
+all the old ones onto that one,
+
+825
+00:31:50,778 --> 00:31:53,770
+and we get 0%
+for three months.
+
+826
+00:31:55,416 --> 00:31:57,976
+- I'm gonna set my alarm
+for 4:30.
+
+827
+00:31:58,019 --> 00:32:00,146
+I have so much work to do,
+it's not even funny.
+
+828
+00:32:00,188 --> 00:32:01,985
+- So I guess
+
+829
+00:32:02,023 --> 00:32:04,321
+you don't want to get
+all tired out.
+
+830
+00:32:04,359 --> 00:32:06,691
+- Mm-mm, I got to read
+all this stuff.
+
+831
+00:32:09,530 --> 00:32:11,828
+- I stopped taking the pill.
+
+832
+00:32:11,866 --> 00:32:15,233
+What do you think?
+
+833
+00:32:15,270 --> 00:32:17,898
+- I think I don't have much say
+in the matter.
+
+834
+00:32:17,939 --> 00:32:19,668
+- [Chuckles]
+
+835
+00:32:19,707 --> 00:32:21,299
+Don't blame me later.
+
+836
+00:32:21,342 --> 00:32:22,969
+- [Chuckles]
+
+837
+00:32:23,011 --> 00:32:25,343
+Mm.
+
+838
+00:32:27,682 --> 00:32:29,343
+- Mommy!
+
+839
+00:32:30,952 --> 00:32:33,250
+- Oh, what's wrong, buddy?
+
+840
+00:32:33,288 --> 00:32:34,983
+- This is hot.
+
+841
+00:32:35,023 --> 00:32:37,184
+- Do you have a fever?
+
+842
+00:32:37,225 --> 00:32:38,852
+- [Grunts]
+
+843
+00:32:38,893 --> 00:32:39,985
+- I'm sorry, buddy.
+
+844
+00:32:40,028 --> 00:32:41,325
+I'm gonna go get you
+some Tylenol.
+
+845
+00:32:41,362 --> 00:32:43,057
+I'll be right back.
+
+846
+00:32:49,237 --> 00:32:51,535
+- Hi.
+- Hi.
+
+847
+00:32:51,572 --> 00:32:54,370
+- Oh, are those anthuriums?
+
+848
+00:32:54,409 --> 00:32:55,876
+- Uh...
+
+849
+00:32:59,180 --> 00:33:00,943
+Yeah.
+
+850
+00:33:00,982 --> 00:33:02,506
+- Todd, hi.
+
+851
+00:33:02,550 --> 00:33:03,608
+Pete Cozy.
+
+852
+00:33:03,651 --> 00:33:04,811
+- Pete, face to name.
+
+853
+00:33:04,852 --> 00:33:06,581
+- Can I get you a coffee?
+
+854
+00:33:06,621 --> 00:33:08,919
+- No, I'm set, thanks.
+- Great.
+
+855
+00:33:08,957 --> 00:33:10,424
+- This place is great.
+
+856
+00:33:10,458 --> 00:33:13,393
+You guy are doing a great job
+keeping a low profile.
+
+857
+00:33:13,428 --> 00:33:15,555
+- Yeah.
+Thanks.
+
+858
+00:33:15,596 --> 00:33:17,791
+- I'd like to check out
+the computers before we start.
+
+859
+00:33:17,832 --> 00:33:19,299
+- Okay,
+I set you up in my office.
+
+860
+00:33:19,334 --> 00:33:20,631
+Please.
+- Great.
+
+861
+00:33:20,668 --> 00:33:22,158
+Here's a hard copy
+of my itinerary.
+
+862
+00:33:22,203 --> 00:33:23,329
+It's gonna be tight,
+
+863
+00:33:23,371 --> 00:33:24,861
+but I've got
+a 3:30 flight tomorrow
+
+864
+00:33:24,906 --> 00:33:26,305
+that I've got to catch.
+
+865
+00:33:26,341 --> 00:33:28,741
+I'm speaking at UCLA,
+and then I'm off to Japan.
+
+866
+00:33:28,776 --> 00:33:30,300
+And if I don't fit in
+some family time,
+
+867
+00:33:30,345 --> 00:33:31,903
+my wife will kill me,
+you know what I mean?
+
+868
+00:33:31,946 --> 00:33:33,004
+- Yeah.
+
+869
+00:33:33,047 --> 00:33:34,878
+I was up all night
+with a sick kid.
+
+870
+00:33:34,916 --> 00:33:36,042
+- Oh, I know what it's like.
+
+871
+00:33:36,084 --> 00:33:38,314
+Last year,
+I took my kids down the Amazon.
+
+872
+00:33:38,353 --> 00:33:39,820
+One of 'em came back
+with a tapeworm.
+
+873
+00:33:39,854 --> 00:33:41,321
+I didn't sleep for a week.
+
+874
+00:33:41,356 --> 00:33:45,156
+This is perfect.
+
+875
+00:33:45,193 --> 00:33:46,660
+I think
+you're gonna be very excited
+
+876
+00:33:46,694 --> 00:33:47,991
+with what we've put together.
+
+877
+00:33:49,464 --> 00:33:51,898
+Slater's was trying to compete
+against the superstores
+
+878
+00:33:51,933 --> 00:33:53,457
+using EDLP modeling.
+
+879
+00:33:53,501 --> 00:33:55,799
+And of course,
+you can't compete with that.
+
+880
+00:33:55,837 --> 00:33:57,634
+It's the same with Wolski's.
+
+881
+00:33:57,672 --> 00:33:59,640
+You can't beat them on price
+every time
+
+882
+00:33:59,674 --> 00:34:01,574
+or go chasing
+their specials pricing.
+
+883
+00:34:01,609 --> 00:34:04,578
+Wolski's needs something new
+to compete.
+
+884
+00:34:04,612 --> 00:34:08,048
+What we're proposing
+is predictive analysis
+
+885
+00:34:08,082 --> 00:34:09,811
+at a level unheard of
+in this industry.
+
+886
+00:34:09,851 --> 00:34:11,546
+- This is what we were pushing
+at Slater's,
+
+887
+00:34:11,586 --> 00:34:12,780
+but they just wouldn't listen.
+
+888
+00:34:12,820 --> 00:34:14,117
+- Well, to be fair,
+this industry
+
+889
+00:34:14,155 --> 00:34:16,783
+seems particularly slow
+to adapt to new trends,
+
+890
+00:34:16,824 --> 00:34:18,314
+but there
+are big opportunities here.
+
+891
+00:34:18,359 --> 00:34:19,656
+Susan wanted big ideas.
+
+892
+00:34:19,694 --> 00:34:21,321
+- All right,
+just so I can find some way
+
+893
+00:34:21,362 --> 00:34:23,125
+to translate all of this:
+
+894
+00:34:23,164 --> 00:34:25,462
+What we're seeing is,
+we're better off
+
+895
+00:34:25,500 --> 00:34:27,468
+choosing select products
+for big discounts
+
+896
+00:34:27,502 --> 00:34:28,901
+rather than
+the hybrid incentives
+
+897
+00:34:28,936 --> 00:34:29,925
+we're using right now.
+
+898
+00:34:29,971 --> 00:34:31,700
+- Correct.
+
+899
+00:34:31,739 --> 00:34:34,333
+And the key
+is which products we select.
+
+900
+00:34:34,375 --> 00:34:36,002
+We're not just
+selling the product.
+
+901
+00:34:36,044 --> 00:34:38,342
+We are selling our image.
+
+902
+00:34:38,379 --> 00:34:40,904
+Each featured product
+will announce to the customer
+
+903
+00:34:40,948 --> 00:34:43,883
+who we are,
+what makes us special,
+
+904
+00:34:43,918 --> 00:34:46,910
+not just the product
+but the kind of products.
+
+905
+00:34:46,954 --> 00:34:49,514
+We're not offering
+special prices.
+
+906
+00:34:49,557 --> 00:34:52,252
+We are offering...
+
+907
+00:34:52,292 --> 00:34:55,557
+specialness.
+
+908
+00:34:55,595 --> 00:34:57,028
+- What about
+our other competitors?
+
+909
+00:34:57,064 --> 00:34:59,032
+Did you get a chance
+to review their strategies?
+
+910
+00:34:59,066 --> 00:35:00,363
+- Well, as far as we can tell,
+
+911
+00:35:00,400 --> 00:35:02,459
+none of the other shops
+are doing anything like this.
+
+912
+00:35:02,502 --> 00:35:04,129
+It's very exciting.
+- [Laughs]
+
+913
+00:35:04,171 --> 00:35:05,468
+- But there's a big qualifier.
+
+914
+00:35:05,505 --> 00:35:07,200
+It's all comes down
+to implementation.
+
+915
+00:35:07,240 --> 00:35:08,673
+If you could
+put all these strategies
+
+916
+00:35:08,708 --> 00:35:09,834
+into your stores tomorrow,
+
+917
+00:35:09,876 --> 00:35:11,309
+we'd be two years
+ahead of everybody,
+
+918
+00:35:11,344 --> 00:35:13,039
+but realistically,
+I know how long it takes
+
+919
+00:35:13,080 --> 00:35:15,173
+to work these things
+through the chain.
+
+920
+00:35:15,215 --> 00:35:17,240
+Once the strategies
+start to go into your stores,
+
+921
+00:35:17,284 --> 00:35:18,683
+your competitors
+are gonna notice.
+
+922
+00:35:18,718 --> 00:35:21,152
+- So after two years,
+there's almost no advantage.
+
+923
+00:35:21,188 --> 00:35:24,123
+- There's a declining function.
+
+924
+00:35:24,157 --> 00:35:27,058
+But when these strategies
+go into your stores,
+
+925
+00:35:27,094 --> 00:35:29,494
+your market share
+will grow 8% to 10%
+
+926
+00:35:29,529 --> 00:35:30,518
+within three months.
+
+927
+00:35:30,564 --> 00:35:32,623
+- 8% to 10%?
+- Wow.
+
+928
+00:35:32,666 --> 00:35:35,464
+- After time,
+these numbers decline steeply.
+
+929
+00:35:35,502 --> 00:35:38,232
+Stealing ideas is what passes
+for R&D in this business.
+
+930
+00:35:38,271 --> 00:35:41,104
+- So has ACS spoken
+to the vendors about all this?
+
+931
+00:35:41,141 --> 00:35:42,506
+- Pete, shh.
+
+932
+00:35:42,542 --> 00:35:43,531
+- I'm sorry.
+
+933
+00:35:43,577 --> 00:35:45,238
+I thought ACS was behind you
+on this.
+
+934
+00:35:47,114 --> 00:35:48,911
+- It's complicated.
+
+935
+00:35:48,949 --> 00:35:51,042
+- You're so happy
+to go to work these days.
+
+936
+00:35:51,084 --> 00:35:52,073
+- I know.
+I just... -
+
+937
+00:35:52,119 --> 00:35:53,780
+I feel better about it now,
+
+938
+00:35:53,820 --> 00:35:56,789
+like what I'm doing
+might actually have some value.
+
+939
+00:35:56,823 --> 00:35:58,791
+- Pricing groceries?
+
+940
+00:35:58,825 --> 00:36:01,293
+- I joined the gym
+near the office,
+
+941
+00:36:01,328 --> 00:36:03,091
+thought I'd start going
+during lunch.
+
+942
+00:36:03,130 --> 00:36:04,461
+Got you a membership too.
+
+943
+00:36:04,498 --> 00:36:05,522
+- [Scoffs]
+
+944
+00:36:05,565 --> 00:36:07,294
+I'm getting fat, huh?
+
+945
+00:36:07,334 --> 00:36:09,097
+- No.
+It was only 10 bucks.
+
+946
+00:36:09,136 --> 00:36:10,933
+- When am I gonna have a chance
+to go to the gym?
+
+947
+00:36:10,971 --> 00:36:11,995
+- You just got to make time.
+
+948
+00:36:12,038 --> 00:36:14,165
+Susan goes
+at 5:00 in the morning.
+
+949
+00:36:14,207 --> 00:36:16,266
+- Susan doesn't have kids.
+
+950
+00:36:16,309 --> 00:36:17,936
+- You're kidding me!
+
+951
+00:36:17,978 --> 00:36:19,741
+That Cartwright!
+
+952
+00:36:19,779 --> 00:36:22,247
+Jesus Christ!
+
+953
+00:36:22,282 --> 00:36:24,307
+Pete Cozy!
+
+954
+00:36:24,351 --> 00:36:26,114
+Jesus Christ!
+
+955
+00:36:26,153 --> 00:36:27,848
+Someone from ACS
+got wind that we were using
+
+956
+00:36:27,888 --> 00:36:29,583
+Slater's strategies
+from Intellichoice.
+
+957
+00:36:29,623 --> 00:36:32,091
+I don't know how, but now
+they want to sideline us.
+
+958
+00:36:32,125 --> 00:36:33,990
+They want us to try out
+our strategies
+
+959
+00:36:34,027 --> 00:36:36,962
+at one of their stores
+and see how they fly.
+
+960
+00:36:36,997 --> 00:36:38,828
+- Isn't that normal,
+to see how things work out?
+
+961
+00:36:38,865 --> 00:36:40,492
+- Fuck that!
+
+962
+00:36:40,534 --> 00:36:43,002
+No, I'm not gonna sit around
+and let Stop & Shop
+
+963
+00:36:43,036 --> 00:36:44,833
+decide if our experiment
+works for them.
+
+964
+00:36:44,871 --> 00:36:47,362
+What's the fucking point
+of that?
+
+965
+00:36:47,407 --> 00:36:50,205
+Take what we have, go home,
+and pack a bag.
+
+966
+00:36:50,243 --> 00:36:51,437
+[Sighs]
+
+967
+00:36:51,478 --> 00:36:53,036
+We'll figure something out
+on the plane.
+
+968
+00:36:53,079 --> 00:36:54,068
+Donna?
+
+969
+00:36:54,114 --> 00:36:55,308
+Bennington will get this.
+
+970
+00:36:55,348 --> 00:36:56,474
+- Bennington, the CEO?
+
+971
+00:36:56,516 --> 00:36:58,006
+- Yeah, who else?
+
+972
+00:36:58,051 --> 00:37:00,178
+- Where is that suit,
+the one I wore to Jim's wedding?
+
+973
+00:37:00,220 --> 00:37:02,211
+- I don't think
+it's gonna fit you.
+
+974
+00:37:02,255 --> 00:37:04,655
+- Can you just help me
+find it?
+
+975
+00:37:04,691 --> 00:37:06,716
+- How come your old boss
+never took you to L. A?
+
+976
+00:37:06,760 --> 00:37:08,660
+- I don't know.
+I wasn't a vP then, I guess.
+
+977
+00:37:08,695 --> 00:37:10,686
+[Plane engine whooshing]
+
+978
+00:37:10,730 --> 00:37:13,699
+[Upbeat music]
+
+979
+00:37:13,733 --> 00:37:18,796
+<i></i>
+
+980
+00:37:18,838 --> 00:37:20,203
+- [sighs]
+
+981
+00:37:20,240 --> 00:37:23,403
+I mean, 8% to 10%,
+how can they say no to that?
+
+982
+00:37:23,443 --> 00:37:25,070
+The problem is,
+these supermarket guys
+
+983
+00:37:25,111 --> 00:37:26,271
+are all Luddites.
+
+984
+00:37:26,313 --> 00:37:28,076
+They all grew up
+in the supermarket business.
+
+985
+00:37:28,114 --> 00:37:29,411
+I know who's blocking us too.
+
+986
+00:37:29,449 --> 00:37:30,507
+It's Cartwright.
+
+987
+00:37:30,550 --> 00:37:31,710
+- Who's he?
+
+988
+00:37:31,751 --> 00:37:33,275
+- CFO,
+best friends with D'asarlo,
+
+989
+00:37:33,320 --> 00:37:34,719
+my boss at Slater's.
+
+990
+00:37:34,754 --> 00:37:36,949
+They used to give each other
+hand jobs at the country club
+
+991
+00:37:36,990 --> 00:37:39,754
+while I was trying
+to turn around their company.
+
+992
+00:37:39,793 --> 00:37:41,283
+Assholes.
+
+993
+00:37:43,563 --> 00:37:46,555
+[Engine revving]
+
+994
+00:37:55,542 --> 00:37:57,533
+[Elevator bell dings]
+
+995
+00:38:04,517 --> 00:38:05,916
+- Morning.
+
+996
+00:38:05,952 --> 00:38:09,012
+- Is that the only suit
+you brought?
+
+997
+00:38:09,055 --> 00:38:10,113
+- Yes.
+
+998
+00:38:10,156 --> 00:38:11,646
+- Oh, my God.
+
+999
+00:38:13,393 --> 00:38:14,485
+Donna?
+
+1000
+00:38:14,527 --> 00:38:15,960
+Uh, call Brioni
+in Beverly Hills
+
+1001
+00:38:15,996 --> 00:38:17,987
+and see what time
+they open.
+
+1002
+00:38:18,031 --> 00:38:20,295
+And try Bernini too.
+
+1003
+00:38:20,333 --> 00:38:21,391
+10:00?
+
+1004
+00:38:21,434 --> 00:38:22,799
+What about Brooks Brothers?
+
+1005
+00:38:22,836 --> 00:38:23,894
+I don't know.
+
+1006
+00:38:23,937 --> 00:38:25,370
+Fuck!
+
+1007
+00:38:25,405 --> 00:38:28,397
+[Plane engine whooshing]
+
+1008
+00:38:32,279 --> 00:38:33,678
+Where'd you get that suit,
+anyway?
+
+1009
+00:38:33,713 --> 00:38:35,237
+Did you think
+we were going to a wedding?
+
+1010
+00:38:35,282 --> 00:38:37,910
+- It's the only one I have.
+
+1011
+00:38:37,951 --> 00:38:39,578
+- I don't know about you.
+
+1012
+00:38:39,619 --> 00:38:41,348
+Just...
+
+1013
+00:38:41,388 --> 00:38:43,686
+- [sighs]
+
+1014
+00:38:43,723 --> 00:38:46,749
+- Stand behind a planter
+or something.
+
+1015
+00:38:46,793 --> 00:38:49,284
+- He'll see you now,
+Miss Felders.
+
+1016
+00:38:52,766 --> 00:38:55,496
+- You understood that we were
+gonna try this out gradually.
+
+1017
+00:38:55,535 --> 00:38:57,799
+- You gave me the authority
+to do this.
+
+1018
+00:38:57,837 --> 00:38:59,304
+- I know,
+but it's complicated.
+
+1019
+00:38:59,339 --> 00:39:00,465
+Maybe I can get the board
+
+1020
+00:39:00,507 --> 00:39:02,304
+to put it in
+a couple of more stores.
+
+1021
+00:39:02,342 --> 00:39:03,468
+- No!
+
+1022
+00:39:03,510 --> 00:39:04,738
+You've seen these numbers.
+
+1023
+00:39:04,778 --> 00:39:06,336
+It's all or none.
+
+1024
+00:39:06,379 --> 00:39:08,176
+- Well, now, that's not
+going to happen, Susan.
+
+1025
+00:39:08,214 --> 00:39:09,181
+Be realistic.
+
+1026
+00:39:09,215 --> 00:39:11,308
+- Why did you hire me!
+
+1027
+00:39:11,351 --> 00:39:16,345
+Why did you give me
+this fucking job!
+
+1028
+00:39:16,389 --> 00:39:18,357
+Why did you hire me!
+
+1029
+00:39:18,391 --> 00:39:21,485
+8% to 10% increase in sales!
+
+1030
+00:39:21,528 --> 00:39:22,859
+- Calm down, Susan.
+
+1031
+00:39:22,896 --> 00:39:24,989
+- No.
+I'm not calming down, Jack.
+
+1032
+00:39:25,031 --> 00:39:27,465
+This has to go
+in all our stores,
+
+1033
+00:39:27,500 --> 00:39:29,092
+or I quit.
+
+1034
+00:39:29,135 --> 00:39:30,762
+- This is a major operation.
+L... -
+
+1035
+00:39:30,804 --> 00:39:33,102
+And it doesn't help that
+you're stealing Slater's ideas.
+
+1036
+00:39:33,139 --> 00:39:35,437
+- They threw 'em away.
+
+1037
+00:39:35,475 --> 00:39:38,069
+- I can't do it
+without the board's approval.
+
+1038
+00:39:38,111 --> 00:39:39,840
+- Okay, fine,
+then let's go to the board.
+
+1039
+00:39:39,879 --> 00:39:40,937
+Just let them hear our case.
+
+1040
+00:39:40,980 --> 00:39:42,470
+- Well, at the monthly meeting,
+I'll... -
+
+1041
+00:39:42,515 --> 00:39:44,449
+- When's that?
+- Next month.
+
+1042
+00:39:44,484 --> 00:39:45,610
+- No way.
+
+1043
+00:39:45,652 --> 00:39:47,449
+- I can't just summon the board,
+chop-chop.
+
+1044
+00:39:47,487 --> 00:39:48,977
+- Yes, you can.
+
+1045
+00:39:49,022 --> 00:39:51,252
+When Ralphs made that
+takeover bid last October,
+
+1046
+00:39:51,291 --> 00:39:53,225
+the board met that afternoon.
+
+1047
+00:39:53,259 --> 00:39:55,124
+Come on, Jack.
+
+1048
+00:39:55,161 --> 00:39:56,185
+Work with me on this.
+
+1049
+00:39:56,229 --> 00:39:57,218
+- L... -
+
+1050
+00:39:57,263 --> 00:39:58,321
+- There's no reason to wait.
+
+1051
+00:39:58,365 --> 00:40:00,697
+These strategies
+are time-sensitive.
+
+1052
+00:40:00,734 --> 00:40:02,759
+We're losing money.
+
+1053
+00:40:02,802 --> 00:40:06,499
+8% to 10% increase in sales
+in three months.
+
+1054
+00:40:06,539 --> 00:40:07,904
+- Yeah, if it works.
+
+1055
+00:40:07,941 --> 00:40:09,238
+- Well, we have to do
+something.
+
+1056
+00:40:09,275 --> 00:40:10,640
+What are you gonna do?
+
+1057
+00:40:10,677 --> 00:40:12,838
+Are you gonna go in front
+of the shareholders in October
+
+1058
+00:40:12,879 --> 00:40:14,470
+with Slater's plan of EDLP?
+
+1059
+00:40:14,513 --> 00:40:15,844
+- That's just... -
+
+1060
+00:40:15,881 --> 00:40:18,873
+- And 2% growth rate targets
+that he'll miss again?
+
+1061
+00:40:18,917 --> 00:40:21,647
+Come on, Jack,
+you knew what I was doing.
+
+1062
+00:40:21,687 --> 00:40:24,952
+And I know you want to try this,
+so what's stopping you?
+
+1063
+00:40:26,759 --> 00:40:28,522
+- [Sighs]
+
+1064
+00:40:28,560 --> 00:40:30,926
+All right, I will try
+to get a board meeting together
+
+1065
+00:40:30,963 --> 00:40:31,987
+for tomorrow.
+
+1066
+00:40:32,030 --> 00:40:33,520
+I will help you with this,
+
+1067
+00:40:33,565 --> 00:40:36,329
+but you,
+you have to sell them on this.
+
+1068
+00:40:36,368 --> 00:40:37,392
+- Yes.
+
+1069
+00:40:37,436 --> 00:40:38,960
+- Yes?
+
+1070
+00:40:39,004 --> 00:40:40,335
+- Thank you.
+
+1071
+00:40:47,079 --> 00:40:48,546
+We have to get you
+another suit.
+
+1072
+00:40:48,580 --> 00:40:50,241
+You cannot go to the board
+in that.
+
+1073
+00:40:52,217 --> 00:40:54,048
+And a haircut.
+
+1074
+00:40:54,086 --> 00:40:55,178
+- So what do you think?
+
+1075
+00:40:55,220 --> 00:40:56,380
+- It's fucking great.
+
+1076
+00:40:56,422 --> 00:40:57,548
+Here, try these on.
+
+1077
+00:40:57,589 --> 00:40:58,817
+- It's $5,000.
+
+1078
+00:40:58,857 --> 00:41:00,347
+- Yeah,
+lucky you got a raise, huh?
+
+1079
+00:41:00,392 --> 00:41:02,360
+- We can have the alterations
+done this afternoon.
+
+1080
+00:41:02,394 --> 00:41:04,362
+- $6,000?
+
+1081
+00:41:04,396 --> 00:41:07,331
+- Almost $7,000,
+and $300 for a haircut.
+
+1082
+00:41:07,366 --> 00:41:08,856
+- [Scoffs]
+
+1083
+00:41:08,901 --> 00:41:10,163
+How's it look?
+
+1084
+00:41:10,202 --> 00:41:12,397
+- I don't know.
+I think it looks a little gay.
+
+1085
+00:41:12,438 --> 00:41:13,496
+[Scoffs]
+
+1086
+00:41:13,539 --> 00:41:15,837
+- [Laughs]
+
+1087
+00:41:15,874 --> 00:41:17,501
+Maybe that's a good thing.
+
+1088
+00:41:17,543 --> 00:41:20,137
+I don't want any girls
+looking at you in L.A.
+
+1089
+00:41:20,179 --> 00:41:21,840
+- Well, you don't have to worry
+about that.
+
+1090
+00:41:21,880 --> 00:41:23,245
+I've been so busy,
+
+1091
+00:41:23,282 --> 00:41:25,910
+I haven't even had time
+to go for a swim in the pool.
+
+1092
+00:41:25,951 --> 00:41:28,112
+- Good luck tomorrow.
+
+1093
+00:41:29,421 --> 00:41:30,752
+- I love you.
+
+1094
+00:41:33,592 --> 00:41:35,753
+[Sighs]
+
+1095
+00:41:38,931 --> 00:41:41,422
+[Upbeat music]
+
+1096
+00:41:41,467 --> 00:41:47,929
+<i>? ?</i>
+
+1097
+00:41:47,973 --> 00:41:49,167
+[sighs]
+
+1098
+00:41:50,976 --> 00:41:53,410
+- This is the difference between
+retiring on a golf course
+
+1099
+00:41:53,445 --> 00:41:56,005
+in the Bahamas
+with your own pool and boat
+
+1100
+00:41:56,048 --> 00:41:58,915
+or, you know, getting bought
+out of a reverse mortgage
+
+1101
+00:41:58,951 --> 00:42:00,646
+because you can't afford
+to pay the doctor
+
+1102
+00:42:00,686 --> 00:42:02,017
+to get your prostate removed.
+
+1103
+00:42:02,054 --> 00:42:04,750
+I'll do most of the talking.
+You sell the numbers.
+
+1104
+00:42:04,790 --> 00:42:07,156
+I make the case.
+You back it up.
+
+1105
+00:42:07,192 --> 00:42:10,161
+- These strategies
+were paid for by Slater's.
+
+1106
+00:42:10,195 --> 00:42:12,493
+They were the property
+of Slater's.
+
+1107
+00:42:12,531 --> 00:42:14,590
+- I thought
+we were all working for ACS.
+
+1108
+00:42:14,633 --> 00:42:16,601
+Slater's is a banner under ACS
+just like Wolski's.
+
+1109
+00:42:16,635 --> 00:42:18,262
+They don't compete
+against each other.
+
+1110
+00:42:18,303 --> 00:42:20,328
+They aren't even
+in the same part of the country.
+
+1111
+00:42:20,372 --> 00:42:22,397
+I mean, what's good for Slater's
+is good for Wolski's
+
+1112
+00:42:22,441 --> 00:42:23,806
+is good for ACS.
+
+1113
+00:42:23,842 --> 00:42:25,810
+- These strategies
+weren't any good for Slater's.
+
+1114
+00:42:25,844 --> 00:42:27,539
+- They may not have been great
+for Slater's,
+
+1115
+00:42:27,579 --> 00:42:28,807
+but Wolski's is losing money,
+
+1116
+00:42:28,847 --> 00:42:30,371
+and we have to do something
+about that.
+
+1117
+00:42:30,415 --> 00:42:32,713
+- I don't understand how
+you could afford Intellichoice
+
+1118
+00:42:32,751 --> 00:42:34,685
+with the consulting budget
+that you have.
+
+1119
+00:42:34,720 --> 00:42:37,211
+- To tell you the truth,
+I had to make some cuts.
+
+1120
+00:42:37,256 --> 00:42:39,952
+- Yes, yes, cuts... -
+Tony Gomes.
+
+1121
+00:42:39,992 --> 00:42:43,120
+12 years at Wolski's, and you... -
+you just threw him away.
+
+1122
+00:42:43,161 --> 00:42:44,321
+- He was slacking.
+
+1123
+00:42:44,363 --> 00:42:45,762
+- Yeah, well,
+that's funny,
+
+1124
+00:42:45,797 --> 00:42:47,731
+'cause I can't find
+a single thing in the reports
+
+1125
+00:42:47,766 --> 00:42:48,926
+saying that he was slacking.
+
+1126
+00:42:48,967 --> 00:42:50,332
+He had seniority.
+
+1127
+00:42:50,369 --> 00:42:53,964
+- He was making three times
+what his peers were making.
+
+1128
+00:42:54,006 --> 00:42:56,566
+Was he worth three times
+one of them?
+
+1129
+00:42:56,608 --> 00:42:57,836
+No.
+
+1130
+00:42:57,876 --> 00:43:01,437
+Intellichoice has given us
+some solid strategies
+
+1131
+00:43:01,480 --> 00:43:04,210
+that we can start putting
+in our stores in January.
+
+1132
+00:43:04,249 --> 00:43:05,477
+- January?
+
+1133
+00:43:05,517 --> 00:43:06,814
+At the managers' convention?
+
+1134
+00:43:06,852 --> 00:43:07,841
+- Exactly.
+
+1135
+00:43:07,886 --> 00:43:09,251
+- In five weeks?
+- Yeah.
+
+1136
+00:43:09,288 --> 00:43:12,280
+- How are you gonna translate
+these statistical models
+
+1137
+00:43:12,324 --> 00:43:15,555
+into strategies
+the managers will understand
+
+1138
+00:43:15,594 --> 00:43:16,925
+in five weeks?
+
+1139
+00:43:16,962 --> 00:43:18,953
+- Well, uh, the statistics... -
+
+1140
+00:43:18,997 --> 00:43:21,989
+- Excuse me, uh, Susan,
+if I may.
+
+1141
+00:43:25,504 --> 00:43:29,964
+First of all, the HP9726,
+the scanning system
+
+1142
+00:43:30,008 --> 00:43:31,771
+we put in all our stores
+last year,
+
+1143
+00:43:31,810 --> 00:43:34,643
+can handle this
+behind the scenes.
+
+1144
+00:43:34,680 --> 00:43:36,511
+- You have to retrain
+the checkout people?
+
+1145
+00:43:36,548 --> 00:43:38,175
+- No, no,
+well, uh, the managers
+
+1146
+00:43:38,216 --> 00:43:39,649
+will need a little bit
+of training,
+
+1147
+00:43:39,685 --> 00:43:41,152
+but that's mostly
+just to understand
+
+1148
+00:43:41,186 --> 00:43:42,278
+why we're doing this.
+
+1149
+00:43:42,321 --> 00:43:43,982
+They already know
+how to do these things.
+
+1150
+00:43:44,022 --> 00:43:46,422
+The rest
+is just shelving strategies
+
+1151
+00:43:46,458 --> 00:43:47,755
+and scanning feedback,
+really.
+
+1152
+00:43:47,793 --> 00:43:49,351
+- On steroids.
+
+1153
+00:43:49,394 --> 00:43:50,986
+- When are we gonna see
+the results from this?
+
+1154
+00:43:51,029 --> 00:43:53,862
+- Intellichoice indicates
+an 8% to 10% increase in sales
+
+1155
+00:43:53,899 --> 00:43:55,093
+in three months.
+
+1156
+00:43:55,133 --> 00:43:57,431
+- Three months!
+
+1157
+00:43:57,469 --> 00:43:59,369
+I mean, the only time
+we see results like that
+
+1158
+00:43:59,404 --> 00:44:01,531
+is when a Walmart opens
+near one of our stores,
+
+1159
+00:44:01,573 --> 00:44:02,904
+and then the results are bad.
+
+1160
+00:44:02,941 --> 00:44:04,408
+- I just don't see
+how you can do it.
+
+1161
+00:44:04,443 --> 00:44:06,741
+No, personally, I mean,
+that department you're running,
+
+1162
+00:44:06,778 --> 00:44:08,075
+it doesn't have the people;
+
+1163
+00:44:08,113 --> 00:44:09,273
+it doesn't have the expertise
+
+1164
+00:44:09,314 --> 00:44:10,872
+to put that kind of plan
+into action.
+
+1165
+00:44:10,916 --> 00:44:12,577
+- The only thing wrong
+with that department
+
+1166
+00:44:12,618 --> 00:44:14,142
+was the leadership
+that it was getting.
+
+1167
+00:44:14,186 --> 00:44:17,212
+- Jim Grady
+was an excellent manager,
+
+1168
+00:44:17,255 --> 00:44:19,450
+and he was a personal friend
+of mine.
+
+1169
+00:44:19,491 --> 00:44:22,585
+- I've been in this business
+my entire life,
+
+1170
+00:44:22,628 --> 00:44:27,656
+and I've never seen a department
+come together like this.
+
+1171
+00:44:27,699 --> 00:44:29,462
+They were just waiting
+for something
+
+1172
+00:44:29,501 --> 00:44:31,025
+to get excited about!
+
+1173
+00:44:31,069 --> 00:44:32,866
+- Okay, Susan, Pete,
+
+1174
+00:44:32,904 --> 00:44:34,269
+we've heard
+what you have to say,
+
+1175
+00:44:34,306 --> 00:44:35,637
+and we'll let you know.
+
+1176
+00:44:39,745 --> 00:44:43,272
+- Mr. Cozy, Mr. Bennington
+would like to see you alone.
+
+1177
+00:44:50,489 --> 00:44:52,354
+- Pete Cozy,
+I wanted to meet you personally
+
+1178
+00:44:52,391 --> 00:44:53,824
+before you
+went back to New York.
+
+1179
+00:44:53,859 --> 00:44:56,327
+Now, I know you're focused
+on this project right now,
+
+1180
+00:44:56,361 --> 00:44:58,989
+but when it's done,
+I'd like to sit down
+
+1181
+00:44:59,031 --> 00:45:01,090
+and have a chat,
+maybe dinner.
+
+1182
+00:45:01,133 --> 00:45:05,467
+Susan says that
+you went to Dartmouth.
+
+1183
+00:45:05,504 --> 00:45:06,630
+I have a daughter at Columbia.
+
+1184
+00:45:06,672 --> 00:45:07,764
+- Oh.
+
+1185
+00:45:07,806 --> 00:45:11,264
+- Education is the most
+important thing in life.
+
+1186
+00:45:11,309 --> 00:45:13,607
+You can have all the experience
+in the world,
+
+1187
+00:45:13,645 --> 00:45:15,613
+but without the foundation
+of an education,
+
+1188
+00:45:15,647 --> 00:45:17,808
+it just doesn't amount
+to much.
+
+1189
+00:45:17,849 --> 00:45:22,115
+- "Genius without education
+is like silver in the mine."
+
+1190
+00:45:22,154 --> 00:45:23,781
+- Indeed.
+
+1191
+00:45:23,822 --> 00:45:25,153
+You're a family man,
+aren't you?
+
+1192
+00:45:25,190 --> 00:45:26,282
+- Yes.
+
+1193
+00:45:26,324 --> 00:45:29,452
+- Happiest years of my life,
+raising my kids.
+
+1194
+00:45:29,494 --> 00:45:31,792
+- Great.
+
+1195
+00:45:31,830 --> 00:45:32,956
+- I've always believed that
+
+1196
+00:45:32,998 --> 00:45:34,625
+if you surround yourself
+with the best people,
+
+1197
+00:45:34,666 --> 00:45:36,429
+they force you to play
+at the top of your game.
+
+1198
+00:45:36,468 --> 00:45:39,061
+But Susan is a piece of work.
+
+1199
+00:45:39,103 --> 00:45:42,038
+She was driving everyone crazy
+at Slater's.
+
+1200
+00:45:42,073 --> 00:45:44,541
+If I approve these strategies
+of yours,
+
+1201
+00:45:44,575 --> 00:45:46,736
+I'm gonna make
+some important people angry.
+
+1202
+00:45:48,145 --> 00:45:49,669
+Can your people
+back in Long Island
+
+1203
+00:45:49,714 --> 00:45:53,912
+really get this done
+in five weeks?
+
+1204
+00:45:53,951 --> 00:45:56,476
+- Susan can get anything done,
+sir.
+
+1205
+00:45:58,089 --> 00:45:59,681
+- I'm asking you.
+
+1206
+00:46:01,358 --> 00:46:02,689
+- Um...
+
+1207
+00:46:03,894 --> 00:46:06,761
+I believe
+we can get it done.
+
+1208
+00:46:10,067 --> 00:46:12,365
+- You're a good man, Pete,
+honest.
+
+1209
+00:46:12,403 --> 00:46:14,371
+I like that.
+
+1210
+00:46:14,405 --> 00:46:16,669
+I'll stay in touch.
+
+1211
+00:46:16,707 --> 00:46:18,538
+Send Miss Felders in.
+
+1212
+00:46:18,576 --> 00:46:20,100
+- [Laughs]
+
+1213
+00:46:20,144 --> 00:46:21,441
+Classic.
+
+1214
+00:46:21,479 --> 00:46:24,277
+- Susan,
+the board was...
+
+1215
+00:46:24,315 --> 00:46:26,215
+mostly willing
+to go along.
+
+1216
+00:46:26,250 --> 00:46:29,083
+Now, you only have five weeks
+to get this set up,
+
+1217
+00:46:29,120 --> 00:46:33,250
+so I guess
+you better keep going.
+
+1218
+00:46:33,290 --> 00:46:35,417
+- No, I think he was talking
+about giving me a job.
+
+1219
+00:46:35,459 --> 00:46:36,653
+- Higher than vice president?
+
+1220
+00:46:36,694 --> 00:46:37,683
+- I don't know.
+
+1221
+00:46:37,728 --> 00:46:38,717
+- President?
+
+1222
+00:46:38,763 --> 00:46:39,730
+- [Chuckles]
+
+1223
+00:46:39,764 --> 00:46:40,788
+[Knock at door]
+
+1224
+00:46:40,831 --> 00:46:42,423
+Oh, Susan's here.
+I got to go.
+
+1225
+00:46:42,466 --> 00:46:43,558
+I love you.
+
+1226
+00:46:43,601 --> 00:46:45,865
+- Love you too.
+
+1227
+00:46:45,903 --> 00:46:47,268
+- Hi.
+
+1228
+00:46:47,304 --> 00:46:48,635
+I'm going out
+with some friends.
+
+1229
+00:46:48,672 --> 00:46:49,866
+Do you want to come?
+
+1230
+00:46:49,907 --> 00:46:51,465
+What did Bennington say
+to you?
+
+1231
+00:46:51,509 --> 00:46:53,636
+- Well, he said that when
+we're done with this project,
+
+1232
+00:46:53,677 --> 00:46:54,803
+he wants to talk to me.
+
+1233
+00:46:54,845 --> 00:46:56,403
+- Yeah, when these strategies
+come out,
+
+1234
+00:46:56,447 --> 00:46:58,506
+the headhunters
+are gonna be all over you.
+
+1235
+00:46:58,549 --> 00:46:59,846
+He wants to get you
+under contract
+
+1236
+00:46:59,884 --> 00:47:00,976
+before that happens.
+
+1237
+00:47:01,018 --> 00:47:03,885
+<i>[upbeat rock music]</i>
+
+1238
+00:47:03,921 --> 00:47:06,890
+Janis, Jake,
+
+1239
+00:47:06,924 --> 00:47:08,858
+this is Pete.
+
+1240
+00:47:08,893 --> 00:47:10,190
+- Hi, I'm Janis.
+
+1241
+00:47:10,227 --> 00:47:12,855
+- He's the only cool guy
+in the office, so be nice.
+
+1242
+00:47:12,897 --> 00:47:15,058
+Hey, honey.
+- Hey.
+
+1243
+00:47:15,099 --> 00:47:17,727
+- You should see this place
+they call Long Island.
+
+1244
+00:47:17,768 --> 00:47:19,668
+It's totally nowheresville.
+
+1245
+00:47:19,703 --> 00:47:20,965
+It's like the valley,
+
+1246
+00:47:21,005 --> 00:47:23,473
+but the people
+are pale and yucky.
+
+1247
+00:47:23,507 --> 00:47:26,533
+The only place to eat
+is Friday's.
+
+1248
+00:47:26,577 --> 00:47:27,942
+The people are so unhealthy.
+
+1249
+00:47:27,978 --> 00:47:29,240
+- So what do you do?
+
+1250
+00:47:29,280 --> 00:47:30,304
+- I'm an artist.
+
+1251
+00:47:30,347 --> 00:47:31,336
+- She runs a website.
+
+1252
+00:47:31,382 --> 00:47:33,782
+- Just to pay the bills.
+
+1253
+00:47:33,818 --> 00:47:35,410
+Did you always work
+in supermarkets?
+
+1254
+00:47:35,452 --> 00:47:37,079
+- Oh, no, no way.
+
+1255
+00:47:37,121 --> 00:47:38,782
+I was working for this guy
+in New York,
+
+1256
+00:47:38,823 --> 00:47:40,450
+running his record label.
+
+1257
+00:47:40,491 --> 00:47:43,722
+That fell apart,
+so I needed another job.
+
+1258
+00:47:43,761 --> 00:47:45,023
+- I know how it is.
+
+1259
+00:47:45,062 --> 00:47:46,859
+- But I'm not planning
+on doing that forever.
+
+1260
+00:47:46,897 --> 00:47:47,955
+- Oh, yeah?
+
+1261
+00:47:47,998 --> 00:47:49,488
+What are you gonna be doing,
+Pete?
+
+1262
+00:47:49,533 --> 00:47:52,229
+- Well, I'd like to try and get
+back into the music business.
+
+1263
+00:47:52,269 --> 00:47:56,501
+- Haven't you noticed
+that the music industry is dead?
+
+1264
+00:47:56,540 --> 00:47:57,632
+- Maybe at an indie label.
+
+1265
+00:47:57,675 --> 00:47:58,767
+- It's dead.
+
+1266
+00:47:58,809 --> 00:48:00,401
+- Okay, it's dead.
+
+1267
+00:48:00,444 --> 00:48:02,002
+- I mean, how are you
+gonna support Henry
+
+1268
+00:48:02,046 --> 00:48:03,035
+running an indie label?
+
+1269
+00:48:03,080 --> 00:48:04,342
+Pete's got the cutest kid.
+
+1270
+00:48:04,381 --> 00:48:06,611
+Show 'em a picture.
+
+1271
+00:48:06,650 --> 00:48:08,743
+- Ah, you don't want to see
+a picture.
+
+1272
+00:48:08,786 --> 00:48:10,651
+- Yeah.
+- Come on, yeah.
+
+1273
+00:48:13,624 --> 00:48:15,182
+- Aww.
+- Look at him.
+
+1274
+00:48:15,226 --> 00:48:16,955
+- Is that your wife?
+
+1275
+00:48:16,994 --> 00:48:18,018
+- Ah, yep.
+
+1276
+00:48:18,062 --> 00:48:19,893
+- She's pretty.
+
+1277
+00:48:19,930 --> 00:48:21,090
+- Oh, shit.
+
+1278
+00:48:21,131 --> 00:48:22,530
+- I heard you were in town.
+
+1279
+00:48:22,566 --> 00:48:24,033
+- What are you doing here,
+Ernie?
+
+1280
+00:48:24,068 --> 00:48:25,365
+- I come here all the time.
+
+1281
+00:48:25,402 --> 00:48:26,733
+What are you doing here?
+
+1282
+00:48:28,639 --> 00:48:32,131
+So can I buy you a drink,
+you know, for old time's sake?
+
+1283
+00:48:32,176 --> 00:48:33,905
+- Uh, no.
+
+1284
+00:48:35,012 --> 00:48:36,001
+How old is she?
+
+1285
+00:48:36,046 --> 00:48:38,947
+- [Stammers]
+She's young, okay?
+
+1286
+00:48:38,983 --> 00:48:40,075
+It doesn't mean anything.
+
+1287
+00:48:40,117 --> 00:48:41,550
+- Is she your girlfriend?
+
+1288
+00:48:41,585 --> 00:48:42,711
+- Mm-mm.
+
+1289
+00:48:42,753 --> 00:48:43,811
+Well, yeah, yeah.
+
+1290
+00:48:43,854 --> 00:48:46,220
+[Stammers]
+We're seeing each other.
+
+1291
+00:48:47,324 --> 00:48:49,815
+Listen, can l... -
+can we just... -
+
+1292
+00:48:49,860 --> 00:48:51,885
+can we talk outside
+for a minute?
+
+1293
+00:48:51,929 --> 00:48:52,918
+- No.
+- Yes.
+
+1294
+00:48:52,963 --> 00:48:54,453
+- No way.
+- Come on.
+
+1295
+00:48:54,498 --> 00:48:57,194
+Come on, what the... -
+what the fuck is your problem?
+
+1296
+00:48:57,234 --> 00:48:58,394
+- Hey, Ernie,
+leave her alone.
+
+1297
+00:48:58,435 --> 00:48:59,459
+- Yeah, get over it already.
+
+1298
+00:48:59,503 --> 00:49:00,629
+- Okay, you know what?
+
+1299
+00:49:00,671 --> 00:49:02,969
+You guys know one side
+of this story, okay?
+
+1300
+00:49:03,007 --> 00:49:04,235
+She lies.
+
+1301
+00:49:04,275 --> 00:49:05,537
+You lie.
+
+1302
+00:49:05,576 --> 00:49:07,544
+You say one thing to my face.
+You tell me you love me.
+
+1303
+00:49:07,578 --> 00:49:09,569
+And then you tell everyone else
+that I'm an asshole.
+
+1304
+00:49:09,613 --> 00:49:11,171
+- You are an asshole.
+
+1305
+00:49:11,215 --> 00:49:13,046
+- Hey, you know what?
+Just come outside with me.
+
+1306
+00:49:13,083 --> 00:49:14,072
+Come on.
+- Ah, Jesus.
+
+1307
+00:49:14,118 --> 00:49:16,245
+- Why don't you
+leave her alone?
+
+1308
+00:49:16,287 --> 00:49:17,413
+- Who the fuck are you?
+
+1309
+00:49:17,454 --> 00:49:19,547
+- He's my new boyfriend.
+
+1310
+00:49:19,590 --> 00:49:21,251
+- Really?
+- Yeah.
+
+1311
+00:49:24,295 --> 00:49:26,126
+- She give you crabs?
+'Cause she gave me crabs.
+
+1312
+00:49:26,163 --> 00:49:27,255
+- I did not give you crabs.
+
+1313
+00:49:27,298 --> 00:49:28,492
+You gave me crabs!
+
+1314
+00:49:28,532 --> 00:49:30,830
+Jesus Christ!
+Fuck you!
+
+1315
+00:49:30,868 --> 00:49:31,994
+- You know what?
+
+1316
+00:49:32,036 --> 00:49:34,129
+I know... -
+I know you still love me.
+
+1317
+00:49:34,171 --> 00:49:35,297
+I do.
+
+1318
+00:49:35,339 --> 00:49:37,034
+Oh, and your boyfriend
+looks like a fag.
+
+1319
+00:49:38,242 --> 00:49:40,506
+- Ugh, so sorry about that.
+
+1320
+00:49:40,544 --> 00:49:42,535
+Jesus Christ.
+
+1321
+00:49:45,282 --> 00:49:47,580
+[Indistinct conversation]
+
+1322
+00:49:47,618 --> 00:49:48,744
+- Number 12, you said?
+
+1323
+00:49:48,786 --> 00:49:50,014
+- Can you give me,
+like, five... -
+
+1324
+00:49:50,054 --> 00:49:51,112
+- What... -
+Ernie, oh, my God.
+
+1325
+00:49:51,155 --> 00:49:52,144
+- Get off her!
+
+1326
+00:49:52,189 --> 00:49:53,281
+[Crunch]
+
+1327
+00:49:53,324 --> 00:49:54,723
+- Oh, my nose!
+
+1328
+00:49:54,758 --> 00:49:56,282
+You fucking dick!
+
+1329
+00:49:57,628 --> 00:50:00,597
+[Upbeat music]
+
+1330
+00:50:00,631 --> 00:50:06,501
+<i></i>
+
+1331
+00:50:06,537 --> 00:50:10,837
+- <i> You are the treacle
+in my pie </i><i></i>
+
+1332
+00:50:10,874 --> 00:50:14,935
+<i> You are the splinter
+in my eye </i><i></i>
+
+1333
+00:50:14,979 --> 00:50:19,575
+<i> You make the ice melt,
+the butter run </i><i></i>
+
+1334
+00:50:19,616 --> 00:50:23,780
+<i> You make the ink stain,
+you are the one </i><i></i>
+
+1335
+00:50:23,821 --> 00:50:28,121
+<i> Sleep together,
+the Milky Way </i><i></i>
+
+1336
+00:50:28,158 --> 00:50:32,595
+<i> Sleep forever and a day</i>
+
+1337
+00:50:32,629 --> 00:50:37,396
+<i> Lovely jewels
+in joy designed </i><i></i>
+
+1338
+00:50:37,434 --> 00:50:40,096
+<i> La, la, la, la</i>
+
+1339
+00:50:40,137 --> 00:50:48,135
+<i></i>
+
+1340
+00:50:50,514 --> 00:50:53,176
+- Don't sleep with her,
+or I'll tell Sara.
+
+1341
+00:50:53,217 --> 00:50:58,280
+<i></i>
+
+1342
+00:50:58,322 --> 00:51:00,983
+- <i> I am the local</i>
+
+1343
+00:51:01,024 --> 00:51:02,082
+<i> I am express</i>
+
+1344
+00:51:02,125 --> 00:51:03,319
+- Whoo!
+
+1345
+00:51:03,359 --> 00:51:06,522
+- <i> I am a tourist
+in a summer dress </i><i></i>
+
+1346
+00:51:06,562 --> 00:51:07,927
+- Ow!
+
+1347
+00:51:07,964 --> 00:51:12,025
+- <i> I am the night nurse,
+I am the most </i><i></i>
+
+1348
+00:51:12,068 --> 00:51:15,902
+<i> I am the visitor,
+you are the host </i><i></i>
+
+1349
+00:51:15,938 --> 00:51:20,773
+<i> Sleep together,
+the Milky Way </i><i></i>
+
+1350
+00:51:20,810 --> 00:51:25,110
+<i> Sleep forever and a day</i>
+
+1351
+00:51:25,148 --> 00:51:29,744
+<i> Lovely jewels
+in joy designed </i><i></i>
+
+1352
+00:51:29,786 --> 00:51:31,549
+<i> La, la, la, la</i>
+
+1353
+00:51:31,587 --> 00:51:32,679
+- It's last call.
+
+1354
+00:51:32,722 --> 00:51:35,452
+- No way.
+
+1355
+00:51:35,491 --> 00:51:36,583
+- It's getting late.
+
+1356
+00:51:36,626 --> 00:51:38,321
+- Well, we can raid the minibar
+after this.
+
+1357
+00:51:38,361 --> 00:51:40,124
+- Oh, come on.
+I don't know.
+
+1358
+00:51:40,163 --> 00:51:43,462
+- Oh, don't bag on me now,
+Pete.
+
+1359
+00:51:43,499 --> 00:51:45,933
+- [Grunts]
+
+1360
+00:51:45,968 --> 00:51:47,128
+- You're such a good guy...
+
+1361
+00:51:47,170 --> 00:51:48,899
+- Mm-hmm.
+
+1362
+00:51:48,938 --> 00:51:49,962
+- Such a nice guy.
+
+1363
+00:51:50,006 --> 00:51:52,304
+- Right.
+
+1364
+00:51:52,341 --> 00:51:54,309
+- Why don't I ever meet
+nice guys like you?
+
+1365
+00:51:54,343 --> 00:51:56,004
+- What are you talking about?
+
+1366
+00:51:57,547 --> 00:52:00,175
+You met me.
+
+1367
+00:52:00,216 --> 00:52:01,376
+- Yeah, I met you.
+
+1368
+00:52:01,417 --> 00:52:03,510
+- [Chuckles]
+
+1369
+00:52:03,553 --> 00:52:05,714
+- Why don't you come upstairs
+and impregnate me?
+
+1370
+00:52:05,755 --> 00:52:08,519
+- [Chuckles]
+
+1371
+00:52:08,558 --> 00:52:12,050
+[Soft music playing]
+
+1372
+00:52:12,095 --> 00:52:14,928
+You're not serious.
+
+1373
+00:52:14,964 --> 00:52:17,330
+- Yeah, I am.
+
+1374
+00:52:17,366 --> 00:52:20,824
+<i></i>
+
+1375
+00:52:20,870 --> 00:52:22,167
+- Well, you're drunk.
+
+1376
+00:52:22,205 --> 00:52:23,672
+- So what if I am?
+
+1377
+00:52:23,706 --> 00:52:27,870
+- <i> A plateful of promise,
+a spoonful of... </i><i></i>
+
+1378
+00:52:27,910 --> 00:52:29,810
+- You know, I don't even
+find you that attractive.
+
+1379
+00:52:29,846 --> 00:52:31,473
+That's the weird thing.
+- I know.
+
+1380
+00:52:31,514 --> 00:52:34,005
+- But you're such a good guy.
+
+1381
+00:52:35,885 --> 00:52:37,853
+You've got good genes.
+
+1382
+00:52:37,887 --> 00:52:39,878
+You're a good father.
+
+1383
+00:52:41,791 --> 00:52:43,622
+Your sperm works.
+
+1384
+00:52:46,596 --> 00:52:49,156
+I'm tired of this stupid job
+being my life.
+
+1385
+00:52:51,367 --> 00:52:53,358
+I want to have a baby.
+
+1386
+00:52:56,305 --> 00:52:58,739
+Come on.
+
+1387
+00:52:58,774 --> 00:53:01,902
+You don't have to have anything
+to do with it.
+
+1388
+00:53:01,944 --> 00:53:03,935
+I won't tell Sara.
+
+1389
+00:53:05,348 --> 00:53:07,043
+I just want your seed.
+
+1390
+00:53:07,083 --> 00:53:09,608
+- <i> La, la, la, la</i>
+
+1391
+00:53:09,652 --> 00:53:11,381
+<i> La, la, la-la, la-la</i>
+
+1392
+00:53:11,420 --> 00:53:14,321
+- No one will ever know.
+
+1393
+00:53:14,357 --> 00:53:16,188
+I'll move back to L.A.
+
+1394
+00:53:18,661 --> 00:53:20,856
+I just want to be a mother.
+
+1395
+00:53:20,897 --> 00:53:27,632
+<i></i>
+
+1396
+00:53:27,670 --> 00:53:29,331
+- You've given this
+a lot of thought.
+
+1397
+00:53:29,372 --> 00:53:33,308
+- <i> Brush me,
+divide me in two </i><i></i>
+
+1398
+00:53:33,342 --> 00:53:35,276
+<i> Drink me and drown me ?</i>
+
+1399
+00:53:35,311 --> 00:53:37,745
+- I'm not unattractive,
+am I?
+
+1400
+00:53:37,780 --> 00:53:41,079
+It's not like
+you never thought about it.
+
+1401
+00:53:41,117 --> 00:53:42,778
+- Don't do that.
+
+1402
+00:53:42,818 --> 00:53:45,116
+- You're not crazy.
+
+1403
+00:53:47,557 --> 00:53:49,047
+You're cool.
+
+1404
+00:53:49,091 --> 00:53:51,389
+You like good music.
+
+1405
+00:53:51,427 --> 00:53:52,724
+You're smart.
+
+1406
+00:53:52,762 --> 00:53:54,559
+- Don't say I went to Dartmouth,
+please.
+
+1407
+00:53:54,597 --> 00:53:56,588
+- You went to Dartmouth.
+
+1408
+00:54:00,102 --> 00:54:02,229
+[Whispers]
+Come on.
+
+1409
+00:54:02,271 --> 00:54:03,932
+I want a baby.
+
+1410
+00:54:05,341 --> 00:54:07,673
+You know
+I always get what I want.
+
+1411
+00:54:07,710 --> 00:54:10,406
+- <i> La, la, la-la, la-la</i>
+
+1412
+00:54:10,446 --> 00:54:12,971
+<i> La, la, la, la</i>
+
+1413
+00:54:13,015 --> 00:54:15,745
+<i> La, la, la-la, la-la</i>
+
+1414
+00:54:15,785 --> 00:54:17,912
+<i> La, la, la, la-la</i>
+
+1415
+00:54:17,954 --> 00:54:20,889
+<i> La, la, la, la-la, la-la</i>
+
+1416
+00:54:20,923 --> 00:54:29,228
+<i>?</i>
+
+1417
+00:54:29,265 --> 00:54:32,257
+<i>[water running]</i>
+
+1418
+00:54:58,661 --> 00:55:01,653
+<i>[airplane engine roaring</i>
+<i>distantly]</i>
+
+1419
+00:55:17,079 --> 00:55:18,774
+- Oh, we're home.
+
+1420
+00:55:20,449 --> 00:55:22,610
+You can't come in.
+
+1421
+00:55:23,886 --> 00:55:26,013
+- Yep.
+
+1422
+00:55:26,055 --> 00:55:27,522
+- Open the door.
+
+1423
+00:55:27,556 --> 00:55:29,046
+Thank you.
+
+1424
+00:55:35,464 --> 00:55:36,761
+- Oh, I envy you.
+
+1425
+00:55:36,799 --> 00:55:37,823
+Look at that.
+
+1426
+00:55:37,867 --> 00:55:39,357
+And she's pretty too.
+
+1427
+00:55:39,402 --> 00:55:40,869
+Man, you're a bad boy.
+
+1428
+00:55:40,903 --> 00:55:42,370
+[Chuckles]
+
+1429
+00:55:42,405 --> 00:55:43,497
+Wow, thanks!
+
+1430
+00:55:45,608 --> 00:55:46,939
+- Mmm.
+
+1431
+00:55:48,944 --> 00:55:50,707
+You smell like perfume.
+- I know.
+
+1432
+00:55:50,746 --> 00:55:52,805
+Susan hugged me at the airport.
+She was covered in it.
+
+1433
+00:55:52,848 --> 00:55:53,872
+- [Laughs]
+
+1434
+00:55:53,916 --> 00:55:55,884
+I missed you.
+- I missed you too.
+
+1435
+00:55:55,918 --> 00:55:58,478
+- I can't believe how great
+your job is going.
+
+1436
+00:55:58,521 --> 00:56:00,216
+I mean, moving to L. A?
+
+1437
+00:56:00,256 --> 00:56:02,087
+God, that would be so sweet.
+
+1438
+00:56:02,124 --> 00:56:05,093
+[Soft electric guitar music]
+
+1439
+00:56:05,127 --> 00:56:07,391
+<i></i>
+
+1440
+00:56:07,430 --> 00:56:08,829
+- Oh.
+
+1441
+00:56:08,864 --> 00:56:12,265
+[Grunts]
+
+1442
+00:56:12,301 --> 00:56:18,536
+<i></i>
+
+1443
+00:56:18,574 --> 00:56:20,701
+[sighs]
+
+1444
+00:56:20,743 --> 00:56:24,143
+- <i> Oh, her eyes appear</i>
+
+1445
+00:56:24,179 --> 00:56:26,443
+<i> And it always is</i>
+
+1446
+00:56:26,481 --> 00:56:27,641
+- [sighs]
+
+1447
+00:56:27,682 --> 00:56:31,015
+- <i> And it always is again</i>
+
+1448
+00:56:33,455 --> 00:56:35,116
+[grunts]
+
+1449
+00:56:35,156 --> 00:56:40,890
+- <i> Oh</i>
+
+1450
+00:56:40,929 --> 00:56:43,056
+<i> Oh</i>
+
+1451
+00:56:43,098 --> 00:56:45,794
+<i></i>
+
+1452
+00:56:45,834 --> 00:56:50,134
+<i> Oh</i>
+
+1453
+00:56:50,171 --> 00:56:51,729
+- Hey.
+- Hey, nice haircut.
+
+1454
+00:56:51,773 --> 00:56:54,936
+- Hey, you too.
+
+1455
+00:56:54,976 --> 00:56:56,500
+- Hi, everybody.
+
+1456
+00:56:56,544 --> 00:56:58,808
+You will all be pleased to hear,
+I've gotten authorization
+
+1457
+00:56:58,847 --> 00:57:00,906
+to double
+your Christmas bonuses.
+
+1458
+00:57:00,949 --> 00:57:02,382
+[Cheers and applause]
+
+1459
+00:57:02,417 --> 00:57:03,941
+- Whoo!
+- That's what I'm talking about.
+
+1460
+00:57:03,985 --> 00:57:06,112
+- You're gonna have to work hard
+for this money, though.
+
+1461
+00:57:06,154 --> 00:57:08,645
+The January manager's convention
+is in five weeks.
+
+1462
+00:57:08,690 --> 00:57:09,714
+- Whoa, whoa.
+
+1463
+00:57:09,758 --> 00:57:11,350
+Five weeks?
+- What?
+
+1464
+00:57:11,393 --> 00:57:13,384
+- I know
+it's not a lot of time.
+
+1465
+00:57:13,428 --> 00:57:15,362
+- Yeah, no,
+it's literally impossible.
+
+1466
+00:57:15,397 --> 00:57:16,557
+- Don't say that.
+
+1467
+00:57:16,598 --> 00:57:18,566
+Jack Bennington
+has taken a personal interest
+
+1468
+00:57:18,600 --> 00:57:19,897
+in our strategies.
+
+1469
+00:57:19,934 --> 00:57:21,561
+He wants to meet the team.
+
+1470
+00:57:21,603 --> 00:57:23,662
+Pete's going to show him
+around the office next week.
+
+1471
+00:57:23,705 --> 00:57:24,967
+We have to stay focused.
+
+1472
+00:57:25,006 --> 00:57:26,371
+- So we want
+to start communicating
+
+1473
+00:57:26,408 --> 00:57:27,636
+with the managers now,
+
+1474
+00:57:27,675 --> 00:57:29,575
+so they know what to expect
+for the convention.
+
+1475
+00:57:29,611 --> 00:57:32,079
+Doug, we're gonna need stats
+on each of the product lines
+
+1476
+00:57:32,113 --> 00:57:34,274
+that Intellichoice
+cooked up for promotions.
+
+1477
+00:57:34,315 --> 00:57:35,873
+Lila, you're gonna draft
+a newsletter
+
+1478
+00:57:35,917 --> 00:57:37,145
+for each one
+of these managers,
+
+1479
+00:57:37,185 --> 00:57:38,379
+just as a way
+of preparing them.
+
+1480
+00:57:38,420 --> 00:57:39,580
+- Yeah, and remember,
+
+1481
+00:57:39,621 --> 00:57:41,054
+there's nothing that
+store managers hate more
+
+1482
+00:57:41,089 --> 00:57:42,647
+than getting weird instructions
+from management.
+
+1483
+00:57:42,690 --> 00:57:44,317
+It has to make sense to them.
+
+1484
+00:57:44,359 --> 00:57:47,886
+So what we're looking for
+is simplicity, clarity, results.
+
+1485
+00:57:47,929 --> 00:57:49,328
+Okay?
+- Okay.
+
+1486
+00:57:49,364 --> 00:57:50,661
+- I'll leave you guys
+to your work.
+
+1487
+00:57:50,698 --> 00:57:51,687
+- No way.
+
+1488
+00:57:51,733 --> 00:57:52,825
+- Ridiculous.
+
+1489
+00:57:52,867 --> 00:57:54,232
+- What's it feel like
+being perky?
+
+1490
+00:57:54,269 --> 00:57:56,134
+Like, what does that feel like?
+
+1491
+00:57:57,539 --> 00:57:59,939
+- Pete, can I see you
+in my office?
+
+1492
+00:57:59,974 --> 00:58:01,566
+- Yeah.
+
+1493
+00:58:08,616 --> 00:58:09,913
+- [Tapping]
+
+1494
+00:58:11,019 --> 00:58:13,453
+[Soft music]
+
+1495
+00:58:13,488 --> 00:58:18,187
+<i>? ?</i>
+
+1496
+00:58:18,226 --> 00:58:20,854
+- [moans and gasps]
+
+1497
+00:58:20,895 --> 00:58:23,887
+[Panting]
+
+1498
+00:58:24,899 --> 00:58:26,890
+- Todd Kenner
+is on line three.
+
+1499
+00:58:26,935 --> 00:58:27,993
+- My God.
+
+1500
+00:58:28,036 --> 00:58:29,264
+- Yeah.
+
+1501
+00:58:29,304 --> 00:58:31,829
+- [Sighs]
+
+1502
+00:58:31,873 --> 00:58:33,135
+Hey, Todd, what's up?
+
+1503
+00:58:33,174 --> 00:58:35,108
+There's just
+some software thing going on.
+
+1504
+00:58:35,143 --> 00:58:38,806
+Well, last I heard,
+HP was taking care of it.
+
+1505
+00:58:38,847 --> 00:58:41,281
+Hold on a second, Todd.
+
+1506
+00:58:41,316 --> 00:58:42,806
+Do you need anything else?
+
+1507
+00:58:44,586 --> 00:58:45,712
+- No.
+
+1508
+00:58:45,753 --> 00:58:48,051
+- Okay, thanks, Pete.
+
+1509
+00:58:48,089 --> 00:58:49,852
+Hey, Todd.
+
+1510
+00:59:19,120 --> 00:59:22,112
+[Phone beeping]
+
+1511
+00:59:24,158 --> 00:59:26,217
+[Line ringing]
+
+1512
+00:59:26,261 --> 00:59:27,728
+- Hey, Susan,
+how are you doing?
+
+1513
+00:59:27,762 --> 00:59:29,229
+- Uh, I'm fine.
+
+1514
+00:59:29,264 --> 00:59:30,390
+What's up?
+
+1515
+00:59:30,431 --> 00:59:32,661
+- We just hadn't talked
+in a while, and... -
+
+1516
+00:59:32,700 --> 00:59:34,497
+- I know, I know,
+but it's really not a good time.
+
+1517
+00:59:34,536 --> 00:59:35,594
+Can I call you?
+
+1518
+00:59:35,637 --> 00:59:37,434
+- Yeah, okay.
+
+1519
+00:59:37,472 --> 00:59:38,837
+I'll talk to you later.
+
+1520
+00:59:38,873 --> 00:59:40,397
+Bye.
+
+1521
+00:59:44,212 --> 00:59:46,009
+- Hey, so that guy
+who called last night,
+
+1522
+00:59:46,047 --> 00:59:48,015
+Bobby McCain?
+
+1523
+00:59:48,049 --> 00:59:50,017
+He said
+he's setting up a label.
+
+1524
+00:59:50,051 --> 00:59:52,849
+He's got financing
+and a couple of bands,
+
+1525
+00:59:52,887 --> 00:59:54,184
+and he wants me to run it.
+
+1526
+00:59:54,222 --> 00:59:55,280
+- Really?
+
+1527
+00:59:55,323 --> 00:59:56,620
+- Uh-huh.
+
+1528
+00:59:56,658 --> 00:59:59,126
+So I'm thinking
+I'm gonna meet him for lunch
+
+1529
+00:59:59,160 --> 01:00:00,422
+on Saturday in the city,
+
+1530
+01:00:00,461 --> 01:00:02,429
+but I don't want Susan
+to know about it.
+
+1531
+01:00:02,463 --> 01:00:04,761
+So if you talk to her,
+please don't mention anything.
+
+1532
+01:00:06,534 --> 01:00:07,523
+- Pete.
+
+1533
+01:00:07,569 --> 01:00:08,536
+- Hey.
+
+1534
+01:00:08,570 --> 01:00:09,537
+- [Chuckles]
+
+1535
+01:00:09,571 --> 01:00:10,936
+- How you doing, buddy?
+- Good, man.
+
+1536
+01:00:10,972 --> 01:00:11,939
+- It's good to see you.
+
+1537
+01:00:11,973 --> 01:00:14,134
+- It's good to see you.
+
+1538
+01:00:14,175 --> 01:00:16,405
+[Chuckles]
+
+1539
+01:00:16,444 --> 01:00:18,275
+Hey, what happened to you?
+
+1540
+01:00:20,114 --> 01:00:21,581
+- What?
+
+1541
+01:00:21,616 --> 01:00:24,084
+- You got a haircut.
+
+1542
+01:00:24,118 --> 01:00:27,315
+- I just... -
+I got a corporate job.
+
+1543
+01:00:27,355 --> 01:00:31,052
+- Not EMI, I hope,
+fucking broke assholes.
+
+1544
+01:00:31,092 --> 01:00:32,582
+- Yeah.
+
+1545
+01:00:32,627 --> 01:00:34,219
+Uh, no, ACS.
+
+1546
+01:00:34,262 --> 01:00:35,661
+You've never heard of them.
+
+1547
+01:00:35,697 --> 01:00:37,858
+- See, that's why
+I wanted to talk to you.
+
+1548
+01:00:37,899 --> 01:00:39,867
+I was out partying
+with Brian Specht.
+
+1549
+01:00:39,901 --> 01:00:40,868
+- Mm-hmm.
+
+1550
+01:00:40,902 --> 01:00:41,869
+- You remember Specht?
+
+1551
+01:00:41,903 --> 01:00:42,892
+- Yeah, of course.
+
+1552
+01:00:42,937 --> 01:00:43,926
+- [Laughs]
+
+1553
+01:00:43,972 --> 01:00:46,941
+Fucking asshole.
+
+1554
+01:00:46,975 --> 01:00:50,240
+And we got to talking,
+and I told him my whole plan,
+
+1555
+01:00:50,278 --> 01:00:53,372
+'cause, see, I need somebody
+
+1556
+01:00:53,414 --> 01:00:56,008
+to run the business side
+of the operation.
+
+1557
+01:00:56,050 --> 01:00:57,347
+- Mm-hmm.
+
+1558
+01:00:57,385 --> 01:01:00,320
+- 'Cause you know
+I'm no good with business.
+
+1559
+01:01:00,355 --> 01:01:01,720
+Come on.
+
+1560
+01:01:01,756 --> 01:01:05,055
+I am no good with business.
+
+1561
+01:01:05,093 --> 01:01:06,890
+And so he said
+you were looking for something.
+
+1562
+01:01:06,928 --> 01:01:07,917
+Are you?
+
+1563
+01:01:07,962 --> 01:01:09,759
+- Yeah, absolutely, sure.
+- Cool.
+
+1564
+01:01:09,797 --> 01:01:11,264
+- Yeah.
+- Because you know why?
+
+1565
+01:01:11,299 --> 01:01:13,164
+'Cause it's all
+fucking happening.
+
+1566
+01:01:16,604 --> 01:01:17,696
+- So how did it go?
+
+1567
+01:01:17,739 --> 01:01:19,070
+- The money was lame.
+
+1568
+01:01:19,107 --> 01:01:20,438
+I'm not 20 anymore.
+
+1569
+01:01:20,475 --> 01:01:22,340
+- When you were 20,
+they didn't pay you anything.
+
+1570
+01:01:22,377 --> 01:01:23,537
+- I got to be honest with you.
+
+1571
+01:01:23,578 --> 01:01:25,068
+I don't think
+he has his shit together.
+
+1572
+01:01:25,113 --> 01:01:26,375
+- Dinosaur song.
+
+1573
+01:01:26,414 --> 01:01:27,881
+Dinosaur song.
+
+1574
+01:01:27,915 --> 01:01:28,904
+Dinosaur song!
+
+1575
+01:01:28,950 --> 01:01:29,939
+- [Groans]
+
+1576
+01:01:29,984 --> 01:01:32,350
+You better put it on.
+
+1577
+01:01:32,387 --> 01:01:34,651
+- Dinosaur song!
+
+1578
+01:01:34,689 --> 01:01:37,658
+[Bouncy music]
+
+1579
+01:01:37,692 --> 01:01:39,125
+<i></i>
+
+1580
+01:01:39,160 --> 01:01:43,096
+- <i> We are the dinosaurs
+marching, marching </i><i></i>
+
+1581
+01:01:43,131 --> 01:01:45,325
+<i> We are the dinosaurs</i>
+
+1582
+01:01:45,365 --> 01:01:47,265
+<i> What do you think of that</i>
+
+1583
+01:01:47,300 --> 01:01:50,827
+<i> We are the dinosaurs
+marching, marching </i><i></i>
+
+1584
+01:01:50,871 --> 01:01:52,839
+<i> We are the dinosaurs</i>
+
+1585
+01:01:52,873 --> 01:01:54,431
+<i> We make the Earth flat</i>
+
+1586
+01:01:54,474 --> 01:01:56,874
+<i> We make the Earth flat</i>
+
+1587
+01:01:56,910 --> 01:02:00,437
+<i> We stop and eat our food
+when we're in the mood </i><i></i>
+
+1588
+01:02:00,480 --> 01:02:04,576
+<i> We stop and eat our food
+on the ground </i><i></i>
+
+1589
+01:02:04,618 --> 01:02:08,349
+<i> We stop and take a rest
+over in our nest </i><i></i>
+
+1590
+01:02:08,388 --> 01:02:13,325
+<i> We stop and take a rest,
+and then you'll hear us say </i><i></i>
+
+1591
+01:02:13,360 --> 01:02:16,352
+[phone ringing]
+
+1592
+01:02:20,534 --> 01:02:21,933
+- Hey, sweetie, I'm sorry.
+
+1593
+01:02:21,968 --> 01:02:23,026
+I fell asleep on my desk.
+
+1594
+01:02:23,070 --> 01:02:24,867
+- I stayed up waiting for you.
+
+1595
+01:02:24,905 --> 01:02:27,430
+- Come on.
+I told you not to do that.
+
+1596
+01:02:27,474 --> 01:02:30,307
+- I was worried.
+
+1597
+01:02:30,343 --> 01:02:32,311
+- Well, why didn't you
+call me then?
+
+1598
+01:02:32,345 --> 01:02:34,040
+- I don't know.
+
+1599
+01:02:34,081 --> 01:02:36,208
+I didn't want to bother you.
+
+1600
+01:02:36,249 --> 01:02:38,240
+I know you're doing
+what you have to do.
+
+1601
+01:02:40,854 --> 01:02:42,321
+I love you.
+
+1602
+01:02:42,355 --> 01:02:44,323
+- I love you too.
+
+1603
+01:02:44,357 --> 01:02:46,518
+Yeah, I'll call later.
+
+1604
+01:02:53,533 --> 01:02:55,501
+- Ah.
+
+1605
+01:02:55,535 --> 01:02:58,595
+I went to your office,
+but you were sleeping.
+
+1606
+01:02:58,638 --> 01:03:00,333
+- Were you here all night?
+
+1607
+01:03:00,373 --> 01:03:02,341
+- Yeah.
+
+1608
+01:03:02,375 --> 01:03:04,002
+Why?
+Do I look bad?
+
+1609
+01:03:04,044 --> 01:03:05,068
+- No.
+
+1610
+01:03:05,112 --> 01:03:06,477
+You look great.
+
+1611
+01:03:06,513 --> 01:03:07,980
+- Thank you.
+
+1612
+01:03:08,014 --> 01:03:09,811
+[Both chuckle]
+
+1613
+01:03:09,850 --> 01:03:12,580
+- So tell me what's gonna happen
+when all this is over.
+
+1614
+01:03:19,226 --> 01:03:22,195
+- Bennington's gonna move me
+back to L.A.
+
+1615
+01:03:22,229 --> 01:03:25,665
+He's gonna put me in charge
+of national strategies.
+
+1616
+01:03:25,699 --> 01:03:27,394
+- He told you that?
+
+1617
+01:03:27,434 --> 01:03:29,902
+- No.
+
+1618
+01:03:29,936 --> 01:03:31,563
+But he knows I want the job.
+
+1619
+01:03:31,605 --> 01:03:33,573
+- Mm-hmm.
+
+1620
+01:03:33,607 --> 01:03:35,598
+- What choice does he have?
+
+1621
+01:03:38,478 --> 01:03:40,639
+I might take you with me.
+
+1622
+01:03:51,224 --> 01:03:52,350
+- Good morning.
+
+1623
+01:03:52,392 --> 01:03:53,723
+- Good morning, Doug.
+
+1624
+01:03:53,760 --> 01:03:57,389
+- Get ready for Bennington
+in a couple hours.
+
+1625
+01:03:57,430 --> 01:03:59,955
+- Mm, that's a great pot
+of coffee.
+
+1626
+01:04:00,000 --> 01:04:01,331
+- Jack Bennington.
+- Matt Davis.
+
+1627
+01:04:01,368 --> 01:04:02,357
+I've been here four years.
+
+1628
+01:04:02,402 --> 01:04:04,267
+I work in advisory projects.
+
+1629
+01:04:04,304 --> 01:04:05,965
+- Ah, nice to know,
+nice to know.
+
+1630
+01:04:06,006 --> 01:04:06,973
+Keep up the good work.
+- Sure.
+
+1631
+01:04:07,007 --> 01:04:07,496
+I will.
+Thank you.
+
+1632
+01:04:08,308 --> 01:04:09,605
+- Douglas Cain,
+Jack Bennington.
+
+1633
+01:04:09,643 --> 01:04:11,133
+- Doug Cain, Doug Cain.
+How are you?
+
+1634
+01:04:11,178 --> 01:04:13,510
+- [Laughs]
+I'm very well, thanks.
+
+1635
+01:04:13,547 --> 01:04:15,845
+- If you need stats,
+I'm your guy.
+
+1636
+01:04:15,882 --> 01:04:17,281
+That's what I've been doing
+for you.
+
+1637
+01:04:17,317 --> 01:04:19,217
+- Pete.
+- I've been proud to do it.
+
+1638
+01:04:19,252 --> 01:04:21,482
+And I'm all about
+making a difference
+
+1639
+01:04:21,521 --> 01:04:24,513
+in this company.
+
+1640
+01:04:24,558 --> 01:04:26,856
+- Mr. Bennington
+wants to take me, you, and Sara
+
+1641
+01:04:26,893 --> 01:04:28,656
+out to dinner tonight.
+
+1642
+01:04:28,695 --> 01:04:31,095
+I made a reservation for 7:00.
+
+1643
+01:04:33,400 --> 01:04:34,458
+- Okay.
+
+1644
+01:04:34,501 --> 01:04:35,661
+I'll call Sara.
+
+1645
+01:04:35,702 --> 01:04:37,693
+[Laughter]
+
+1646
+01:04:39,706 --> 01:04:40,832
+- No, no, I can't.
+- Try it.
+
+1647
+01:04:40,874 --> 01:04:42,273
+Please, please try it.
+It's so good.
+
+1648
+01:04:42,309 --> 01:04:43,742
+- I'm on a diet.
+I can't.
+
+1649
+01:04:43,777 --> 01:04:45,540
+- You will be so sad
+if you don't taste this.
+
+1650
+01:04:45,579 --> 01:04:46,568
+- Oh...
+
+1651
+01:04:46,613 --> 01:04:47,602
+- [laughs]
+
+1652
+01:04:47,647 --> 01:04:48,705
+Right?
+
+1653
+01:04:48,748 --> 01:04:50,545
+It's amazing.
+- Yes, it is.
+
+1654
+01:04:50,584 --> 01:04:52,449
+So how are we coming
+with the organics, Pete?
+
+1655
+01:04:52,485 --> 01:04:53,747
+- Oh, pretty well.
+
+1656
+01:04:53,787 --> 01:04:55,345
+It's just a shelving issue
+at this point,
+
+1657
+01:04:55,388 --> 01:04:57,379
+so it's not like the managers
+won't know how to do it.
+
+1658
+01:04:57,424 --> 01:04:58,516
+- What's that about?
+
+1659
+01:04:58,558 --> 01:05:00,355
+- Organics have
+a special section in our store,
+
+1660
+01:05:00,393 --> 01:05:01,758
+but Pete is telling us
+
+1661
+01:05:01,795 --> 01:05:04,025
+we should put our organics
+next to our regular products.
+
+1662
+01:05:04,064 --> 01:05:05,622
+- Well, what difference
+does that make?
+
+1663
+01:05:05,665 --> 01:05:07,132
+- Organics cost more,
+
+1664
+01:05:07,167 --> 01:05:08,634
+so generally,
+the feeling has been
+
+1665
+01:05:08,668 --> 01:05:10,295
+to keep them
+in their own department.
+
+1666
+01:05:10,337 --> 01:05:13,704
+You keep the price image down,
+also offering some quality.
+
+1667
+01:05:13,740 --> 01:05:17,904
+- Our research shows that
+organics have come a long way.
+
+1668
+01:05:17,944 --> 01:05:19,343
+It's a trend change.
+
+1669
+01:05:19,379 --> 01:05:20,676
+It's exactly the kind of thing
+
+1670
+01:05:20,714 --> 01:05:23,080
+that ACS
+is the last to figure out.
+
+1671
+01:05:23,116 --> 01:05:24,845
+So it's a big deal for us.
+
+1672
+01:05:26,419 --> 01:05:28,944
+- Essentially,
+we make more on the organics.
+
+1673
+01:05:28,989 --> 01:05:32,117
+- Most chains
+have their own line of organics.
+
+1674
+01:05:32,158 --> 01:05:34,285
+I mean, try getting Cartwright
+on board with that.
+
+1675
+01:05:34,327 --> 01:05:35,453
+- Indeed.
+
+1676
+01:05:35,495 --> 01:05:37,895
+Now, are you thinking
+of having any more kids?
+
+1677
+01:05:37,931 --> 01:05:38,920
+- I don't think so.
+- Yeah.
+
+1678
+01:05:38,965 --> 01:05:40,125
+- Oh.
+
+1679
+01:05:40,166 --> 01:05:41,690
+- Come on.
+- Well, excuse... - uh, hello.
+
+1680
+01:05:41,735 --> 01:05:43,532
+- We've been trying.
+- Ah.
+
+1681
+01:05:43,570 --> 01:05:45,800
+- But Pete was an only child,
+and so he doesn't understand
+
+1682
+01:05:45,839 --> 01:05:47,636
+why Henry would want
+a brother or a sister.
+
+1683
+01:05:47,674 --> 01:05:48,902
+- Ah.
+
+1684
+01:05:48,942 --> 01:05:51,103
+Well, I came from a big family,
+and I had a big family.
+
+1685
+01:05:51,144 --> 01:05:52,304
+So I guess you're right.
+
+1686
+01:05:52,345 --> 01:05:54,108
+- Oh, I have to take this.
+
+1687
+01:05:54,147 --> 01:05:56,274
+[Cell phone ringing]
+
+1688
+01:05:56,316 --> 01:05:59,774
+- This is just a thought,
+Sara,
+
+1689
+01:05:59,819 --> 01:06:03,277
+but how would you feel
+about moving to Los Angeles
+
+1690
+01:06:03,323 --> 01:06:04,620
+with your family?
+
+1691
+01:06:04,658 --> 01:06:06,990
+It's a nice place
+to raise kids.
+
+1692
+01:06:07,027 --> 01:06:09,587
+- Oh, I mean, we are not
+attached to Long Island.
+
+1693
+01:06:09,629 --> 01:06:11,756
+- Well, I've been trying
+to find a place for Pete
+
+1694
+01:06:11,798 --> 01:06:13,766
+in our national office.
+
+1695
+01:06:13,800 --> 01:06:15,825
+We know
+you're a talented young man,
+
+1696
+01:06:15,869 --> 01:06:17,666
+good education.
+
+1697
+01:06:17,704 --> 01:06:20,002
+You're a good guy,
+an honest guy.
+
+1698
+01:06:20,040 --> 01:06:23,032
+I'd hate to see you
+wasting your time in...
+
+1699
+01:06:23,076 --> 01:06:25,601
+well, in a regional office.
+
+1700
+01:06:25,645 --> 01:06:26,976
+We'll find you something.
+
+1701
+01:06:30,884 --> 01:06:32,613
+- Did I miss something?
+
+1702
+01:06:32,652 --> 01:06:34,119
+- No, no, no.
+- Really?
+
+1703
+01:06:34,154 --> 01:06:35,314
+- No.
+- No.
+
+1704
+01:06:40,026 --> 01:06:42,927
+- [Clears throat]
+
+1705
+01:06:42,963 --> 01:06:47,161
+- The motherfuckers at national
+are screwing us up the ass.
+
+1706
+01:06:47,200 --> 01:06:48,758
+They're turning the vendors
+against us.
+
+1707
+01:06:48,802 --> 01:06:49,996
+I saw the memos.
+
+1708
+01:06:50,036 --> 01:06:51,560
+They don't want us
+to make the deadline.
+
+1709
+01:06:51,604 --> 01:06:53,037
+- We're just gonna
+have to stop relying on them
+
+1710
+01:06:53,073 --> 01:06:54,097
+and do this ourselves.
+
+1711
+01:06:54,140 --> 01:06:55,539
+Tomorrow's Christmas Eve.
+
+1712
+01:06:55,575 --> 01:06:57,873
+We're gonna get screwed
+if we don't take care of this.
+
+1713
+01:06:57,911 --> 01:06:59,003
+- Matt had an idea.
+
+1714
+01:06:59,045 --> 01:07:00,137
+- What?
+
+1715
+01:07:00,180 --> 01:07:02,011
+- Matt had an idea.
+
+1716
+01:07:02,048 --> 01:07:05,347
+- Yeah, okay, so we only have
+a week and a half left.
+
+1717
+01:07:05,385 --> 01:07:06,511
+Even though most of us
+
+1718
+01:07:06,553 --> 01:07:08,019
+are gonna work
+through Christmas,
+
+1719
+01:07:08,053 --> 01:07:10,681
+we still got to deal with HP
+and Intellichoice closing
+
+1720
+01:07:10,723 --> 01:07:12,213
+and so is communications.
+
+1721
+01:07:12,257 --> 01:07:13,554
+And the store managers
+
+1722
+01:07:13,592 --> 01:07:15,822
+are doing their whole
+Christmas overtime thing, so...
+
+1723
+01:07:15,861 --> 01:07:17,761
+- The bottom line is,
+we're not gonna make it.
+
+1724
+01:07:17,796 --> 01:07:19,764
+- What are you talking about?
+- It's true.
+
+1725
+01:07:19,798 --> 01:07:21,595
+There just aren't enough hours
+in the day.
+
+1726
+01:07:21,633 --> 01:07:23,498
+There isn't enough time
+to get it all done.
+
+1727
+01:07:23,535 --> 01:07:25,332
+But if we were to cut
+
+1728
+01:07:25,371 --> 01:07:27,396
+just two, three
+of the strategies,
+
+1729
+01:07:27,439 --> 01:07:29,600
+we'll be able to finish
+everything else free and clear.
+
+1730
+01:07:29,641 --> 01:07:32,132
+Otherwise, we're screwed.
+
+1731
+01:07:33,812 --> 01:07:36,406
+- Does Susan know about this?
+
+1732
+01:07:36,448 --> 01:07:40,578
+- Well, we thought that maybe
+you could talk to her.
+
+1733
+01:07:40,619 --> 01:07:43,349
+You know, you seem to have
+a special relationship with her.
+
+1734
+01:07:43,389 --> 01:07:45,016
+- What the fuck
+is that supposed to mean?
+
+1735
+01:07:45,057 --> 01:07:47,218
+- I don't know, Pete.
+What does it mean?
+
+1736
+01:07:47,259 --> 01:07:49,819
+- Okay, it just means
+someone has to talk to her... -
+
+1737
+01:07:49,862 --> 01:07:51,659
+- This is bullshit!
+
+1738
+01:07:51,697 --> 01:07:54,996
+Well, we can't just cut
+our strategies now!
+
+1739
+01:07:55,034 --> 01:07:56,968
+I can't believe you guys.
+
+1740
+01:07:57,002 --> 01:07:59,300
+We've been busting our balls
+here for three months,
+
+1741
+01:07:59,338 --> 01:08:00,703
+and you just want to give up?
+
+1742
+01:08:00,739 --> 01:08:02,036
+- All we're saying is,
+
+1743
+01:08:02,074 --> 01:08:03,871
+we can't get a few
+of these strategies ready.
+
+1744
+01:08:03,909 --> 01:08:05,240
+- No way!
+
+1745
+01:08:05,277 --> 01:08:07,302
+I'm not gonna just sit here
+and watch you tell Susan
+
+1746
+01:08:07,346 --> 01:08:08,813
+that this can't be done.
+
+1747
+01:08:08,847 --> 01:08:11,213
+I mean, do you know the kind
+of pressure that she's under?
+
+1748
+01:08:11,250 --> 01:08:15,050
+Do you know that
+she stuck her neck out for us?
+
+1749
+01:08:15,087 --> 01:08:16,247
+No.
+
+1750
+01:08:16,288 --> 01:08:19,724
+No, what we're doing here
+is kicking ass.
+
+1751
+01:08:19,758 --> 01:08:21,248
+And I don't care
+if we have to stay here
+
+1752
+01:08:21,293 --> 01:08:25,923
+all fucking week
+for the next week and a half
+
+1753
+01:08:25,964 --> 01:08:27,761
+to get this done,
+
+1754
+01:08:27,800 --> 01:08:29,290
+or maybe even two weeks.
+
+1755
+01:08:29,334 --> 01:08:31,632
+We don't know how long
+it's gonna take,
+
+1756
+01:08:31,670 --> 01:08:33,604
+but we are gonna do this.
+
+1757
+01:08:33,639 --> 01:08:35,072
+- All we are saying is,
+
+1758
+01:08:35,107 --> 01:08:37,735
+we can't get
+two of these strategies ready.
+
+1759
+01:08:37,776 --> 01:08:40,074
+- Well, why the fuck not?
+Huh?
+
+1760
+01:08:40,112 --> 01:08:43,081
+I mean, you and Pete
+understand this stuff.
+
+1761
+01:08:43,115 --> 01:08:46,084
+I know that because you got me
+to understand it.
+
+1762
+01:08:46,118 --> 01:08:50,248
+So can we just stop all the talk
+about cutting strategies
+
+1763
+01:08:50,289 --> 01:08:52,416
+and apply ourselves?
+
+1764
+01:08:52,458 --> 01:08:54,426
+- She's right.
+
+1765
+01:08:54,460 --> 01:08:55,950
+We can get this done.
+
+1766
+01:08:57,429 --> 01:08:58,794
+- Hey.
+
+1767
+01:08:58,831 --> 01:09:01,129
+Susan wants to see everyone
+out in the office
+
+1768
+01:09:01,166 --> 01:09:03,396
+for a Christmas toast.
+
+1769
+01:09:03,435 --> 01:09:07,166
+- I'd like to share
+this letter from Mr. Bennington
+
+1770
+01:09:07,206 --> 01:09:08,332
+with all of you.
+
+1771
+01:09:08,373 --> 01:09:10,864
+"In my years,
+I've never seen a team
+
+1772
+01:09:10,909 --> 01:09:16,313
+"work so hard
+and do such excellent work.
+
+1773
+01:09:16,348 --> 01:09:18,145
+"These presentations
+mark a new beginning
+
+1774
+01:09:18,183 --> 01:09:22,085
+"for Wolski's, ACS,
+
+1775
+01:09:22,121 --> 01:09:24,783
+and a new direction
+in this industry."
+
+1776
+01:09:24,823 --> 01:09:25,881
+Blah, blah, blah.
+
+1777
+01:09:25,924 --> 01:09:29,189
+"You are all
+the best of the best."
+
+1778
+01:09:29,228 --> 01:09:31,662
+[Sniffs]
+
+1779
+01:09:31,697 --> 01:09:33,358
+I just want to say,
+
+1780
+01:09:33,398 --> 01:09:35,866
+I've never seen
+a group of people
+
+1781
+01:09:35,901 --> 01:09:37,892
+come together like this.
+
+1782
+01:09:39,438 --> 01:09:41,565
+Now, I want you
+to take Christmas off.
+
+1783
+01:09:41,607 --> 01:09:44,576
+Go home.
+See your families.
+
+1784
+01:09:46,678 --> 01:09:48,976
+You're gonna need a lot of rest
+before next week.
+
+1785
+01:09:49,014 --> 01:09:53,075
+Louisville will be hard work,
+but we can do it.
+
+1786
+01:09:54,920 --> 01:09:56,717
+Merry Christmas.
+
+1787
+01:09:56,755 --> 01:09:57,779
+Cheers.
+
+1788
+01:09:57,823 --> 01:09:58,812
+All: Cheers.
+
+1789
+01:09:58,857 --> 01:09:59,846
+- Merry Christmas.
+
+1790
+01:09:59,892 --> 01:10:00,916
+- Happy holidays.
+
+1791
+01:10:00,959 --> 01:10:03,427
+- You guys blow me away.
+
+1792
+01:10:03,462 --> 01:10:06,192
+- Ah, no, we can't eat it.
+
+1793
+01:10:06,231 --> 01:10:07,220
+It's too big.
+
+1794
+01:10:08,233 --> 01:10:09,165
+[Imitates explosions]
+
+1795
+01:10:09,201 --> 01:10:10,668
+Turning into transformer...
+
+1796
+01:10:10,702 --> 01:10:12,363
+[imitates explosions]
+
+1797
+01:10:12,404 --> 01:10:14,929
+[Knock at door]
+
+1798
+01:10:14,973 --> 01:10:17,601
+- Hey.
+
+1799
+01:10:17,643 --> 01:10:18,769
+- Why don't you grab that?
+
+1800
+01:10:18,810 --> 01:10:20,402
+I'm gonna put on a sweater.
+
+1801
+01:10:20,445 --> 01:10:21,503
+I'm freezing.
+
+1802
+01:10:21,547 --> 01:10:23,014
+- Arr, arr!
+
+1803
+01:10:23,048 --> 01:10:26,074
+I'll be right back... -
+oh, he's gonna eat the crayon.
+
+1804
+01:10:26,118 --> 01:10:28,450
+- [Babbles]
+
+1805
+01:10:31,089 --> 01:10:32,920
+- Hi.
+- Hi.
+
+1806
+01:10:32,958 --> 01:10:34,255
+- I'm not staying.
+
+1807
+01:10:34,293 --> 01:10:35,453
+- What's going on?
+
+1808
+01:10:35,494 --> 01:10:39,658
+- I wanted to drop off
+a present for Henry.
+
+1809
+01:10:39,698 --> 01:10:40,892
+- Oh, well, come in.
+
+1810
+01:10:40,933 --> 01:10:43,060
+Wait, you don't have plans
+for Christmas?
+
+1811
+01:10:43,101 --> 01:10:45,501
+- I was working, but then...
+
+1812
+01:10:45,537 --> 01:10:47,095
+I got really depressed.
+
+1813
+01:10:47,139 --> 01:10:48,538
+I meant to give this to Pete
+at work.
+
+1814
+01:10:48,574 --> 01:10:50,303
+- Come in, come on.
+Have a drink.
+
+1815
+01:10:50,342 --> 01:10:51,604
+- Can we open it?
+
+1816
+01:10:51,643 --> 01:10:52,610
+- Yes.
+
+1817
+01:10:52,644 --> 01:10:54,236
+- Yay.
+
+1818
+01:10:54,279 --> 01:10:55,746
+[Babbles]
+
+1819
+01:10:55,781 --> 01:10:57,715
+A Barbie thing.
+
+1820
+01:10:57,749 --> 01:10:58,716
+- It's Barbie.
+
+1821
+01:10:58,750 --> 01:10:59,717
+- Yeah.
+
+1822
+01:10:59,751 --> 01:11:00,740
+- Isn't she pretty?
+
+1823
+01:11:00,786 --> 01:11:02,219
+- I don't like it.
+
+1824
+01:11:02,254 --> 01:11:03,846
+- What do you mean,
+you don't like it?
+
+1825
+01:11:03,889 --> 01:11:05,015
+She's a woman.
+
+1826
+01:11:05,057 --> 01:11:06,081
+- I don't like women.
+
+1827
+01:11:06,124 --> 01:11:07,113
+- You don't?
+
+1828
+01:11:07,159 --> 01:11:08,217
+Why not?
+
+1829
+01:11:08,260 --> 01:11:09,249
+- Because.
+
+1830
+01:11:09,294 --> 01:11:10,283
+- Because why?
+
+1831
+01:11:10,329 --> 01:11:11,660
+Do you like me?
+
+1832
+01:11:11,697 --> 01:11:13,562
+- Yeah.
+
+1833
+01:11:13,599 --> 01:11:14,964
+- Thank you.
+
+1834
+01:11:15,000 --> 01:11:16,058
+- You're welcome.
+
+1835
+01:11:16,101 --> 01:11:17,932
+- Sit down next to me.
+- Oh.
+
+1836
+01:11:17,970 --> 01:11:21,736
+- You guys
+are so great together.
+
+1837
+01:11:23,942 --> 01:11:27,173
+You're so down to earth,
+honest.
+
+1838
+01:11:30,048 --> 01:11:31,675
+What's the point of my life?
+
+1839
+01:11:32,818 --> 01:11:34,945
+- You're doing a good job.
+
+1840
+01:11:34,987 --> 01:11:37,012
+- Fuck work.
+
+1841
+01:11:37,055 --> 01:11:38,181
+Who really gives a shit
+
+1842
+01:11:38,223 --> 01:11:41,021
+if Wolski's
+gets a few more customers?
+
+1843
+01:11:41,059 --> 01:11:44,028
+[Laughs]
+
+1844
+01:11:44,062 --> 01:11:45,552
+- I thought it was important.
+
+1845
+01:11:45,597 --> 01:11:49,089
+- You know
+what I'm talking about.
+
+1846
+01:11:51,903 --> 01:11:54,303
+You know what I like
+about Pete?
+
+1847
+01:11:57,242 --> 01:11:59,870
+He really knows me.
+
+1848
+01:11:59,911 --> 01:12:01,902
+He listens.
+
+1849
+01:12:04,116 --> 01:12:06,914
+He notices things.
+
+1850
+01:12:06,952 --> 01:12:10,251
+It's like, I don't even
+have to say anything,
+
+1851
+01:12:10,289 --> 01:12:11,984
+and he knows
+what I'm thinking.
+
+1852
+01:12:15,994 --> 01:12:18,121
+- We really appreciate
+everything you've done for him.
+
+1853
+01:12:18,163 --> 01:12:20,290
+It's...
+- Mm-hmm.
+
+1854
+01:12:20,332 --> 01:12:21,924
+- Really changed our lives.
+
+1855
+01:12:21,967 --> 01:12:26,233
+- Yeah, well, that's not what
+I'm talking about.
+
+1856
+01:12:26,271 --> 01:12:27,932
+- Pete, why don't you
+go put Henry to bed?
+
+1857
+01:12:27,973 --> 01:12:29,600
+And I will get some sheets
+for the couch.
+
+1858
+01:12:29,641 --> 01:12:32,302
+- Yeah.
+- Thank you.
+
+1859
+01:12:32,343 --> 01:12:33,708
+- Come here.
+
+1860
+01:12:33,744 --> 01:12:34,836
+[Groans]
+
+1861
+01:12:34,879 --> 01:12:36,904
+- But I don't have to do bed.
+- Okay.
+
+1862
+01:12:45,022 --> 01:12:46,956
+- She's going to sleep.
+
+1863
+01:12:46,991 --> 01:12:48,151
+Come in here.
+
+1864
+01:12:50,361 --> 01:12:52,329
+- Let me just say good night.
+
+1865
+01:12:52,363 --> 01:12:53,489
+- Don't worry.
+
+1866
+01:12:53,531 --> 01:12:56,022
+You'll see her in the morning.
+
+1867
+01:13:01,539 --> 01:13:02,563
+- Bah!
+
+1868
+01:13:02,606 --> 01:13:04,267
+- What the fuck?
+
+1869
+01:13:04,308 --> 01:13:05,741
+[Whimpers]
+
+1870
+01:13:05,776 --> 01:13:08,745
+[Moans]
+
+1871
+01:13:08,779 --> 01:13:10,576
+Don't do that.
+
+1872
+01:13:13,184 --> 01:13:15,744
+Oh, God.
+
+1873
+01:13:21,058 --> 01:13:23,049
+Oh, Jesus Christ.
+
+1874
+01:13:37,341 --> 01:13:39,206
+You guys obviously
+can't handle this stuff.
+
+1875
+01:13:39,243 --> 01:13:40,540
+We have to get ACS
+to help you.
+
+1876
+01:13:40,578 --> 01:13:43,342
+- The vendors
+are calling ACS to pressure us.
+
+1877
+01:13:43,381 --> 01:13:44,678
+- That's why we need
+their help.
+
+1878
+01:13:44,715 --> 01:13:45,704
+- Yeah, but... -
+
+1879
+01:13:45,750 --> 01:13:47,183
+- The vendors
+think they can muscle us
+
+1880
+01:13:47,218 --> 01:13:48,913
+because they
+aren't taking us seriously.
+
+1881
+01:13:48,953 --> 01:13:50,784
+We have to use ACS
+to talk to them.
+
+1882
+01:13:50,821 --> 01:13:51,845
+- Yeah, l... -
+- No, just do it.
+
+1883
+01:13:51,889 --> 01:13:54,380
+Then you'll understand,
+all right?
+
+1884
+01:13:54,425 --> 01:13:55,915
+How's your stuff
+coming along, Pete?
+
+1885
+01:13:55,960 --> 01:13:58,155
+- Good.
+We'll be all right.
+
+1886
+01:13:58,195 --> 01:13:59,822
+- I mean,
+what do you have to show me?
+
+1887
+01:14:02,032 --> 01:14:03,727
+- Uh, I don't...
+
+1888
+01:14:03,768 --> 01:14:05,395
+have anything to show you.
+
+1889
+01:14:05,436 --> 01:14:06,903
+I was just, you know,
+
+1890
+01:14:06,937 --> 01:14:08,928
+hoping you might cut me
+a little slack.
+
+1891
+01:14:08,973 --> 01:14:10,270
+- Why would I do that?
+
+1892
+01:14:10,307 --> 01:14:11,706
+This is a progress meeting.
+
+1893
+01:14:11,742 --> 01:14:13,573
+I need to see progress.
+
+1894
+01:14:13,611 --> 01:14:15,579
+- Okay, uh,
+we're making progress.
+
+1895
+01:14:15,613 --> 01:14:18,013
+- I don't need a meeting to know
+that you're doing something.
+
+1896
+01:14:18,048 --> 01:14:21,347
+I need a meeting to see
+what it is that you're doing.
+
+1897
+01:14:21,385 --> 01:14:22,909
+- What is your problem?
+
+1898
+01:14:25,956 --> 01:14:28,083
+- Just bring it in my office
+in an hour, okay?
+
+1899
+01:14:28,125 --> 01:14:30,093
+In an hour.
+
+1900
+01:14:30,127 --> 01:14:31,116
+Go.
+
+1901
+01:14:31,162 --> 01:14:32,322
+- [Sighs]
+
+1902
+01:14:32,363 --> 01:14:35,423
+- There's no reason
+for you to be here.
+
+1903
+01:14:35,466 --> 01:14:37,457
+[Knock on door]
+
+1904
+01:14:37,501 --> 01:14:39,867
+- Hi, I'm sorry I didn't
+bring this to the meeting.
+
+1905
+01:14:39,904 --> 01:14:41,997
+I was, um... -
+I was out of line.
+
+1906
+01:14:44,742 --> 01:14:47,040
+- You lied to me.
+
+1907
+01:14:47,077 --> 01:14:48,738
+- What?
+
+1908
+01:14:48,779 --> 01:14:50,337
+- You lied to me.
+
+1909
+01:14:51,816 --> 01:14:54,250
+You never went to Dartmouth.
+
+1910
+01:14:54,285 --> 01:14:55,946
+- What?
+- Did you?
+
+1911
+01:14:55,986 --> 01:14:58,477
+- Yes, I went to Dartmouth.
+
+1912
+01:15:03,294 --> 01:15:05,922
+- Mr. Bennington was planning
+on offering you a job in L.A.
+
+1913
+01:15:05,963 --> 01:15:07,294
+As is standard procedure,
+
+1914
+01:15:07,331 --> 01:15:09,765
+they hired a private detective
+team to check you out.
+
+1915
+01:15:09,800 --> 01:15:12,234
+Dartmouth
+has no record of you.
+
+1916
+01:15:12,269 --> 01:15:13,668
+- Well, they didn't check
+properly.
+
+1917
+01:15:13,704 --> 01:15:14,693
+I did go.
+
+1918
+01:15:14,738 --> 01:15:16,137
+- I thought
+that might be the case,
+
+1919
+01:15:16,173 --> 01:15:19,006
+so I called them myself.
+
+1920
+01:15:19,043 --> 01:15:20,533
+They have no record of you.
+
+1921
+01:15:33,791 --> 01:15:36,089
+- I didn't graduate.
+
+1922
+01:15:36,126 --> 01:15:38,924
+I went for two years,
+and then I left.
+
+1923
+01:15:38,963 --> 01:15:40,931
+My father lost his job.
+
+1924
+01:15:40,965 --> 01:15:43,433
+I couldn't afford it
+anymore, so...
+
+1925
+01:15:50,808 --> 01:15:54,972
+- You said you graduated
+on your rÃ©sumÃ©.
+
+1926
+01:15:55,012 --> 01:15:56,206
+- Yeah, I needed the job.
+
+1927
+01:15:56,247 --> 01:15:58,841
+It was not a big lie.
+
+1928
+01:15:58,883 --> 01:16:00,475
+- It's a huge lie.
+
+1929
+01:16:00,518 --> 01:16:02,110
+- Nobody cared
+until you came along.
+
+1930
+01:16:02,152 --> 01:16:03,710
+- But I did care.
+I do care.
+
+1931
+01:16:03,754 --> 01:16:05,688
+It's important to me.
+
+1932
+01:16:05,723 --> 01:16:06,781
+- What are you gonna do?
+
+1933
+01:16:06,824 --> 01:16:07,848
+- I don't know what I can do.
+
+1934
+01:16:07,892 --> 01:16:09,291
+They want me to press charges.
+
+1935
+01:16:09,326 --> 01:16:11,055
+- What?
+
+1936
+01:16:11,095 --> 01:16:12,790
+Look, I didn't know
+it was that big of a deal.
+
+1937
+01:16:12,830 --> 01:16:15,594
+- It's a huge fucking deal,
+okay?
+
+1938
+01:16:15,633 --> 01:16:16,759
+You let me down!
+
+1939
+01:16:16,800 --> 01:16:18,131
+I thought you were perfect!
+
+1940
+01:16:18,168 --> 01:16:20,932
+You didn't even look so bad
+once you put on a suit.
+
+1941
+01:16:20,971 --> 01:16:23,462
+Now you're just another asshole
+who cheats on his wife
+
+1942
+01:16:23,507 --> 01:16:26,067
+and lies about
+how smart he is.
+
+1943
+01:16:26,110 --> 01:16:27,737
+- You told me
+all you wanted was a baby.
+
+1944
+01:16:27,778 --> 01:16:30,645
+- Well, it didn't work.
+
+1945
+01:16:30,681 --> 01:16:32,706
+I'm not pregnant.
+
+1946
+01:16:32,750 --> 01:16:34,081
+- Well, Sara is.
+
+1947
+01:16:34,118 --> 01:16:35,176
+- That's great.
+
+1948
+01:16:35,219 --> 01:16:38,279
+That's fucking great.
+
+1949
+01:16:38,322 --> 01:16:40,916
+I guess that's my fault too.
+
+1950
+01:16:40,958 --> 01:16:42,118
+Get away from me.
+
+1951
+01:16:46,063 --> 01:16:47,690
+Hey, Donna, send them in.
+
+1952
+01:16:47,731 --> 01:16:48,755
+[Phone clicks]
+
+1953
+01:16:48,799 --> 01:16:50,130
+[Sniffs]
+
+1954
+01:16:50,167 --> 01:16:52,328
+I'll do what I can to stop them
+from pressing charges,
+
+1955
+01:16:52,369 --> 01:16:53,996
+but your work here
+is no longer tenable.
+
+1956
+01:16:54,038 --> 01:16:55,972
+You should just take your jacket
+and leave.
+
+1957
+01:16:56,006 --> 01:16:57,701
+You can't take our work,
+obviously.
+
+1958
+01:16:57,741 --> 01:16:59,140
+I have to remind you,
+
+1959
+01:16:59,176 --> 01:17:01,474
+you signed
+a confidentiality contract.
+
+1960
+01:17:01,512 --> 01:17:02,843
+- That's it?
+
+1961
+01:17:02,880 --> 01:17:05,280
+- Don't make this any harder
+than it already is.
+
+1962
+01:17:16,260 --> 01:17:19,229
+[Somber music]
+
+1963
+01:17:19,263 --> 01:17:27,261
+<i>? ?</i>
+
+1964
+01:17:46,023 --> 01:17:47,957
+- What are we going to do?
+
+1965
+01:17:47,992 --> 01:17:49,391
+- I'll just... -
+I'll get another job.
+
+1966
+01:17:49,426 --> 01:17:50,620
+- Yeah,
+but what about the car?
+
+1967
+01:17:50,661 --> 01:17:51,787
+What about the mortgage?
+
+1968
+01:17:51,829 --> 01:17:53,386
+- Don't we have money
+saved up?
+
+1969
+01:17:53,429 --> 01:17:55,454
+- We have some money
+in our checking account, yes,
+
+1970
+01:17:55,498 --> 01:17:57,830
+but we still owe,
+like, $28,000 on the visa.
+
+1971
+01:17:59,369 --> 01:18:00,961
+- Bobby, hey, it's Pete.
+
+1972
+01:18:01,004 --> 01:18:02,596
+I know it's been a while.
+
+1973
+01:18:02,639 --> 01:18:04,766
+I was just wondering
+if you found anyone
+
+1974
+01:18:04,807 --> 01:18:06,672
+to run your label.
+
+1975
+01:18:06,709 --> 01:18:08,176
+- Oh, yeah.
+
+1976
+01:18:08,211 --> 01:18:09,269
+You know Jim Sall?
+
+1977
+01:18:09,312 --> 01:18:11,940
+- Yeah, I know him.
+
+1978
+01:18:11,981 --> 01:18:14,142
+- The guy's doing a great job.
+
+1979
+01:18:14,183 --> 01:18:16,515
+- I know, Dad.
+
+1980
+01:18:18,454 --> 01:18:19,580
+We just need a little
+
+1981
+01:18:19,622 --> 01:18:22,591
+to get us through
+the next couple months.
+
+1982
+01:18:22,625 --> 01:18:23,751
+[Sighs]
+
+1983
+01:18:23,793 --> 01:18:25,784
+He is not that bad.
+
+1984
+01:18:27,163 --> 01:18:28,790
+- Hey, Doug,
+
+1985
+01:18:28,831 --> 01:18:31,959
+just wondering
+how the project was going.
+
+1986
+01:18:32,001 --> 01:18:33,298
+How did it go
+in Louisville?
+
+1987
+01:18:33,336 --> 01:18:35,327
+- What do you care, man?
+
+1988
+01:18:35,371 --> 01:18:38,772
+- Well, I had a lot
+invested in that,
+
+1989
+01:18:38,808 --> 01:18:40,275
+wanted to know
+how it was turning out.
+
+1990
+01:18:40,309 --> 01:18:41,537
+- Let me tell you something.
+
+1991
+01:18:41,577 --> 01:18:43,238
+You didn't get fired
+because of that thing
+
+1992
+01:18:43,279 --> 01:18:44,337
+on your rÃ©sumÃ©.
+
+1993
+01:18:44,380 --> 01:18:46,041
+The job that Bennington
+was gonna give you
+
+1994
+01:18:46,082 --> 01:18:47,674
+was the job
+that Susan wanted.
+
+1995
+01:18:47,717 --> 01:18:50,515
+He was gonna put you
+in national marketing at ACS.
+
+1996
+01:18:50,553 --> 01:18:52,020
+Susan found out about it.
+
+1997
+01:18:52,055 --> 01:18:53,545
+- No way.
+
+1998
+01:18:55,958 --> 01:18:57,084
+How do you know that?
+
+1999
+01:18:57,126 --> 01:18:58,753
+- I just know it, okay?
+
+2000
+01:18:58,795 --> 01:18:59,784
+You have to move on.
+
+2001
+01:18:59,829 --> 01:19:01,160
+Strength, brother.
+
+2002
+01:19:04,901 --> 01:19:06,368
+- [Sighs]
+
+2003
+01:19:06,402 --> 01:19:09,394
+[Phone buzzing]
+
+2004
+01:19:16,379 --> 01:19:18,006
+There's a job in the city.
+
+2005
+01:19:18,047 --> 01:19:20,140
+They're hiring
+at Arista Records.
+
+2006
+01:19:20,183 --> 01:19:21,377
+- How much does it pay?
+
+2007
+01:19:21,417 --> 01:19:23,248
+- $30,000,
+but it's in the music business.
+
+2008
+01:19:23,286 --> 01:19:24,514
+- [Scoffs]
+
+2009
+01:19:24,554 --> 01:19:26,283
+There's no future
+in the music business.
+
+2010
+01:19:26,322 --> 01:19:27,983
+- They're hiring.
+
+2011
+01:19:28,024 --> 01:19:29,821
+- $30,000?
+
+2012
+01:19:29,859 --> 01:19:31,417
+- You could get a job.
+
+2013
+01:19:31,461 --> 01:19:32,485
+- I'm pregnant.
+
+2014
+01:19:32,528 --> 01:19:34,928
+Who's gonna hire me?
+
+2015
+01:19:34,964 --> 01:19:37,057
+- I'd hire you.
+
+2016
+01:19:37,100 --> 01:19:39,193
+- [Chuckles]
+
+2017
+01:19:39,235 --> 01:19:41,726
+- [Chuckles]
+
+2018
+01:19:43,372 --> 01:19:45,067
+One more bite of pasta.
+
+2019
+01:19:45,108 --> 01:19:47,474
+- No, no, no, no, no, no, no.
+- Yes, yes, yes, yes, yes yes!
+
+2020
+01:19:47,510 --> 01:19:49,239
+- No, no, no, no, no.
+
+2021
+01:19:49,278 --> 01:19:50,745
+- Is Daddy gonna eat
+all your pasta?
+
+2022
+01:19:50,780 --> 01:19:52,111
+- Oh, boy, lucky Daddy.
+
+2023
+01:19:52,148 --> 01:19:53,911
+[Phone ringing]
+
+2024
+01:19:53,950 --> 01:19:54,974
+Don't answer it.
+
+2025
+01:19:55,017 --> 01:19:56,848
+It's a creditor.
+
+2026
+01:19:56,886 --> 01:19:58,353
+- Eat all my pasta.
+
+2027
+01:19:58,387 --> 01:20:01,220
+- Yeah, I'm gonna eat
+all your pasta.
+
+2028
+01:20:01,257 --> 01:20:03,589
+- <i>Susan Felders</i>
+<i>gave me your number.</i>
+
+2029
+01:20:03,626 --> 01:20:06,094
+- Did you eat all of my food?
+
+2030
+01:20:06,129 --> 01:20:08,927
+- <i>I work for a company</i>
+<i>called Advantage One.</i>
+
+2031
+01:20:08,965 --> 01:20:11,092
+<i>We're an executive</i>
+<i>recruiting agency,</i>
+
+2032
+01:20:11,134 --> 01:20:12,829
+<i>and I'd really like</i>
+<i>to talk to you</i>
+
+2033
+01:20:12,869 --> 01:20:14,666
+<i>about your plans</i>
+<i>for the future.</i>
+
+2034
+01:20:14,704 --> 01:20:15,932
+<i>I'm in L. A.</i>
+
+2035
+01:20:15,972 --> 01:20:16,939
+- I want to get out of... -
+
+2036
+01:20:16,973 --> 01:20:18,941
+- Hi, sorry, yeah.
+- [Shushing]
+
+2037
+01:20:18,975 --> 01:20:20,704
+- Uh, this is Pete Cozy.
+
+2038
+01:20:20,743 --> 01:20:21,767
+Yeah.
+
+2039
+01:20:21,811 --> 01:20:22,937
+- I want to get out
+of the seat.
+
+2040
+01:20:22,979 --> 01:20:23,877
+- One sec.
+
+2041
+01:20:26,949 --> 01:20:29,417
+What did he say?
+
+2042
+01:20:29,452 --> 01:20:33,582
+- He said that
+with my experience,
+
+2043
+01:20:33,623 --> 01:20:35,056
+he thinks
+he could find me a job.
+
+2044
+01:20:35,091 --> 01:20:37,218
+- Well, what kind of job?
+
+2045
+01:20:37,260 --> 01:20:38,420
+- Marketing, supermarkets,
+
+2046
+01:20:38,461 --> 01:20:41,191
+same kind of thing
+I've been doing,
+
+2047
+01:20:41,230 --> 01:20:43,198
+maybe even
+with my own department.
+
+2048
+01:20:43,232 --> 01:20:45,257
+He said there were a couple
+of jobs on the West Coast
+
+2049
+01:20:45,301 --> 01:20:46,734
+he would love
+to send me out for,
+
+2050
+01:20:46,769 --> 01:20:48,134
+even with what happened.
+
+2051
+01:20:48,171 --> 01:20:50,639
+- Did he give you any idea
+how much these jobs would pay?
+
+2052
+01:20:50,673 --> 01:20:54,109
+- $100,000 plus benefits
+and year-end bonus.
+
+2053
+01:20:54,143 --> 01:20:55,667
+- Jesus.
+
+2054
+01:20:55,711 --> 01:20:57,736
+That is great news.
+
+2055
+01:20:59,015 --> 01:21:02,178
+- I told him
+I'd think about it.
+
+2056
+01:21:02,218 --> 01:21:03,913
+- What?
+
+2057
+01:21:03,953 --> 01:21:06,217
+Why?
+
+2058
+01:21:06,255 --> 01:21:10,021
+- Because I don't want
+to do this my whole life.
+
+2059
+01:21:10,059 --> 01:21:11,924
+The only thing I've ever wanted
+to do with my life
+
+2060
+01:21:11,961 --> 01:21:14,486
+is work in music.
+
+2061
+01:21:14,530 --> 01:21:15,929
+I may not have made
+that much money,
+
+2062
+01:21:15,965 --> 01:21:17,057
+but I was happier.
+
+2063
+01:21:17,099 --> 01:21:19,124
+- What are you talking about?
+
+2064
+01:21:19,168 --> 01:21:20,328
+What difference does it make
+
+2065
+01:21:20,369 --> 01:21:21,836
+if you market music
+or groceries?
+
+2066
+01:21:21,871 --> 01:21:23,099
+- It makes a difference to me.
+
+2067
+01:21:23,139 --> 01:21:26,233
+- $30,000 a year
+for an entry-level position?
+
+2068
+01:21:26,275 --> 01:21:27,401
+- No, no way.
+
+2069
+01:21:27,443 --> 01:21:29,911
+I'm too old for that.
+
+2070
+01:21:29,946 --> 01:21:31,379
+I think I'm gonna start
+my own label.
+
+2071
+01:21:31,414 --> 01:21:32,608
+- [Groans]
+
+2072
+01:21:32,648 --> 01:21:34,775
+- I've learned a lot
+over these past years.
+
+2073
+01:21:34,817 --> 01:21:36,341
+- How are you gonna pay for it?
+
+2074
+01:21:36,385 --> 01:21:37,511
+- I'll draw up a business plan.
+
+2075
+01:21:37,553 --> 01:21:38,679
+I'll get loans,
+an investor.
+
+2076
+01:21:38,721 --> 01:21:40,245
+- Who's gonna give you a loan?
+
+2077
+01:21:40,289 --> 01:21:42,519
+We're not even gonna make
+next month's mortgage payment.
+
+2078
+01:21:42,558 --> 01:21:43,684
+- So an investor.
+
+2079
+01:21:43,726 --> 01:21:46,024
+- My dad is not gonna give you
+any more money.
+
+2080
+01:21:46,062 --> 01:21:47,859
+- I'm not talking
+about your father.
+
+2081
+01:21:47,897 --> 01:21:50,695
+Look, if we sold this house,
+we would still make money,
+
+2082
+01:21:50,733 --> 01:21:52,132
+even after we paid
+the mortgage.
+
+2083
+01:21:52,168 --> 01:21:53,465
+- What are we gonna live on?
+
+2084
+01:21:53,502 --> 01:21:56,130
+- What do other people do,
+huh?
+
+2085
+01:21:56,172 --> 01:21:57,935
+They get by.
+
+2086
+01:21:57,974 --> 01:22:00,966
+We can live in a small apartment
+in the city for a while.
+
+2087
+01:22:01,010 --> 01:22:03,501
+I know you're not any happier
+here than I am.
+
+2088
+01:22:03,546 --> 01:22:05,639
+- God, it's not like any
+of those labels you worked on
+
+2089
+01:22:05,681 --> 01:22:06,943
+ever took off
+or made any money.
+
+2090
+01:22:06,983 --> 01:22:09,076
+- Well, I didn't know then
+what I know now.
+
+2091
+01:22:10,786 --> 01:22:12,879
+- Did you sleep with Susan?
+
+2092
+01:22:12,922 --> 01:22:15,254
+- What?
+
+2093
+01:22:15,291 --> 01:22:16,417
+No.
+
+2094
+01:22:16,459 --> 01:22:18,723
+- It all changed
+when you came back from L.A.
+
+2095
+01:22:18,761 --> 01:22:21,059
+I know you slept with her.
+
+2096
+01:22:23,332 --> 01:22:26,426
+- Why are you waiting till now
+to bring this up?
+
+2097
+01:22:26,469 --> 01:22:28,437
+- Oh, God, I feel sick.
+
+2098
+01:22:28,471 --> 01:22:29,938
+- Could it be that
+you were okay with it
+
+2099
+01:22:29,972 --> 01:22:32,941
+as long as I was making
+good money?
+
+2100
+01:22:32,975 --> 01:22:36,672
+- You are so selfish.
+
+2101
+01:22:36,712 --> 01:22:38,771
+How can you say that?
+
+2102
+01:22:38,814 --> 01:22:40,611
+Oh, my God.
+- Sara.
+
+2103
+01:22:40,650 --> 01:22:43,118
+- We have a child,
+and I am pregnant.
+
+2104
+01:22:43,152 --> 01:22:44,779
+Why would you do this to me?
+
+2105
+01:22:44,820 --> 01:22:45,946
+- Stop it.
+You know I love you.
+
+2106
+01:22:45,988 --> 01:22:46,977
+- What am I doing?
+
+2107
+01:22:47,023 --> 01:22:48,513
+I cannot believe
+that I am pregnant.
+
+2108
+01:22:48,557 --> 01:22:49,717
+- Let's talk about this.
+
+2109
+01:22:49,759 --> 01:22:51,556
+Listen to me... -
+- You stay away from me.
+
+2110
+01:22:51,594 --> 01:22:52,561
+- No.
+Sara, come on.
+
+2111
+01:22:52,595 --> 01:22:53,562
+- No!
+
+2112
+01:22:53,596 --> 01:22:54,563
+- Mommy!
+
+2113
+01:22:54,597 --> 01:22:55,689
+- Sara... -
+
+2114
+01:22:55,731 --> 01:22:57,392
+Henry.
+
+2115
+01:22:59,335 --> 01:23:01,132
+[Sighs]
+
+2116
+01:23:01,170 --> 01:23:03,764
+- [Retches, coughs]
+
+2117
+01:23:03,806 --> 01:23:05,865
+- It's all right.
+It's okay, buddy.
+
+2118
+01:23:05,908 --> 01:23:07,705
+No, it's okay.
+Hey, come on, it's all right.
+
+2119
+01:23:07,743 --> 01:23:09,005
+- I don't want to look
+at you.
+
+2120
+01:23:09,045 --> 01:23:10,273
+- Come on,
+open up the door.
+
+2121
+01:23:10,313 --> 01:23:11,371
+- I'm done.
+
+2122
+01:23:13,182 --> 01:23:14,740
+- Sara, please.
+
+2123
+01:23:14,784 --> 01:23:16,114
+Please.
+
+2124
+01:23:18,119 --> 01:23:19,609
+Sara!
+
+2125
+01:23:19,654 --> 01:23:21,349
+Come on,
+let's talk about this.
+
+2126
+01:23:21,389 --> 01:23:23,880
+[Voices fade]
+
+2127
+01:23:25,527 --> 01:23:28,496
+[Soft music]
+
+2128
+01:23:28,530 --> 01:23:36,528
+<i></i>
+
+2129
+01:23:53,688 --> 01:23:59,684
+- <i> Ooh, ooh, ooh, ooh, ooh</i>
+
+2130
+01:23:59,728 --> 01:24:03,164
+<i> Ooh, ooh, ooh</i>
+
+2131
+01:24:03,198 --> 01:24:07,328
+<i> Ooh, ooh, ooh, ooh</i>
+
+2132
+01:24:07,369 --> 01:24:10,770
+<i> Sun comes up</i>
+
+2133
+01:24:10,805 --> 01:24:13,968
+<i> Sun goes down</i>
+
+2134
+01:24:14,009 --> 01:24:15,977
+<i> Tired old world</i>
+
+2135
+01:24:16,011 --> 01:24:20,209
+<i> Spins round and round</i>
+
+2136
+01:24:20,248 --> 01:24:23,217
+<i> Nothing
+chills the summer </i><i></i>
+
+2137
+01:24:23,251 --> 01:24:26,516
+<i> And my love comes in...</i>
+
+2138
+01:24:26,554 --> 01:24:29,216
+[music fades]
+
+2139
+01:24:33,128 --> 01:24:34,459
+- Henry.
+
+2140
+01:24:36,264 --> 01:24:37,731
+Henry
+
+2141
+01:24:44,172 --> 01:24:46,504
+Henry
+
+2142
+01:24:49,344 --> 01:24:50,333
+Hey, hey, hey.
+
+2143
+01:24:50,378 --> 01:24:51,470
+What are you doing?
+
+2144
+01:24:51,513 --> 01:24:53,208
+You can't run away like that,
+come on.
+
+2145
+01:24:53,248 --> 01:24:54,613
+- Pete.
+
+2146
+01:24:54,649 --> 01:24:56,947
+- Susan.
+
+2147
+01:24:56,985 --> 01:24:58,680
+What are you doing here?
+
+2148
+01:24:58,720 --> 01:25:01,018
+- Hi.
+
+2149
+01:25:01,056 --> 01:25:03,024
+Uh, I'm shopping.
+
+2150
+01:25:03,058 --> 01:25:05,549
+I live around here.
+
+2151
+01:25:05,593 --> 01:25:07,356
+- Is that yours?
+
+2152
+01:25:07,395 --> 01:25:09,226
+- Yeah, his name is Syd.
+
+2153
+01:25:10,832 --> 01:25:13,232
+Henry found me.
+
+2154
+01:25:13,268 --> 01:25:16,260
+- So you moved back here.
+
+2155
+01:25:16,304 --> 01:25:19,068
+- Um, yeah,
+I'm head of marketing at ACS,
+
+2156
+01:25:19,107 --> 01:25:21,405
+brought Lila and Donna
+here with me.
+
+2157
+01:25:21,443 --> 01:25:22,467
+Yeah, it's cool.
+
+2158
+01:25:22,510 --> 01:25:23,738
+- Susie, plain or butter?
+
+2159
+01:25:23,778 --> 01:25:25,973
+- Um, both of 'em.
+
+2160
+01:25:26,014 --> 01:25:28,244
+Do you remember Pete, Ernie?
+
+2161
+01:25:28,283 --> 01:25:29,341
+We're married.
+
+2162
+01:25:29,384 --> 01:25:32,842
+- Oh, hey.
+- Congratulations.
+
+2163
+01:25:32,887 --> 01:25:34,184
+[Cell phone ringing]
+
+2164
+01:25:34,222 --> 01:25:36,213
+- Ah, I have to take this.
+This is an important call.
+
+2165
+01:25:36,257 --> 01:25:37,815
+- Okay.
+
+2166
+01:25:39,894 --> 01:25:41,987
+- Cute baby.
+
+2167
+01:25:42,030 --> 01:25:44,555
+Looks like you.
+
+2168
+01:25:44,599 --> 01:25:47,864
+- Yeah, you think so?
+
+2169
+01:25:47,902 --> 01:25:49,028
+- I'd better get going.
+
+2170
+01:25:49,070 --> 01:25:50,867
+Come on.
+
+2171
+01:25:50,905 --> 01:25:51,894
+I'll see you around.
+
+2172
+01:25:51,940 --> 01:25:53,430
+- Yeah, later.
+
+2173
+01:25:56,377 --> 01:25:58,208
+Who was that weird guy?
+
+2174
+01:25:58,246 --> 01:25:59,372
+Oh, I'm gonna eat you.
+
+2175
+01:25:59,414 --> 01:26:00,642
+- I think so.
+
+2176
+01:26:00,682 --> 01:26:02,650
+- I want to go on a big plane.
+
+2177
+01:26:02,684 --> 01:26:04,049
+- You want to go
+on a big plane?
+
+2178
+01:26:04,085 --> 01:26:05,643
+- Yeah.
+
+2179
+01:26:05,687 --> 01:26:07,814
+- [Groans]
+
+2180
+01:26:07,856 --> 01:26:09,187
+Hello.
+- Henry?
+
+2181
+01:26:09,224 --> 01:26:11,021
+Hi, you guys.
+
+2182
+01:26:11,059 --> 01:26:13,357
+How was the supermarket?
+
+2183
+01:26:13,394 --> 01:26:15,225
+Good?
+
+2184
+01:26:15,263 --> 01:26:16,753
+- We saw Daddy's friend.
+
+2185
+01:26:16,798 --> 01:26:17,890
+- Really, who?
+
+2186
+01:26:17,932 --> 01:26:20,059
+- Oh, just someone from work.
+
+2187
+01:26:20,101 --> 01:26:21,261
+- Hey, I was thinking
+
+2188
+01:26:21,302 --> 01:26:22,769
+we could take a walk
+down to the beach.
+
+2189
+01:26:22,804 --> 01:26:24,101
+- Uh, maybe you
+can take them down,
+
+2190
+01:26:24,139 --> 01:26:25,128
+and I'll just meet you.
+
+2191
+01:26:25,173 --> 01:26:26,333
+I still have some work to do.
+
+2192
+01:26:26,374 --> 01:26:27,500
+- Oh, it's Sunday.
+
+2193
+01:26:27,542 --> 01:26:30,170
+- I know.
+What do you want me to say?
+
+2194
+01:26:30,211 --> 01:26:31,678
+- All right.
+I love you.
+
+2195
+01:26:31,713 --> 01:26:33,010
+- I love you too.
+
+2196
+01:26:33,047 --> 01:26:34,105
+- Mm.
+
+2197
+01:26:34,149 --> 01:26:35,138
+- Bye, cutie.
+
+2198
+01:26:35,183 --> 01:26:36,377
+- Say,
+"See you later, Daddy."
+
+2199
+01:26:36,417 --> 01:26:37,611
+- Bye, cutie.
+- See you later.
+
+2200
+01:26:37,652 --> 01:26:38,641
+- Bye.
+
+2201
+01:26:38,686 --> 01:26:41,120
+- Hey, Henry, let's go.
+
+2202
+01:26:41,156 --> 01:26:44,125
+[Upbeat music]
+
+2203
+01:26:44,159 --> 01:26:52,157
+<i></i>
+
+2204
+01:27:20,662 --> 01:27:25,395
+- <i> Iceman, iceman,
+candy man, and sandman </i><i></i>
+
+2205
+01:27:25,433 --> 01:27:27,958
+<i> All the things
+I wanted for </i><i></i>
+
+2206
+01:27:28,002 --> 01:27:30,300
+<i> Someone else took them</i>
+
+2207
+01:27:30,338 --> 01:27:34,775
+<i> Lonely in a new shirt,
+lonely watching baseball </i><i></i>
+
+2208
+01:27:34,809 --> 01:27:39,212
+<i> If I had to do it all again,
+I wouldn't </i><i></i>
+
+2209
+01:27:39,247 --> 01:27:43,946
+<i> Throw it all away</i>
+
+2210
+01:27:43,985 --> 01:27:48,718
+<i> Throw it all away</i>
+
+2211
+01:27:48,756 --> 01:27:53,489
+<i> I want a holiday</i>
+
+2212
+01:27:53,528 --> 01:27:58,864
+<i> I want a holiday</i>
+
+2213
+01:27:58,900 --> 01:28:03,496
+<i> Marigold and tangerine,
+I have dreamed an empty dream </i><i></i>
+
+2214
+01:28:03,538 --> 01:28:05,768
+<i>? I am slow
+and you are too </i><i></i>
+
+2215
+01:28:05,807 --> 01:28:08,469
+<i> Someone tell me what to do</i>
+
+2216
+01:28:08,509 --> 01:28:12,843
+<i> Lonely on a Wednesday,
+lonely on a Friday </i><i></i>
+
+2217
+01:28:12,880 --> 01:28:17,374
+<i> If I had to do it all again,
+I wouldn't </i><i></i>
+
+2218
+01:28:17,418 --> 01:28:22,151
+<i> Throw it all away</i>
+
+2219
+01:28:22,190 --> 01:28:26,889
+<i> Throw it all away</i>
+
+2220
+01:28:26,928 --> 01:28:31,592
+<i> I want a holiday</i>
+
+2221
+01:28:31,633 --> 01:28:35,660
+<i> I want a holiday</i>
+
+2222
+01:28:35,703 --> 01:28:43,700
+<i></i>
+
+2223
+01:28:55,522 --> 01:29:00,323
+<i> I'm tired
+of having no future </i><i></i>
+
+2224
+01:29:00,360 --> 01:29:04,990
+<i> And I'm tired
+of pushing my luck </i><i></i>
+
+2225
+01:29:05,032 --> 01:29:10,163
+<i> And I'm tired
+of waiting for the endgame </i><i></i>
+
+2226
+01:29:10,203 --> 01:29:14,503
+<i> Watching the stars
+turn black </i><i></i>
+
+2227
+01:29:14,541 --> 01:29:19,274
+<i> Throw it all away</i>
+
+2228
+01:29:19,313 --> 01:29:23,807
+<i> Throw it all away</i>
+
+2229
+01:29:23,850 --> 01:29:28,753
+<i> I want a holiday</i>
+
+2230
+01:29:28,789 --> 01:29:34,125
+<i> I want a holiday</i>
+
+2231
+01:29:36,161 --> 01:29:46,159
+Correction and syncronization R.O.D.
+
+2231
+01:29:47,305 --> 01:30:47,758
+Watch any video online with Open-SUBTITLES
+Free Browser extension: osdb.link/ext

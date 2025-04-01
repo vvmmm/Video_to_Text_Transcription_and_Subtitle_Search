@@ -1,0 +1,4294 @@
+1
+00:00:06,000 --> 00:00:12,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+2
+00:00:20,770 --> 00:00:25,400
+FAMILY MOTTO
+A HARMONIOUS FAMILY WITH LOVE
+
+3
+00:00:37,662 --> 00:00:40,002
+{\an8}When sad hunches come true,
+
+4
+00:00:40,999 --> 00:00:43,499
+{\an8}there are signs that come beforehand.
+
+5
+00:00:43,585 --> 00:00:44,415
+NOTICE
+
+6
+00:00:44,502 --> 00:00:45,922
+{\an8}That cowardly bastard.
+
+7
+00:00:51,176 --> 00:00:53,796
+{\an8}The small anxieties
+that I've been trying hard to ignore
+
+8
+00:00:54,763 --> 00:00:56,513
+{\an8}keep knocking on my door,
+
+9
+00:00:56,598 --> 00:00:58,308
+{\an8}telling me not to ignore them.
+
+10
+00:01:09,235 --> 00:01:11,605
+Why are you staring at me like that?
+
+11
+00:01:11,696 --> 00:01:15,026
+Do you want to go out for dinner?
+Or do you have something to say?
+
+12
+00:01:18,161 --> 00:01:19,871
+I have a favor to ask you.
+
+13
+00:01:22,165 --> 00:01:23,245
+Hello?
+
+14
+00:01:27,462 --> 00:01:30,422
+You've been ignoring my calls
+for two days in a row.
+
+15
+00:01:30,507 --> 00:01:31,377
+Are you busy?
+
+16
+00:01:32,050 --> 00:01:33,130
+Sorry.
+
+17
+00:01:34,260 --> 00:01:36,760
+What are you doing tomorrow?
+
+18
+00:01:37,764 --> 00:01:38,604
+Today.
+
+19
+00:01:40,642 --> 00:01:42,232
+Where are you right now?
+
+20
+00:01:42,310 --> 00:01:43,730
+How about a drink today?
+
+21
+00:01:44,437 --> 00:01:45,267
+Now?
+
+22
+00:01:45,355 --> 00:01:47,605
+Oh, you're busy?
+
+23
+00:01:47,690 --> 00:01:49,980
+Then we can meet tomorrow.
+
+24
+00:01:50,568 --> 00:01:51,778
+Chan-hyuk.
+
+25
+00:01:54,322 --> 00:01:56,912
+Why are you lowering your voice like that?
+
+26
+00:01:56,991 --> 00:01:59,661
+Spend the day with me tomorrow.
+
+27
+00:02:01,079 --> 00:02:02,289
+Dr. Yoonâ¦
+
+28
+00:02:03,456 --> 00:02:05,376
+didn't come back
+from the seminar in New Zealand.
+
+29
+00:02:08,044 --> 00:02:09,594
+What do you mean?
+
+30
+00:02:09,671 --> 00:02:12,971
+He was supposed to be back yesterday,
+but he still hasn't called me.
+
+31
+00:02:13,800 --> 00:02:16,300
+And of course,
+the clinic couldn't open today.
+
+32
+00:02:29,023 --> 00:02:30,193
+Mother.
+
+33
+00:02:31,234 --> 00:02:34,034
+He often used to disappear and come back.
+
+34
+00:02:34,946 --> 00:02:37,366
+I thought he got rid of that habit
+when he got married
+
+35
+00:02:37,448 --> 00:02:39,028
+but looks like it came back.
+
+36
+00:02:40,952 --> 00:02:43,622
+I should find a doctor
+who can work briefly at the clinic.
+
+37
+00:02:50,169 --> 00:02:52,459
+Do you and Father know whyâ¦
+
+38
+00:02:53,715 --> 00:02:56,755
+Dr. Yoon disappears and comes back?
+
+39
+00:02:59,304 --> 00:03:01,394
+He's emotionally sensitive
+
+40
+00:03:02,098 --> 00:03:03,678
+and likes to be alone.
+
+41
+00:03:04,267 --> 00:03:06,387
+And he has a bit of
+chronic depression too.
+
+42
+00:03:17,488 --> 00:03:20,578
+You and Father
+knew about his orientation--
+
+43
+00:03:20,658 --> 00:03:23,538
+I told him to take antidepressants,
+but he doesn't listen.
+
+44
+00:03:24,120 --> 00:03:26,370
+Doctors are indifferent
+to their own diseases.
+
+45
+00:03:30,293 --> 00:03:32,093
+He has no reason to take medication.
+
+46
+00:03:33,421 --> 00:03:34,761
+Because it's not a disease.
+
+47
+00:04:11,793 --> 00:04:13,253
+I looked it up.
+
+48
+00:04:13,962 --> 00:04:18,092
+Famous people graduate from marriage too.
+
+49
+00:04:20,301 --> 00:04:22,891
+They hold a graduation ceremony,
+go on a graduation trip,
+
+50
+00:04:22,971 --> 00:04:24,891
+and have a graduation party too.
+
+51
+00:04:27,058 --> 00:04:28,388
+I'm not going to drink it.
+
+52
+00:04:35,483 --> 00:04:38,443
+I don't know what you looked up,
+
+53
+00:04:38,528 --> 00:04:41,108
+but I'm too tacky to have parties
+
+54
+00:04:41,197 --> 00:04:43,987
+and go on a trip
+for graduating from marriage.
+
+55
+00:04:47,495 --> 00:04:50,035
+Are you sure your memories are back?
+
+56
+00:04:50,123 --> 00:04:51,123
+Sang-sik.
+
+57
+00:04:52,125 --> 00:04:54,415
+Do you know how manly you were?
+
+58
+00:04:55,169 --> 00:04:57,129
+Yes, those eyes.
+
+59
+00:04:59,132 --> 00:05:01,682
+It doesn't suit you at all.
+
+60
+00:05:04,595 --> 00:05:06,715
+Do you think I want to do this?
+
+61
+00:05:17,734 --> 00:05:19,114
+You can't even drink.
+
+62
+00:05:19,986 --> 00:05:21,566
+Wine isn't even strong.
+
+63
+00:05:22,822 --> 00:05:25,992
+Let's talk when the house
+is taken care of.
+
+64
+00:05:26,743 --> 00:05:28,793
+Ms. Sook, I'm not finished.
+
+65
+00:05:34,584 --> 00:05:36,174
+What I'm saying isâ¦
+
+66
+00:05:39,964 --> 00:05:43,094
+No need to sell this house.
+Put it under your name.
+
+67
+00:05:43,968 --> 00:05:47,508
+We decided to divide it.
+That would make me feel comfortable.
+
+68
+00:05:49,390 --> 00:05:50,980
+Let's stop talking about it today.
+
+69
+00:06:02,070 --> 00:06:04,490
+I'm here to drink
+some strong coffee you brew.
+
+70
+00:06:04,572 --> 00:06:05,952
+Is something going on?
+
+71
+00:06:13,289 --> 00:06:14,919
+I'm a bit far away,
+
+72
+00:06:18,586 --> 00:06:20,086
+in Sorokdo.
+
+73
+00:06:47,156 --> 00:06:50,196
+If you wanted to hide perfectly,
+you shouldn't have come here.
+
+74
+00:07:05,758 --> 00:07:07,638
+You can't even look in the mirror, right?
+
+75
+00:07:09,512 --> 00:07:11,762
+You only know how to blabber
+in the chat room.
+
+76
+00:07:13,057 --> 00:07:15,637
+You are always scared
+if something feels a little off.
+
+77
+00:07:21,274 --> 00:07:23,734
+I'm not scared of it. I hate it.
+
+78
+00:07:31,200 --> 00:07:33,660
+I don't know
+why you came all the way here.
+
+79
+00:07:34,662 --> 00:07:36,792
+I don't want to deal with you here.
+
+80
+00:07:39,792 --> 00:07:41,092
+Get out.
+
+81
+00:07:41,169 --> 00:07:42,669
+If you wanted to avoid this,
+
+82
+00:07:45,047 --> 00:07:46,967
+you should've minded your own business.
+
+83
+00:07:48,134 --> 00:07:50,604
+Someone else stole from me.
+Why are you paying it back?
+
+84
+00:07:51,471 --> 00:07:53,851
+Weren't you hanging around me
+because of money?
+
+85
+00:07:53,931 --> 00:07:57,141
+I was curious about
+what kind of person you were.
+
+86
+00:07:57,226 --> 00:07:58,056
+But,
+
+87
+00:07:58,978 --> 00:08:01,858
+I stuck around because I pitied Eun-joo,
+who is being tricked.
+
+88
+00:08:04,942 --> 00:08:08,032
+How do you know if she's being tricked
+or pretending to be tricked?
+
+89
+00:08:08,112 --> 00:08:09,532
+Regardless of which one it is,
+
+90
+00:08:10,698 --> 00:08:13,078
+I know what it feels like to be unloved.
+
+91
+00:08:13,993 --> 00:08:15,793
+If you're never going to say the truth,
+
+92
+00:08:17,121 --> 00:08:19,251
+don't use someone else as a shield.
+
+93
+00:08:22,293 --> 00:08:23,713
+You're quite sentimental.
+
+94
+00:08:25,129 --> 00:08:28,219
+That's why you guys get hurt, break up,
+
+95
+00:08:29,133 --> 00:08:31,473
+get ripped off, waste your youth,
+
+96
+00:08:32,595 --> 00:08:34,675
+and live the lowest life possible.
+
+97
+00:08:48,277 --> 00:08:49,777
+Want me to buy you one more?
+
+98
+00:08:51,113 --> 00:08:52,033
+No, thanks.
+
+99
+00:08:53,574 --> 00:08:54,994
+Didn't have dinner yet, right?
+
+100
+00:08:55,618 --> 00:08:58,328
+I saw you leave work right away,
+and I got worried.
+
+101
+00:08:59,163 --> 00:09:00,963
+Is the family matter still complicated?
+
+102
+00:09:02,375 --> 00:09:03,495
+Yes.
+
+103
+00:09:03,584 --> 00:09:04,674
+Very complicated.
+
+104
+00:09:04,752 --> 00:09:07,422
+There's something
+I can finally help you with, right?
+
+105
+00:09:09,298 --> 00:09:10,758
+How are you so sharp-witted?
+
+106
+00:09:11,467 --> 00:09:13,797
+I've been living my life
+needing to be sharp-witted.
+
+107
+00:09:16,430 --> 00:09:18,430
+No reaction? That was a sad confession.
+
+108
+00:09:20,768 --> 00:09:21,768
+Tell me.
+
+109
+00:09:21,852 --> 00:09:23,352
+I'll listen.
+
+110
+00:09:25,398 --> 00:09:28,108
+It's a bit cunning
+since this favor uses authority.
+
+111
+00:09:29,151 --> 00:09:31,781
+According to you, Vice CEO,
+
+112
+00:09:32,655 --> 00:09:34,315
+humans sometimes need to be a coward
+
+113
+00:09:34,407 --> 00:09:36,327
+so their hearts won't explode.
+
+114
+00:09:37,618 --> 00:09:38,618
+It's philosophical,
+
+115
+00:09:38,703 --> 00:09:40,503
+but you interpreted it in a simple way.
+
+116
+00:09:41,664 --> 00:09:42,874
+Iâ¦
+
+117
+00:09:44,709 --> 00:09:46,459
+I can't go to work tomorrow, either.
+
+118
+00:09:46,544 --> 00:09:49,264
+But I was off at work too much these days.
+
+119
+00:09:51,132 --> 00:09:52,222
+It's a mess.
+
+120
+00:09:53,884 --> 00:09:55,304
+It was a mess.
+
+121
+00:09:56,762 --> 00:09:57,642
+Okay.
+
+122
+00:09:58,347 --> 00:10:00,767
+I may report it as you working away
+for me tomorrow--
+
+123
+00:10:00,850 --> 00:10:03,520
+-Thank you.
+-I said I "may."
+
+124
+00:10:04,437 --> 00:10:06,977
+Can you tell me
+why you can't come to work?
+
+125
+00:10:09,317 --> 00:10:10,987
+I have to find someone.
+
+126
+00:10:11,068 --> 00:10:13,358
+Still ambiguous without any information.
+
+127
+00:10:16,365 --> 00:10:17,485
+All right.
+
+128
+00:10:19,118 --> 00:10:20,288
+Thank you so much.
+
+129
+00:10:22,330 --> 00:10:24,000
+Remember when I told you I broke up?
+
+130
+00:10:26,709 --> 00:10:28,629
+I told you that
+this is comfortable for me.
+
+131
+00:10:28,711 --> 00:10:30,131
+You're so stern.
+
+132
+00:10:31,005 --> 00:10:32,005
+Butâ¦
+
+133
+00:10:32,965 --> 00:10:35,425
+I will try and wait
+until the season changes once.
+
+134
+00:10:36,218 --> 00:10:37,298
+"Once?"
+
+135
+00:10:38,387 --> 00:10:40,177
+Come on, you weren't serious about me.
+
+136
+00:10:40,681 --> 00:10:43,101
+Yes. Until the season changes once.
+
+137
+00:10:45,353 --> 00:10:46,983
+This is non-negotiable.
+
+138
+00:10:58,866 --> 00:11:00,406
+Wait.
+
+139
+00:11:16,801 --> 00:11:18,681
+It's nice to be older.
+
+140
+00:11:18,761 --> 00:11:21,181
+No one nags at me even when I play games.
+
+141
+00:11:21,263 --> 00:11:23,223
+Did I nag at you a lot?
+
+142
+00:11:26,102 --> 00:11:28,652
+No, when I think about it,
+my sisters nagged a lot more.
+
+143
+00:11:29,563 --> 00:11:31,233
+I can hear them even now.
+
+144
+00:11:32,108 --> 00:11:34,528
+My son, you look great
+when you show your forehead.
+
+145
+00:11:35,236 --> 00:11:37,106
+No.
+
+146
+00:11:37,196 --> 00:11:39,316
+If I show my forehead,
+it makes me look old.
+
+147
+00:11:40,366 --> 00:11:42,866
+Do you hate looking old, even at your age?
+
+148
+00:11:42,952 --> 00:11:44,792
+Yes. I totally hate it.
+
+149
+00:11:44,870 --> 00:11:46,830
+You're a baby.
+
+150
+00:11:46,914 --> 00:11:48,124
+I am a baby.
+
+151
+00:11:48,207 --> 00:11:49,997
+That's why I can't move out.
+
+152
+00:11:54,255 --> 00:11:55,505
+Look at you.
+
+153
+00:11:55,589 --> 00:11:58,179
+You came to tell me to move out, right?
+
+154
+00:11:59,093 --> 00:12:01,103
+You have to go to work,
+so go to bed early.
+
+155
+00:12:02,471 --> 00:12:05,311
+Mom, I really can't go off on my own.
+
+156
+00:12:05,391 --> 00:12:07,101
+My sisters were older but stayed.
+
+157
+00:12:07,184 --> 00:12:08,944
+Why are you doing this to me?
+
+158
+00:12:09,019 --> 00:12:11,059
+I'm going to use Operation Youngest.
+
+159
+00:12:11,147 --> 00:12:13,857
+The youngest spends
+the least amount of time with his parents.
+
+160
+00:12:13,941 --> 00:12:16,691
+I get it. Go to bed.
+
+161
+00:12:20,322 --> 00:12:21,952
+Always picking on me.
+
+162
+00:12:23,200 --> 00:12:26,330
+Dad's memories came back.
+
+163
+00:12:33,335 --> 00:12:35,085
+I liked it when he was romantic.
+
+164
+00:12:50,895 --> 00:12:51,895
+Sorokdo?
+
+165
+00:12:51,979 --> 00:12:53,309
+In Goheung, Jeollanam-do?
+
+166
+00:12:53,397 --> 00:12:56,147
+-That's almost the southern tip.
+-It's an island, right?
+
+167
+00:12:56,233 --> 00:12:58,283
+Is it a place where we must
+stay for the night
+
+168
+00:12:58,360 --> 00:13:00,400
+when the ferries are cut off?
+
+169
+00:13:00,488 --> 00:13:02,198
+I don't know what you're imagining,
+
+170
+00:13:02,281 --> 00:13:04,281
+but places like that hardly exist anymore.
+
+171
+00:13:04,366 --> 00:13:05,486
+They built bridges.
+
+172
+00:13:08,078 --> 00:13:09,618
+Look at the time, will you?
+
+173
+00:13:09,705 --> 00:13:11,915
+Sleep in the car. You can't even drive.
+
+174
+00:13:11,999 --> 00:13:13,749
+Exactly. Why are you taking me so far
+
+175
+00:13:13,834 --> 00:13:16,464
+when I even have no driver's license?
+
+176
+00:13:19,757 --> 00:13:22,677
+It's the matter about my sister,
+whom you like.
+
+177
+00:13:24,428 --> 00:13:25,258
+Eun-joo?
+
+178
+00:13:28,766 --> 00:13:30,306
+What happened to her?
+
+179
+00:14:08,013 --> 00:14:09,433
+What are you doing?
+
+180
+00:14:10,975 --> 00:14:12,765
+Are you trying to go hiking?
+
+181
+00:14:12,851 --> 00:14:13,851
+Good morning.
+
+182
+00:14:17,356 --> 00:14:19,816
+Not hiking is allowed for a while
+even on your day off.
+
+183
+00:14:19,900 --> 00:14:21,490
+It's not my day off.
+
+184
+00:14:21,569 --> 00:14:23,779
+I'm going from Incheon
+to Ulsan after lunch.
+
+185
+00:14:23,863 --> 00:14:26,783
+Then why are you looking for
+hiking gear at this early hour?
+
+186
+00:14:26,866 --> 00:14:28,866
+So you can go hiking again?
+
+187
+00:14:28,951 --> 00:14:30,491
+No, I'm not.
+
+188
+00:14:34,832 --> 00:14:36,212
+What is he looking for?
+
+189
+00:14:38,919 --> 00:14:41,009
+What are you looking for
+at this early hour?
+
+190
+00:14:42,089 --> 00:14:45,759
+I will find it for you.
+Don't make the house messy and tell me.
+
+191
+00:14:47,553 --> 00:14:49,683
+I can't find the letter you wrote to me.
+
+192
+00:14:49,763 --> 00:14:52,733
+I put it somewhere, and I can't find it.
+
+193
+00:14:58,606 --> 00:15:01,566
+Are you sure your memories are back?
+
+194
+00:15:10,284 --> 00:15:12,204
+Good morning.
+
+195
+00:15:13,787 --> 00:15:15,957
+Dad, I heard your memories came back.
+
+196
+00:15:19,835 --> 00:15:21,875
+Dad? Donât call me Dad! You're not a kid!
+
+197
+00:15:23,422 --> 00:15:24,762
+Oh, my Dadâ¦
+
+198
+00:15:26,091 --> 00:15:28,431
+I mean, your memories did come back.
+
+199
+00:15:52,868 --> 00:15:55,038
+Why aren't you saying anything?
+
+200
+00:15:55,120 --> 00:15:56,580
+What should I even say?
+
+201
+00:15:57,915 --> 00:15:59,665
+How's your sister doing?
+
+202
+00:16:00,834 --> 00:16:02,174
+She's getting through it.
+
+203
+00:16:02,878 --> 00:16:05,418
+I can never fully understand
+how she feels.
+
+204
+00:16:10,302 --> 00:16:14,102
+So, you're going to trust your hunch
+and go to Sorokdo now?
+
+205
+00:16:17,643 --> 00:16:19,143
+I wish I would fail too.
+
+206
+00:16:20,396 --> 00:16:22,976
+But when I ran into him
+at the clinic yesterday,
+
+207
+00:16:23,065 --> 00:16:27,435
+his facial expression seemed like
+he saw this coming.
+
+208
+00:16:27,528 --> 00:16:31,238
+What are you going to do
+if those two are there together?
+
+209
+00:16:33,325 --> 00:16:34,785
+What else can I do?
+
+210
+00:16:36,036 --> 00:16:37,866
+I'm going to tell them to wrap things up
+
+211
+00:16:38,497 --> 00:16:39,997
+so Eun-joo would never know.
+
+212
+00:17:09,319 --> 00:17:10,779
+It's okay with the new patients,
+
+213
+00:17:10,863 --> 00:17:12,413
+but make sure to check the charts
+
+214
+00:17:12,489 --> 00:17:14,319
+of re-visiting patients.
+
+215
+00:17:14,408 --> 00:17:15,698
+-Yes, ma'am.
+-Yes, ma'am.
+
+216
+00:17:23,167 --> 00:17:24,997
+YOON TAE-HYUNG FAMILY MEDICINE CLINIC
+
+217
+00:17:27,004 --> 00:17:28,594
+You look tired.
+
+218
+00:17:28,672 --> 00:17:30,382
+I couldn't sleep.
+
+219
+00:17:31,467 --> 00:17:33,137
+Looks like you couldn't either.
+
+220
+00:17:35,054 --> 00:17:37,394
+You don't need to worry about the clinic.
+
+221
+00:17:38,766 --> 00:17:41,726
+The local residents know me
+more than Dr. Yoon.
+
+222
+00:17:44,521 --> 00:17:47,361
+Act naturally in front of the nurses.
+
+223
+00:17:47,441 --> 00:17:48,361
+Okay.
+
+224
+00:17:48,901 --> 00:17:50,401
+I'm not worried about the clinic.
+
+225
+00:17:54,198 --> 00:17:58,118
+They said Dr. Yoon
+left the seminar a day early.
+
+226
+00:18:03,665 --> 00:18:07,285
+Do you know where he goes
+
+227
+00:18:08,003 --> 00:18:09,253
+whenever he disappears?
+
+228
+00:18:16,720 --> 00:18:18,140
+I'm sure he's at Sorokdo.
+
+229
+00:18:21,266 --> 00:18:22,426
+Sorokdo.
+
+230
+00:18:25,604 --> 00:18:27,904
+Whenever I went to find him,
+he was always alone.
+
+231
+00:18:29,441 --> 00:18:31,241
+He never made mistakes.
+
+232
+00:18:45,290 --> 00:18:47,380
+GOHEUNG SPACESHIP OBSERVATORY
+
+233
+00:19:20,367 --> 00:19:21,617
+Are you here on a trip?
+
+234
+00:19:21,702 --> 00:19:24,452
+Why are you going in circles
+when the peak is right there?
+
+235
+00:19:24,538 --> 00:19:28,128
+Then why are you also going in circles,
+without rushing me?
+
+236
+00:19:28,750 --> 00:19:32,250
+I'm waiting thinking that
+there must be a reason you're doing this.
+
+237
+00:19:33,839 --> 00:19:35,549
+People see my brother-in-law
+
+238
+00:19:36,508 --> 00:19:39,178
+as a son of a successful
+family of doctors,
+
+239
+00:19:39,261 --> 00:19:40,551
+a doctor himself,
+
+240
+00:19:40,637 --> 00:19:43,217
+and a man who married a fine woman.
+
+241
+00:19:45,184 --> 00:19:46,234
+Butâ¦
+
+242
+00:19:47,895 --> 00:19:49,435
+would he really be here?
+
+243
+00:19:50,898 --> 00:19:52,518
+If he's here,
+
+244
+00:19:53,483 --> 00:19:56,113
+it means he's going to
+give up all of that.
+
+245
+00:19:56,195 --> 00:19:58,355
+And it also means
+none of that made him happy
+
+246
+00:19:59,823 --> 00:20:02,163
+and he doesn't want to
+deceive himself anymore.
+
+247
+00:20:07,664 --> 00:20:11,844
+If the world had no discrimination,
+isn't barbaric, and is nice,
+
+248
+00:20:13,420 --> 00:20:15,760
+would my brother-in-law
+have come out of the closet?
+
+249
+00:20:16,757 --> 00:20:17,967
+We don't know about that.
+
+250
+00:20:18,759 --> 00:20:22,599
+There are lots of people who hide it
+and reveal it right before death.
+
+251
+00:20:29,269 --> 00:20:30,399
+It's mom.
+
+252
+00:20:31,730 --> 00:20:33,650
+I have a bad feeling about this.
+
+253
+00:20:35,734 --> 00:20:37,244
+Ms. Lee Jin-sook.
+
+254
+00:20:37,319 --> 00:20:39,029
+Can you talk on the phone right now?
+
+255
+00:20:39,112 --> 00:20:40,742
+I'm talking on the phone now.
+
+256
+00:20:40,822 --> 00:20:42,872
+Your brother-in-law
+is back in Korea, right?
+
+257
+00:20:44,409 --> 00:20:45,449
+Rightâ¦
+
+258
+00:20:47,162 --> 00:20:48,122
+Is he?
+
+259
+00:20:48,205 --> 00:20:50,785
+He said he'll be back
+in two to three days.
+
+260
+00:20:50,874 --> 00:20:52,924
+You know it so well.
+
+261
+00:20:53,001 --> 00:20:55,131
+Then I'm sure he is.
+
+262
+00:20:55,712 --> 00:20:59,762
+Call your sister and tell her
+to come visit us with him.
+
+263
+00:20:59,841 --> 00:21:01,761
+Why did you call me about that?
+
+264
+00:21:01,843 --> 00:21:04,263
+It's because your
+brother-in-law might be tired
+
+265
+00:21:04,346 --> 00:21:05,926
+after coming back from overseas.
+
+266
+00:21:06,598 --> 00:21:10,138
+Who was the middle man
+when I cut ties with Eun-joo?
+
+267
+00:21:10,227 --> 00:21:12,307
+Why can't you call them directly?
+
+268
+00:21:12,396 --> 00:21:14,556
+Who is it that you find difficult?
+
+269
+00:21:14,648 --> 00:21:15,768
+All right.
+
+270
+00:21:15,857 --> 00:21:17,437
+I'll call them.
+
+271
+00:21:17,526 --> 00:21:18,896
+No, don't.
+
+272
+00:21:18,986 --> 00:21:19,986
+You're right, Mom.
+
+273
+00:21:20,737 --> 00:21:22,777
+Tae-hyung might be tired
+
+274
+00:21:22,864 --> 00:21:25,494
+and Eun-joo is grumpy and difficult.
+
+275
+00:21:25,993 --> 00:21:27,793
+It's right for me to call.
+
+276
+00:21:27,869 --> 00:21:30,539
+I, the messenger, will call them.
+
+277
+00:21:33,000 --> 00:21:35,790
+You're going through a lot,
+getting stuck in the middle.
+
+278
+00:21:38,463 --> 00:21:40,343
+What am I supposed to do?
+
+279
+00:21:42,175 --> 00:21:46,175
+Why is the CEO at Goheung
+Space Launch Observatory?
+
+280
+00:21:46,263 --> 00:21:50,353
+How did he go to a place
+380 km away from here?
+
+281
+00:21:50,434 --> 00:21:51,734
+When he canât even drive?
+
+282
+00:21:51,810 --> 00:21:54,060
+I guess we're filming a space launch soon.
+
+283
+00:21:54,146 --> 00:21:55,726
+Yes, awesome.
+
+284
+00:21:55,814 --> 00:21:58,614
+And he went all the way alone
+for field research?
+
+285
+00:21:58,692 --> 00:22:01,452
+I know, right? He wouldn't do that, huh?
+
+286
+00:22:02,195 --> 00:22:04,565
+He needs to learn how to drive.
+It's so troublesome.
+
+287
+00:22:09,119 --> 00:22:11,159
+Are you sure you don't know
+why he went there?
+
+288
+00:22:11,246 --> 00:22:12,076
+I donât.
+
+289
+00:22:17,002 --> 00:22:18,592
+-What?
+-Ji-woo.
+
+290
+00:22:18,670 --> 00:22:21,420
+Is it difficult to talk on the phone
+when you're working?
+
+291
+00:22:25,469 --> 00:22:26,469
+Really difficult.
+
+292
+00:22:27,137 --> 00:22:29,467
+I'll finish in 30 seconds. How's Dad?
+
+293
+00:22:29,556 --> 00:22:31,176
+Dad's memories came back.
+
+294
+00:22:31,266 --> 00:22:32,176
+Really?
+
+295
+00:22:33,268 --> 00:22:35,148
+Then why is Mom looking for Tae-hyung?
+
+296
+00:22:35,228 --> 00:22:37,808
+Why? Why is that so?
+
+297
+00:22:38,857 --> 00:22:41,527
+Eun-hee, you need to come home
+this evening.
+
+298
+00:22:41,610 --> 00:22:43,650
+There's still
+the graduation from marriage.
+
+299
+00:22:44,654 --> 00:22:48,164
+I don't think Mom's going to be
+stern about it like before.
+
+300
+00:22:48,241 --> 00:22:49,161
+Come talk to them.
+
+301
+00:22:50,660 --> 00:22:51,750
+Not today.
+
+302
+00:22:52,329 --> 00:22:53,209
+Are you busy?
+
+303
+00:22:53,288 --> 00:22:54,788
+I'm a bit far away.
+
+304
+00:22:54,873 --> 00:22:57,543
+I'll talk to Eun-joo, so donât call, okay?
+
+305
+00:22:58,210 --> 00:22:59,090
+Okay.
+
+306
+00:23:04,633 --> 00:23:06,513
+My dad's days in his twenties have ended.
+
+307
+00:23:08,845 --> 00:23:12,675
+I asked him to tell me first
+when that happens, butâ¦
+
+308
+00:23:15,393 --> 00:23:17,813
+Hey, stop calling!
+
+309
+00:23:17,896 --> 00:23:20,066
+Do you want to take care of
+everything yourself?
+
+310
+00:23:20,148 --> 00:23:22,938
+I'm sure there's a reason
+why he's not saying anything.
+
+311
+00:23:24,694 --> 00:23:25,784
+Right.
+
+312
+00:23:26,613 --> 00:23:28,873
+If his memories came back,
+I'm sure he's in pain.
+
+313
+00:23:32,536 --> 00:23:34,536
+He should've stayed young a bit longer.
+
+314
+00:23:35,539 --> 00:23:36,829
+My dad also had
+
+315
+00:23:38,208 --> 00:23:40,338
+a shining and bright twenties.
+
+316
+00:23:45,465 --> 00:23:48,505
+But weren't our days
+in our twenties totally awful?
+
+317
+00:23:48,593 --> 00:23:51,933
+We were broke so we collected cybercash
+and had terrible sense of style.
+
+318
+00:23:52,013 --> 00:23:53,063
+Isn't that just you?
+
+319
+00:23:53,140 --> 00:23:54,770
+I'm still shining brightly.
+
+320
+00:23:55,725 --> 00:23:57,765
+That's the funniest thing
+I've heard recently.
+
+321
+00:23:57,853 --> 00:24:00,733
+If you were so bright,
+why would Yoon-ji marry some other jerk--
+
+322
+00:24:01,773 --> 00:24:03,733
+Did she send you an invitation, too?
+
+323
+00:24:03,817 --> 00:24:05,687
+Yoon-ji sent you her wedding invitation?
+
+324
+00:24:06,361 --> 00:24:07,741
+I really hate girls like that.
+
+325
+00:24:07,821 --> 00:24:11,241
+She sent me via message
+and said she ran out of invitations.
+
+326
+00:24:12,409 --> 00:24:14,409
+And she sent you an invitation?
+
+327
+00:24:15,162 --> 00:24:16,912
+That backstabbing witch who broke up
+
+328
+00:24:16,997 --> 00:24:18,327
+with you all of a sudden.
+
+329
+00:24:18,415 --> 00:24:19,575
+That was a long time ago.
+
+330
+00:24:20,333 --> 00:24:22,383
+You drank like crazy at the time.
+
+331
+00:24:22,460 --> 00:24:24,670
+You almost died
+in the valley from drinking.
+
+332
+00:24:25,547 --> 00:24:28,257
+That brat is shaking up my friend again.
+
+333
+00:24:28,341 --> 00:24:31,511
+Stop overacting and let's eat. I'm hungry.
+
+334
+00:24:32,888 --> 00:24:33,888
+Right.
+
+335
+00:24:33,972 --> 00:24:36,022
+Forget about wedding invitations,
+memories and stuff.
+
+336
+00:24:36,099 --> 00:24:38,309
+Human beings need to eat to survive.
+
+337
+00:24:39,311 --> 00:24:42,191
+My friend, don't be heartbroken.
+
+338
+00:24:42,272 --> 00:24:43,822
+I will pay for the meal.
+
+339
+00:24:43,899 --> 00:24:45,319
+You should pay for the meal
+
+340
+00:24:45,400 --> 00:24:47,780
+after dragging me all the way here,
+don't you think?
+
+341
+00:24:47,861 --> 00:24:48,781
+Should I?
+
+342
+00:24:49,738 --> 00:24:51,358
+Yes, you should.
+
+343
+00:24:51,448 --> 00:24:53,698
+-Dismissed.
+-Well done.
+
+344
+00:24:56,286 --> 00:24:58,906
+Ms. Kim said she may have to
+work away until the evening,
+
+345
+00:24:58,997 --> 00:25:00,537
+so she'll go home right after.
+
+346
+00:25:00,624 --> 00:25:02,584
+Yes, writer Choi Dong-ha lives far away.
+
+347
+00:25:02,667 --> 00:25:03,837
+Vice CEO?
+
+348
+00:25:09,633 --> 00:25:11,473
+I have something to say.
+
+349
+00:25:14,262 --> 00:25:15,312
+Iâ¦
+
+350
+00:25:16,223 --> 00:25:18,563
+I know Ha-ra.
+
+351
+00:25:19,809 --> 00:25:22,439
+People in our neighborhood
+tend to take similar routes.
+
+352
+00:25:22,520 --> 00:25:25,520
+Kindergarten, elementary,
+middle school, high school,
+
+353
+00:25:25,607 --> 00:25:27,897
+language studies, and studying abroad.
+
+354
+00:25:29,110 --> 00:25:31,570
+Ms. Seo, you live in that neighborhood?
+
+355
+00:25:31,655 --> 00:25:34,655
+Yes, the families roughly
+know each other too.
+
+356
+00:25:35,492 --> 00:25:37,162
+-I guess so.
+-But,
+
+357
+00:25:37,827 --> 00:25:41,327
+Ha-ra suddenly contacted me
+and said we should meet up.
+
+358
+00:25:42,374 --> 00:25:44,964
+Actually, we weren't even that close.
+
+359
+00:25:46,127 --> 00:25:50,257
+But she acted like we were best friends.
+
+360
+00:25:53,635 --> 00:25:56,295
+If you know her, you might know
+my relationship with her.
+
+361
+00:25:56,388 --> 00:25:58,218
+But you must be good at keeping secrets.
+
+362
+00:26:00,809 --> 00:26:02,849
+Can I tell you my secrets openly later?
+
+363
+00:26:05,563 --> 00:26:06,523
+See you later.
+
+364
+00:26:15,991 --> 00:26:19,791
+Was there a letter in
+the wedding invitation?
+
+365
+00:26:23,164 --> 00:26:24,924
+What did the letter sound like?
+
+366
+00:26:25,000 --> 00:26:26,580
+"Chan-hyukâ¦
+
+367
+00:26:26,668 --> 00:26:28,708
+I'mâ¦
+
+368
+00:26:28,795 --> 00:26:31,545
+getting marriedâ¦"
+
+369
+00:26:31,631 --> 00:26:32,631
+Was it like this?
+
+370
+00:26:32,716 --> 00:26:33,756
+Orâ¦ was it like,
+
+371
+00:26:33,842 --> 00:26:35,472
+"Chan-hyuk, I'm getting married."
+
+372
+00:26:36,261 --> 00:26:37,511
+What's the difference?
+
+373
+00:26:38,179 --> 00:26:39,059
+Wellâ¦
+
+374
+00:26:39,931 --> 00:26:41,931
+If she wrote an ellipsis
+with sentimentality,
+
+375
+00:26:42,017 --> 00:26:44,187
+she wants to keep the memory
+and remain a woman.
+
+376
+00:26:44,269 --> 00:26:45,849
+If she wrote it short and tough,
+
+377
+00:26:45,937 --> 00:26:48,767
+it means she has no regrets,
+and just wants your cash gift.
+
+378
+00:26:48,857 --> 00:26:50,647
+I think it's neither of those.
+
+379
+00:26:50,734 --> 00:26:52,154
+So she did write it.
+
+380
+00:26:52,235 --> 00:26:54,565
+-Wow, what did she write?
+-I don't want to tell you.
+
+381
+00:26:56,156 --> 00:26:57,526
+If you don't tell me,
+
+382
+00:26:57,615 --> 00:26:59,735
+I'll go to the wedding and ask her myself.
+
+383
+00:26:59,826 --> 00:27:00,986
+You know I'll do it.
+
+384
+00:27:01,077 --> 00:27:02,407
+Don't hold back.
+
+385
+00:27:02,495 --> 00:27:03,905
+Hey.
+
+386
+00:27:03,997 --> 00:27:05,417
+She wrote I don't have to come
+
+387
+00:27:05,498 --> 00:27:06,958
+and told me to be happy.
+
+388
+00:27:07,751 --> 00:27:10,131
+She sent you an invitation,
+but told you to not come?
+
+389
+00:27:11,171 --> 00:27:14,261
+Do you think this makes
+sense in terms of context?
+
+390
+00:27:30,190 --> 00:27:33,320
+I went to Jong-min's wedding to see you.
+
+391
+00:27:33,401 --> 00:27:36,071
+But you didn't come.
+Lots of rumors spread.
+
+392
+00:27:36,780 --> 00:27:39,530
+I was glad I broke up with you.
+
+393
+00:27:39,616 --> 00:27:41,026
+Congratulate me on my wedding.
+
+394
+00:27:41,117 --> 00:27:45,157
+P.S. I absolutely reject a wedding
+invitation with your name
+
+395
+00:27:45,246 --> 00:27:46,536
+and Eun-hee's name on it.
+
+396
+00:27:56,466 --> 00:27:58,126
+What are you going to do now?
+
+397
+00:28:02,013 --> 00:28:04,063
+SOROKDO CATHEDRAL
+
+398
+00:28:04,140 --> 00:28:06,680
+He's at Sorokdo Cathedral now.
+
+399
+00:28:06,768 --> 00:28:08,808
+He's showing his location
+way too accurately,
+
+400
+00:28:08,895 --> 00:28:10,605
+which is even more strange.
+
+401
+00:28:12,065 --> 00:28:13,605
+Why spend all your energy
+
+402
+00:28:13,691 --> 00:28:15,781
+on your father, your mother,
+and even Eun-joo?
+
+403
+00:28:15,860 --> 00:28:18,570
+Even if they're your family,
+there's nothing you can do now.
+
+404
+00:28:21,533 --> 00:28:22,783
+Justâ¦
+
+405
+00:28:22,867 --> 00:28:24,367
+I feel bad, that's all.
+
+406
+00:28:24,452 --> 00:28:25,872
+I almost cut ties with them
+
+407
+00:28:26,663 --> 00:28:28,713
+for a long time and lived
+my life recklessly.
+
+408
+00:28:29,499 --> 00:28:31,579
+If I stayed by their sides at the time,
+
+409
+00:28:32,627 --> 00:28:34,627
+would Dad, Mom, and Eun-joo
+
+410
+00:28:35,922 --> 00:28:38,432
+have become different from
+how they are now?
+
+411
+00:28:38,508 --> 00:28:40,468
+Hey, what makes you think
+
+412
+00:28:40,552 --> 00:28:43,012
+your family will change because of you?
+
+413
+00:28:44,723 --> 00:28:45,973
+Right?
+
+414
+00:28:46,057 --> 00:28:48,307
+And you lived recklessly? No, you didn't.
+
+415
+00:28:48,977 --> 00:28:51,557
+Do you actually know if I lived
+recklessly or not?
+
+416
+00:28:51,646 --> 00:28:52,556
+I lived recklessly.
+
+417
+00:28:53,732 --> 00:28:54,732
+Let's say you did.
+
+418
+00:29:07,620 --> 00:29:08,660
+Let's go.
+
+419
+00:29:14,127 --> 00:29:17,377
+Was it that weird that
+I didn't go to Jong-min's wedding?
+
+420
+00:29:17,464 --> 00:29:20,014
+All of a sudden?
+That was like 50,000 years ago.
+
+421
+00:29:21,634 --> 00:29:23,644
+Yes, it's all in the past.
+
+422
+00:29:25,430 --> 00:29:28,680
+I'm wondering if there was a reason
+for you not to go to his wedding.
+
+423
+00:29:29,851 --> 00:29:32,481
+Jong-min didn't even
+send me an invitation.
+
+424
+00:29:32,562 --> 00:29:35,232
+So I thought, "This means
+he doesn't want me to come."
+
+425
+00:29:35,899 --> 00:29:37,939
+He's small-minded and timid.
+
+426
+00:29:38,943 --> 00:29:41,823
+By the way, how did you know
+that I didn't go to the wedding?
+
+427
+00:29:42,572 --> 00:29:44,912
+They live streamed it
+as if it were a royal wedding.
+
+428
+00:29:44,991 --> 00:29:46,911
+The chatroom blew up about you not coming.
+
+429
+00:29:46,993 --> 00:29:48,873
+"How loyal." "Awesome." It's going crazy.
+
+430
+00:29:49,621 --> 00:29:50,581
+Super loyal.
+
+431
+00:29:50,663 --> 00:29:53,373
+But the end of
+that live stream was so bitter.
+
+432
+00:29:54,083 --> 00:29:55,963
+Everyone was suspecting
+
+433
+00:29:56,920 --> 00:29:57,920
+that we were dating.
+
+434
+00:29:58,963 --> 00:30:02,383
+Thinking that we had an affair
+before Jong-pal did.
+
+435
+00:30:02,467 --> 00:30:03,717
+Some say he's the victim.
+
+436
+00:30:03,802 --> 00:30:06,512
+Wow, I've never imagined
+such a rumor would spread.
+
+437
+00:30:15,396 --> 00:30:16,686
+What are you doing?
+
+438
+00:30:17,857 --> 00:30:20,357
+Sorry. I neglected the rumor.
+
+439
+00:30:20,944 --> 00:30:24,414
+No, I think I watered the rumor
+so it can grow fast.
+
+440
+00:30:25,782 --> 00:30:27,242
+How did you water it?
+
+441
+00:30:28,827 --> 00:30:32,537
+"Chan-hyuk is actually quite okay."
+
+442
+00:30:32,622 --> 00:30:36,132
+"Chan-hyuk is thoughtful."
+
+443
+00:30:36,209 --> 00:30:41,299
+"I knew Chan-hyuk
+before I knew that bastard Jong-pal."
+
+444
+00:30:41,381 --> 00:30:42,261
+Are you nuts?
+
+445
+00:30:42,340 --> 00:30:44,430
+I couldn't help it. I lost my temper.
+
+446
+00:30:44,509 --> 00:30:47,639
+What's the point of saying it's not true
+and that I cut ties with you?
+
+447
+00:30:47,720 --> 00:30:49,180
+Everyone believed it anyway.
+
+448
+00:30:50,765 --> 00:30:52,135
+Yes, well done.
+
+449
+00:30:52,225 --> 00:30:54,515
+That's never going to happen
+between us, anyway.
+
+450
+00:30:54,602 --> 00:30:56,732
+So you gave them a nice big blow.
+
+451
+00:30:56,813 --> 00:30:57,983
+Right.
+
+452
+00:31:17,917 --> 00:31:19,377
+I came all the way here,
+
+453
+00:31:20,169 --> 00:31:22,009
+wishing that it wouldn't be true,
+
+454
+00:31:24,215 --> 00:31:27,045
+but bad hunches always come true.
+
+455
+00:31:47,071 --> 00:31:48,321
+Just play your part.
+
+456
+00:31:59,459 --> 00:32:00,419
+Okay.
+
+457
+00:32:22,106 --> 00:32:24,646
+How did you find out where I was?
+
+458
+00:32:27,111 --> 00:32:28,701
+Someone scattered breadcrumbs,
+
+459
+00:32:29,405 --> 00:32:31,195
+so I could follow them and find you.
+
+460
+00:32:32,951 --> 00:32:34,541
+It wasn't scattered on purpose.
+
+461
+00:32:35,995 --> 00:32:37,615
+I'm going to go back anyway,
+
+462
+00:32:37,705 --> 00:32:39,205
+so you guys go ahead and talk.
+
+463
+00:32:39,874 --> 00:32:42,094
+Don't you have
+the courage to talk with us?
+
+464
+00:32:47,298 --> 00:32:48,718
+You're good at running away.
+
+465
+00:32:49,717 --> 00:32:52,597
+You're cowardly, irresponsible,
+inconsiderate, and rude.
+
+466
+00:32:56,265 --> 00:32:57,725
+What a connection you have.
+
+467
+00:32:58,309 --> 00:32:59,439
+I know this looks weird.
+
+468
+00:33:00,269 --> 00:33:02,649
+But he disgusts me too,
+so don't get any weird ideas.
+
+469
+00:33:20,206 --> 00:33:21,956
+I didn't know you would come.
+
+470
+00:33:23,084 --> 00:33:25,594
+I didn't think Eun-joo would tell you.
+
+471
+00:33:26,796 --> 00:33:29,086
+Eun-joo isn't the type to tell me
+things like this.
+
+472
+00:33:29,173 --> 00:33:31,843
+Even if you hate your wife,
+you spent a long time with her.
+
+473
+00:33:32,844 --> 00:33:33,974
+I saw
+
+474
+00:33:35,888 --> 00:33:36,968
+your laptop first.
+
+475
+00:33:44,689 --> 00:33:47,109
+Why would I hate Eun-joo?
+
+476
+00:33:49,485 --> 00:33:51,065
+That's what happens when I chat.
+
+477
+00:33:51,821 --> 00:33:56,491
+I get smug, boast,
+get angry, curse, brag, and giggle.
+
+478
+00:33:59,245 --> 00:34:00,325
+Why would you do that?
+
+479
+00:34:04,751 --> 00:34:06,881
+I'm just not good enough, that's all.
+
+480
+00:34:06,961 --> 00:34:08,881
+Do you know what Eun-joo did?
+
+481
+00:34:08,963 --> 00:34:11,723
+She totally broke down.
+I've never seen her like that.
+
+482
+00:34:11,799 --> 00:34:14,509
+I was so scared something
+might happen to her.
+
+483
+00:34:14,594 --> 00:34:16,224
+Why did it have to be Eun-joo?
+
+484
+00:34:22,101 --> 00:34:22,981
+At that timeâ¦
+
+485
+00:34:24,145 --> 00:34:26,055
+we wanted to cut ties with our families.
+
+486
+00:34:27,982 --> 00:34:30,232
+Both of us were sick and tired
+of our families.
+
+487
+00:34:31,944 --> 00:34:34,074
+"I'm sick and tired of my family."
+
+488
+00:34:35,073 --> 00:34:36,493
+This is what I hated the most
+
+489
+00:34:37,366 --> 00:34:39,286
+among all the things my sister said.
+
+490
+00:34:45,708 --> 00:34:48,208
+What's the name of the bottom side?
+
+491
+00:34:48,294 --> 00:34:49,344
+A square.
+
+492
+00:34:56,219 --> 00:34:57,799
+I'm sick and tired of them.
+
+493
+00:34:59,639 --> 00:35:03,679
+Whether she meant it or not,
+that sentence was harsh and hurtful.
+
+494
+00:35:07,313 --> 00:35:08,563
+Young-sik, that brat.
+
+495
+00:35:08,648 --> 00:35:10,898
+He's been working at the plant
+his entire life.
+
+496
+00:35:10,983 --> 00:35:13,613
+He has no other skills,
+so he can't go anywhere else.
+
+497
+00:35:14,195 --> 00:35:16,355
+There's no need to go looking for him.
+
+498
+00:35:16,447 --> 00:35:19,197
+Just have your walkie-talkie on
+when you have time.
+
+499
+00:35:22,954 --> 00:35:24,794
+The sky is beautiful.
+
+500
+00:35:27,125 --> 00:35:29,035
+What's wrong? I can't get used to this.
+
+501
+00:35:29,127 --> 00:35:31,337
+It's frustrating.
+
+502
+00:35:32,630 --> 00:35:34,380
+You're frustrated by me?
+
+503
+00:35:36,008 --> 00:35:37,468
+Look at your face.
+
+504
+00:35:39,095 --> 00:35:43,135
+Well, you were very manly,
+but this also suited you back in time.
+
+505
+00:35:43,224 --> 00:35:44,734
+You probably made many women cry.
+
+506
+00:35:47,562 --> 00:35:50,232
+I don't make women cry.
+
+507
+00:35:54,652 --> 00:35:55,992
+I didn't, right?
+
+508
+00:35:56,070 --> 00:35:57,030
+Wellâ¦
+
+509
+00:35:57,864 --> 00:35:58,994
+You were a CMDT.
+
+510
+00:36:00,241 --> 00:36:01,081
+CMDT?
+
+511
+00:36:01,868 --> 00:36:03,538
+Cold Man Driving a Truck.
+
+512
+00:36:03,619 --> 00:36:05,909
+I'm sure even if you didn't
+make them cry directly,
+
+513
+00:36:06,455 --> 00:36:10,665
+I'm sure many women
+in the hiking club cried.
+
+514
+00:36:14,046 --> 00:36:15,916
+Do you think Ms. Sook cried a lot too?
+
+515
+00:36:16,424 --> 00:36:19,144
+No, I'm sure she didn't cry at all.
+
+516
+00:36:20,261 --> 00:36:21,101
+You think so?
+
+517
+00:36:22,305 --> 00:36:23,805
+I'm sure she wanted to kill you.
+
+518
+00:36:26,434 --> 00:36:30,444
+Even if you look so soft,
+you're super picky.
+
+519
+00:36:31,105 --> 00:36:32,055
+Me?
+
+520
+00:36:33,107 --> 00:36:34,527
+How was I picky?
+
+521
+00:36:34,609 --> 00:36:36,149
+We gave our paycheck to our wives
+
+522
+00:36:36,235 --> 00:36:39,605
+because we're scared of them,
+but you kept it for yourself.
+
+523
+00:36:40,281 --> 00:36:42,531
+And you've been giving your wife
+
+524
+00:36:42,617 --> 00:36:44,787
+a petty amount of
+pocket money your entire life.
+
+525
+00:36:44,869 --> 00:36:46,869
+I still find it amazing
+
+526
+00:36:46,954 --> 00:36:50,214
+how she raised three kids
+with such a small amount of money.
+
+527
+00:36:52,001 --> 00:36:54,711
+Because you gave her
+a petty amount of pocket money,
+
+528
+00:36:54,795 --> 00:36:56,165
+she hid the fruit.
+
+529
+00:36:58,132 --> 00:36:59,262
+Fruit?
+
+530
+00:37:00,927 --> 00:37:02,507
+Those wretched Korean melons?
+
+531
+00:37:03,846 --> 00:37:05,966
+I'm not sure if it were Korean melons,
+
+532
+00:37:06,057 --> 00:37:09,307
+but you said you went home
+and saw your wife hiding fruit.
+
+533
+00:37:12,104 --> 00:37:13,814
+Because you didn't give her much,
+
+534
+00:37:13,898 --> 00:37:16,898
+I'm sure she wanted to give
+expensive fruits to the kids.
+
+535
+00:37:16,984 --> 00:37:18,994
+They say you get angry
+at others for your own mistakes.
+
+536
+00:37:19,070 --> 00:37:21,660
+You said you turned the house
+upside down because of the fruit.
+
+537
+00:37:21,739 --> 00:37:23,239
+And injured your hand too.
+
+538
+00:37:38,714 --> 00:37:40,224
+Stop it.
+
+539
+00:37:40,299 --> 00:37:42,799
+You should never judge
+a book by its cover.
+
+540
+00:37:42,885 --> 00:37:45,425
+I take caution with everything
+I do in front of my wife.
+
+541
+00:37:45,513 --> 00:37:46,433
+But youâ¦
+
+542
+00:37:46,514 --> 00:37:48,774
+I said stop it!
+
+543
+00:37:55,731 --> 00:37:56,731
+Damn it!
+
+544
+00:38:05,992 --> 00:38:07,992
+On-su.
+
+545
+00:38:10,329 --> 00:38:11,289
+Mom.
+
+546
+00:38:13,040 --> 00:38:15,080
+I did everything I could.
+
+547
+00:38:16,294 --> 00:38:19,964
+I was always there to greet him
+when he came home.
+
+548
+00:38:21,424 --> 00:38:22,804
+When we were newlyweds,
+
+549
+00:38:22,883 --> 00:38:26,263
+he used to run around
+looking for me like a kid
+
+550
+00:38:26,345 --> 00:38:28,175
+throwing a tantrum when I wasn't home.
+
+551
+00:38:31,726 --> 00:38:32,936
+Mom.
+
+552
+00:38:33,019 --> 00:38:35,439
+I said it was
+when we were newlyweds, right?
+
+553
+00:38:37,023 --> 00:38:39,283
+Goodness, am I becoming like him?
+
+554
+00:38:42,570 --> 00:38:45,700
+Why do I keep recalling
+the old days recently?
+
+555
+00:38:46,365 --> 00:38:49,075
+I was so excited about
+the thought of leaving everything
+
+556
+00:38:49,160 --> 00:38:51,160
+and living alone, I couldn't even sleep.
+
+557
+00:38:54,165 --> 00:38:56,035
+What should I do?
+
+558
+00:38:58,377 --> 00:38:59,627
+Jin-sook.
+
+559
+00:39:00,463 --> 00:39:01,593
+You're early today.
+
+560
+00:39:02,715 --> 00:39:04,045
+I had some time.
+
+561
+00:39:04,717 --> 00:39:07,427
+Are you sure you don't need money?
+
+562
+00:39:09,221 --> 00:39:11,101
+Everyone needs money.
+
+563
+00:39:11,182 --> 00:39:14,192
+So why do you only do
+community service every day?
+
+564
+00:39:14,268 --> 00:39:17,358
+You need to start working.
+You've learned everything.
+
+565
+00:39:18,022 --> 00:39:19,692
+I'm going to start working soon.
+
+566
+00:39:19,774 --> 00:39:22,694
+Right, today's the day
+Mom takes a bath, right?
+
+567
+00:39:22,777 --> 00:39:24,947
+Stop calling them "Mom."
+
+568
+00:39:25,029 --> 00:39:27,199
+The families hate it
+when they come to visit.
+
+569
+00:39:27,281 --> 00:39:29,371
+"Why do you call my Mom 'Mom'?"
+
+570
+00:39:29,450 --> 00:39:32,080
+"Even if I can't clean her feces,
+she's my Mom!"
+
+571
+00:39:59,563 --> 00:40:01,233
+I see no scarâ¦
+
+572
+00:40:03,734 --> 00:40:06,244
+That must've been a big injury.
+
+573
+00:40:14,328 --> 00:40:15,408
+Whyâ¦
+
+574
+00:40:16,747 --> 00:40:18,497
+Why did she meet a loser like me, andâ¦
+
+575
+00:40:33,764 --> 00:40:35,814
+HANSUNG NEUROPSYCHIATRY
+
+576
+00:40:37,810 --> 00:40:39,520
+YOUR REGULAR CHECK-UP
+IS ON JULY 8, 1 P.M.
+
+577
+00:40:39,603 --> 00:40:42,193
+Neuropsychiatry?
+
+578
+00:40:44,316 --> 00:40:45,646
+WRITE HOW YOU FEEL
+
+579
+00:40:46,444 --> 00:40:48,864
+I WANT TO KILL MYSELF
+
+580
+00:41:03,836 --> 00:41:05,046
+The medical noteâ¦
+
+581
+00:41:25,691 --> 00:41:28,361
+There's a coffee farm nearby.
+Want to stop by?
+
+582
+00:41:29,570 --> 00:41:31,450
+I don't have the car key with me.
+
+583
+00:41:31,530 --> 00:41:33,160
+I can't drive.
+
+584
+00:41:33,782 --> 00:41:34,622
+Oh.
+
+585
+00:41:35,826 --> 00:41:36,736
+I didn't know.
+
+586
+00:41:38,120 --> 00:41:40,120
+Has anyone asked if you can drive?
+
+587
+00:41:41,457 --> 00:41:42,917
+Not really.
+
+588
+00:41:43,000 --> 00:41:46,380
+If they just think I can drive
+on their own, and I tell them I can't,
+
+589
+00:41:46,462 --> 00:41:48,422
+they look at me like, "You useless loser."
+
+590
+00:41:48,506 --> 00:41:49,876
+Same for me.
+
+591
+00:41:50,799 --> 00:41:52,049
+"Are you a homosexual?"
+
+592
+00:41:52,801 --> 00:41:54,391
+No one asks me this.
+
+593
+00:41:56,347 --> 00:41:59,177
+Can you drive?
+
+594
+00:42:38,138 --> 00:42:39,558
+We need to talk later alone.
+
+595
+00:42:40,641 --> 00:42:43,191
+Yes, let's talk later.
+
+596
+00:42:47,398 --> 00:42:48,608
+Where are they?
+
+597
+00:42:49,650 --> 00:42:51,280
+Your sister's car is over there.
+
+598
+00:43:01,328 --> 00:43:03,208
+Whether she was sick and tired of us
+
+599
+00:43:03,289 --> 00:43:04,959
+or had more serious reasons,
+
+600
+00:43:06,250 --> 00:43:07,710
+she married you because she loved you.
+
+601
+00:43:10,087 --> 00:43:12,337
+You knew that and you used her.
+
+602
+00:43:14,800 --> 00:43:17,300
+I always felt indebted to Eun-joo.
+
+603
+00:43:18,637 --> 00:43:20,097
+If it were money, I could've paid it back.
+
+604
+00:43:20,180 --> 00:43:22,220
+But I didn't know
+how to do so with feelings.
+
+605
+00:43:23,350 --> 00:43:24,180
+Butâ¦
+
+606
+00:43:25,144 --> 00:43:28,194
+as I kept feeling indebted,
+I started hating it more.
+
+607
+00:43:29,148 --> 00:43:31,478
+You hated it? You made her
+read all that harsh chats
+
+608
+00:43:31,567 --> 00:43:32,817
+because you hated it?
+
+609
+00:43:33,485 --> 00:43:34,855
+Too afraid to face her?
+
+610
+00:43:34,945 --> 00:43:36,025
+If I told her myselfâ¦
+
+611
+00:43:37,489 --> 00:43:39,779
+I thought she might try to understand me,
+
+612
+00:43:42,911 --> 00:43:44,911
+and not know what trash I am.
+
+613
+00:43:55,924 --> 00:43:56,884
+Eun-jooâ¦
+
+614
+00:44:04,016 --> 00:44:05,976
+Did you drive all the way
+here by yourself?
+
+615
+00:44:08,771 --> 00:44:10,901
+I really can't understand you.
+
+616
+00:44:10,981 --> 00:44:13,571
+You should've told me if you found him.
+Why come?
+
+617
+00:44:13,651 --> 00:44:15,741
+To take Tae-hyung back to Seoul.
+
+618
+00:44:15,819 --> 00:44:17,149
+Why did you bring Chan-hyuk?
+
+619
+00:44:18,072 --> 00:44:19,952
+Do you not use your brain?
+
+620
+00:44:20,032 --> 00:44:21,992
+Just in case something happens.
+
+621
+00:44:22,076 --> 00:44:25,116
+What would happen?
+What did you think would happen?
+
+622
+00:44:25,204 --> 00:44:28,044
+Do you need someone to whine to
+whenever something happens?
+
+623
+00:44:28,123 --> 00:44:29,793
+Can't do anything alone, can you?
+
+624
+00:44:29,875 --> 00:44:31,955
+-Are you on a trip with your friend?
+-A trip?
+
+625
+00:44:32,044 --> 00:44:34,304
+What if he knows?
+Does it hurt your dignity?
+
+626
+00:44:34,380 --> 00:44:36,760
+Can't you just say
+that you're having a hard time?
+
+627
+00:44:36,840 --> 00:44:39,090
+How can I tell you
+when you're not trustworthy?
+
+628
+00:44:39,176 --> 00:44:40,966
+You can't even take care of yourself.
+
+629
+00:44:41,053 --> 00:44:43,603
+I don't want to see you here anymore. Go.
+
+630
+00:44:45,766 --> 00:44:47,266
+She has already ended it.
+
+631
+00:44:47,935 --> 00:44:50,935
+There's no reason to get angry
+at someone who's over,
+
+632
+00:44:51,438 --> 00:44:53,228
+so she's shouting at me,
+
+633
+00:44:53,315 --> 00:44:54,935
+like how I did to her.
+
+634
+00:45:05,244 --> 00:45:06,954
+Eun-hee, I think you should go.
+
+635
+00:45:20,092 --> 00:45:22,302
+I heard you said you wouldn't come.
+Why did you?
+
+636
+00:45:24,096 --> 00:45:25,176
+Let's talk in the room.
+
+637
+00:45:25,264 --> 00:45:27,644
+-Just talk here.
+-Are you hiding something else?
+
+638
+00:45:38,694 --> 00:45:39,534
+Let's go.
+
+639
+00:45:39,611 --> 00:45:40,951
+Now?
+
+640
+00:45:41,697 --> 00:45:44,947
+She said she doesn't want to
+see me here anymore.
+
+641
+00:45:45,033 --> 00:45:45,873
+Did you
+
+642
+00:45:46,869 --> 00:45:48,869
+tell my sister about this place?
+
+643
+00:45:48,954 --> 00:45:49,874
+Yes.
+
+644
+00:45:49,955 --> 00:45:51,245
+How did you find this place?
+
+645
+00:45:51,331 --> 00:45:52,881
+I heard it from Eun-joo.
+
+646
+00:45:52,958 --> 00:45:54,328
+You call her Eun-joo?
+
+647
+00:45:54,418 --> 00:45:55,918
+Yes.
+
+648
+00:45:56,003 --> 00:45:57,803
+She doesn't care about titles.
+
+649
+00:45:57,880 --> 00:45:58,960
+Yes, she does.
+
+650
+00:45:59,047 --> 00:46:00,757
+She totally cares about them.
+
+651
+00:46:02,259 --> 00:46:03,389
+How did you get here?
+
+652
+00:46:03,469 --> 00:46:05,299
+He got here on a bus, and he can drive.
+
+653
+00:46:05,387 --> 00:46:06,467
+I'll give you a ride.
+
+654
+00:46:07,264 --> 00:46:10,104
+Let's take time to talk
+while driving back.
+
+655
+00:46:10,184 --> 00:46:11,564
+You're really going to leave?
+
+656
+00:46:16,607 --> 00:46:17,767
+I can leave if I have to.
+
+657
+00:46:22,321 --> 00:46:23,611
+Why did you bring me here?
+
+658
+00:46:33,999 --> 00:46:36,959
+Well, this was my first time
+coming here, and if I failedâ¦
+
+659
+00:46:37,711 --> 00:46:39,461
+I wanted to see the ocean and chatâ¦
+
+660
+00:46:39,546 --> 00:46:41,336
+Enough with excuses. Be honest.
+
+661
+00:46:47,012 --> 00:46:48,352
+I wanted you to be the first
+
+662
+00:46:48,430 --> 00:46:50,310
+to know about my sister's situation.
+
+663
+00:46:50,390 --> 00:46:51,890
+Why?
+
+664
+00:46:53,769 --> 00:46:55,649
+If she gets worse,
+
+665
+00:46:56,647 --> 00:46:58,477
+someone has to be by her side,
+
+666
+00:46:59,399 --> 00:47:01,279
+but I can't be with her all the time,
+
+667
+00:47:01,360 --> 00:47:03,860
+so I thought it would be good
+to share it with you.
+
+668
+00:47:06,740 --> 00:47:08,580
+Ji-woo shouldn't know about it.
+
+669
+00:47:10,327 --> 00:47:12,867
+No one knows my family
+and my sister as much as you.
+
+670
+00:47:19,795 --> 00:47:21,705
+It's a relief that he can drive.
+
+671
+00:47:21,797 --> 00:47:23,127
+You two go ahead first.
+
+672
+00:47:24,508 --> 00:47:25,798
+Not going to work tomorrow?
+
+673
+00:47:25,884 --> 00:47:27,184
+I might get fired.
+
+674
+00:47:28,887 --> 00:47:30,427
+I'm sharing the burden.
+
+675
+00:47:30,514 --> 00:47:32,474
+I'll stay here, so you go on.
+
+676
+00:47:33,433 --> 00:47:35,103
+Don't you have work?
+
+677
+00:47:35,185 --> 00:47:38,055
+I'm a CEO. You're an employee.
+
+678
+00:47:38,146 --> 00:47:40,856
+Mr. Playboy can defend you
+since he's your boss,
+
+679
+00:47:40,941 --> 00:47:42,441
+but others would say something.
+
+680
+00:47:43,402 --> 00:47:45,862
+I'll stay here and go back with Eun-joo.
+You go first.
+
+681
+00:47:53,078 --> 00:47:54,498
+Let's go together.
+
+682
+00:47:55,664 --> 00:47:57,174
+I'm sure they'll take care of it.
+
+683
+00:47:57,249 --> 00:48:00,629
+I'm worried about Eun-joo, that's why.
+It's okay. Just go.
+
+684
+00:48:29,031 --> 00:48:30,411
+The clinic is open today.
+
+685
+00:48:31,116 --> 00:48:32,326
+Your mother is there.
+
+686
+00:48:33,243 --> 00:48:34,543
+I'm closing the clinic.
+
+687
+00:48:39,583 --> 00:48:41,963
+You're not going to
+do it yourself, either.
+
+688
+00:48:43,128 --> 00:48:44,338
+I'm sure your mother will.
+
+689
+00:48:48,759 --> 00:48:49,969
+Don't be sarcastic.
+
+690
+00:48:51,136 --> 00:48:52,716
+My mother thinks I'm a patient.
+
+691
+00:48:53,305 --> 00:48:55,385
+I hated it. But she dragged me this far.
+
+692
+00:48:55,474 --> 00:48:58,194
+You shouldn't have done it then.
+Don't blame others for it.
+
+693
+00:48:58,769 --> 00:48:59,729
+I'm not blaming her.
+
+694
+00:49:01,063 --> 00:49:03,023
+I am going to try changing it now.
+
+695
+00:49:03,106 --> 00:49:04,106
+You?
+
+696
+00:49:05,317 --> 00:49:06,737
+You can't change it.
+
+697
+00:49:08,028 --> 00:49:10,318
+You only know
+how to solve things with money.
+
+698
+00:49:16,995 --> 00:49:19,155
+Did you think Hyo-seok
+would take the money?
+
+699
+00:49:20,207 --> 00:49:22,627
+Is that the price for stealing his lover?
+
+700
+00:49:25,962 --> 00:49:28,382
+I never got in between them.
+
+701
+00:49:41,937 --> 00:49:43,147
+Were youâ¦
+
+702
+00:49:44,564 --> 00:49:46,784
+trying to live here
+with my brother-in-law?
+
+703
+00:49:48,443 --> 00:49:49,573
+I'm not the one.
+
+704
+00:49:51,822 --> 00:49:54,872
+I did date someone who wants to live here.
+
+705
+00:49:57,411 --> 00:49:58,541
+Heâ¦
+
+706
+00:49:59,913 --> 00:50:03,963
+He hated coming out
+of the closet and fighting
+
+707
+00:50:04,876 --> 00:50:06,496
+like I did.
+
+708
+00:50:07,587 --> 00:50:09,207
+And then he got to know someone
+
+709
+00:50:10,298 --> 00:50:12,758
+who has similar tendencies as him.
+
+710
+00:50:13,510 --> 00:50:16,430
+He said that he felt like
+he met his soulmate.
+
+711
+00:50:18,598 --> 00:50:20,018
+My brother-in-law?
+
+712
+00:50:20,100 --> 00:50:20,980
+Yes.
+
+713
+00:50:21,852 --> 00:50:23,812
+He totally fell for Dr. Yoon,
+
+714
+00:50:25,981 --> 00:50:28,361
+so he stole my money
+and ran away to New Zealand.
+
+715
+00:50:28,442 --> 00:50:32,322
+Then did you work at that cafe
+to have revenge on my brother-in-law?
+
+716
+00:50:32,404 --> 00:50:34,364
+Rather than revengeâ¦
+
+717
+00:50:35,532 --> 00:50:37,532
+I just wanted to scare him.
+
+718
+00:50:37,617 --> 00:50:39,997
+But I became friends
+with Eun-joo, and, wellâ¦
+
+719
+00:50:41,663 --> 00:50:42,543
+I failed.
+
+720
+00:50:49,629 --> 00:50:52,379
+What is considered
+getting in between them?
+
+721
+00:50:52,466 --> 00:50:54,126
+Is chatting not enough?
+
+722
+00:50:56,011 --> 00:50:57,471
+Your mother said this.
+
+723
+00:50:58,430 --> 00:50:59,640
+"My son
+
+724
+00:51:00,807 --> 00:51:02,477
+never makes mistakes."
+
+725
+00:51:04,060 --> 00:51:06,100
+Are you saying you didn't make a mistake?
+
+726
+00:51:06,897 --> 00:51:07,807
+Youâ¦
+
+727
+00:51:08,899 --> 00:51:12,239
+-Stop being sarcastic.
+-Does this sound like sarcasm to you?
+
+728
+00:51:12,319 --> 00:51:13,449
+Are you offended?
+
+729
+00:51:13,528 --> 00:51:15,068
+It feels like everyone
+
+730
+00:51:15,155 --> 00:51:17,445
+is laughing and talking
+behind your back, right?
+
+731
+00:51:17,532 --> 00:51:19,792
+If you're that scared,
+why did you chat online?
+
+732
+00:51:19,868 --> 00:51:21,368
+You couldn't control yourself?
+
+733
+00:51:22,954 --> 00:51:24,334
+Let go!
+
+734
+00:51:25,415 --> 00:51:26,535
+Let go!
+
+735
+00:51:28,001 --> 00:51:30,211
+Let go!
+
+736
+00:51:35,675 --> 00:51:36,545
+Let go!
+
+737
+00:51:37,177 --> 00:51:38,257
+Yes.
+
+738
+00:51:38,970 --> 00:51:41,350
+I knew you would read all the chats.
+
+739
+00:51:42,432 --> 00:51:43,522
+I'm horrible, aren't I?
+
+740
+00:51:44,351 --> 00:51:45,981
+Is there anything left to discuss?
+
+741
+00:51:46,853 --> 00:51:48,403
+You want to end it here.
+
+742
+00:51:48,480 --> 00:51:50,230
+You always end things clearly.
+
+743
+00:51:50,315 --> 00:51:52,475
+So why did you come here for?
+
+744
+00:51:54,528 --> 00:51:56,278
+Don't act like you know everything
+
+745
+00:51:56,363 --> 00:51:58,283
+like you're wise and not greedy.
+
+746
+00:51:59,533 --> 00:52:01,953
+Your face and the way
+you talk make me sick.
+
+747
+00:52:04,830 --> 00:52:06,370
+Let go!
+
+748
+00:52:06,456 --> 00:52:08,666
+Let go!
+
+749
+00:52:10,627 --> 00:52:11,877
+I said, let go!
+
+750
+00:52:11,962 --> 00:52:14,762
+Let go!
+
+751
+00:52:16,550 --> 00:52:17,630
+Let goâ¦
+
+752
+00:52:27,978 --> 00:52:29,308
+Youâ¦
+
+753
+00:52:36,069 --> 00:52:40,029
+What did you think
+when I was trying so hard to get pregnant?
+
+754
+00:52:42,868 --> 00:52:44,998
+You know how painful it is
+
+755
+00:52:46,496 --> 00:52:48,746
+because you're a doctor.
+
+756
+00:52:51,084 --> 00:52:52,294
+What did you think?
+
+757
+00:52:53,837 --> 00:52:55,377
+I asked, what did you think!
+
+758
+00:53:11,146 --> 00:53:12,266
+I detested you.
+
+759
+00:53:15,442 --> 00:53:16,572
+It was detesting to see
+
+760
+00:53:16,651 --> 00:53:19,531
+you try so hard to have a family
+when you were so sick of them.
+
+761
+00:53:24,784 --> 00:53:26,954
+You hate your family,
+but you're okay with ours?
+
+762
+00:53:28,496 --> 00:53:30,576
+Did you need
+an elevation of social status?
+
+763
+00:53:30,665 --> 00:53:31,915
+You're a snob.
+
+764
+00:54:15,251 --> 00:54:17,211
+Detestable and sickening?
+
+765
+00:54:20,674 --> 00:54:21,804
+That's good.
+
+766
+00:54:23,301 --> 00:54:25,051
+I have no feelings for you.
+
+767
+00:54:28,264 --> 00:54:30,234
+And I haven't even gotten started.
+
+768
+00:55:53,475 --> 00:55:54,305
+EUN-HEE
+
+769
+00:55:54,392 --> 00:55:56,062
+I'm still in Goheung.
+
+770
+00:55:56,144 --> 00:55:58,814
+If you still want to go with us,
+we'll go pick you up.
+
+771
+00:56:16,873 --> 00:56:17,873
+Bye.
+
+772
+00:56:25,548 --> 00:56:27,798
+Today is such a long day.
+
+773
+00:57:46,129 --> 00:57:47,339
+Here.
+
+774
+00:57:47,422 --> 00:57:49,052
+Did I sleep like a monster?
+
+775
+00:57:49,799 --> 00:57:50,759
+I wasn't looking.
+
+776
+00:57:51,384 --> 00:57:53,344
+So you weren't interested.
+
+777
+00:57:53,428 --> 00:57:54,638
+I'll drive from here.
+
+778
+00:57:54,721 --> 00:57:55,811
+It's okay.
+
+779
+00:57:58,141 --> 00:57:59,731
+What's your relationship with Chan-hyuk?
+
+780
+00:58:00,393 --> 00:58:02,813
+We're university friends.
+
+781
+00:58:04,606 --> 00:58:06,686
+Does Chan-hyuk like Eun-joo?
+
+782
+00:58:09,068 --> 00:58:11,278
+Do you always show
+your thoughts on your face?
+
+783
+00:58:13,031 --> 00:58:14,451
+He liked her before.
+
+784
+00:58:14,532 --> 00:58:16,332
+You know, what all guys do.
+
+785
+00:58:16,409 --> 00:58:18,239
+Having a crush on a friend's sister.
+
+786
+00:58:18,328 --> 00:58:19,908
+I'm a guy, but I didn't do that.
+
+787
+00:58:19,996 --> 00:58:20,956
+Is see.
+
+788
+00:58:21,748 --> 00:58:23,418
+DId you crush on a friend's brother?
+
+789
+00:58:25,502 --> 00:58:27,342
+You slept well in the car.
+
+790
+00:58:28,588 --> 00:58:30,588
+You're not feeling good
+right now, are you?
+
+791
+00:58:35,553 --> 00:58:36,893
+I feel bad for Eun-jooâ¦
+
+792
+00:58:37,555 --> 00:58:38,515
+but I feel relieved.
+
+793
+00:58:39,349 --> 00:58:40,179
+To be honestâ¦
+
+794
+00:58:41,601 --> 00:58:43,101
+I never liked my brother-in-law.
+
+795
+00:58:43,895 --> 00:58:46,105
+I always thought
+he was cold, authoritative,
+
+796
+00:58:46,189 --> 00:58:48,399
+and selfish.
+
+797
+00:58:49,984 --> 00:58:50,824
+Butâ¦
+
+798
+00:58:51,778 --> 00:58:54,408
+when I think that he's been
+deceiving himself all his life,
+
+799
+00:58:56,991 --> 00:58:57,871
+I can understand.
+
+800
+00:59:02,497 --> 00:59:04,417
+Hating someone is also a waste of energy
+
+801
+00:59:05,333 --> 00:59:06,633
+and since I'm not anymoreâ¦
+
+802
+00:59:07,544 --> 00:59:09,134
+So I feel much relieved.
+
+803
+00:59:15,426 --> 00:59:17,716
+I sent Eun-hee back.
+
+804
+00:59:18,388 --> 00:59:20,928
+You have to give me a ride. I can't drive.
+
+805
+00:59:25,061 --> 00:59:28,571
+Is that so?
+Then why didn't you go with her?
+
+806
+00:59:30,984 --> 00:59:32,654
+I told her I'll stay.
+
+807
+00:59:38,032 --> 00:59:38,872
+I didn't thinkâ¦
+
+808
+00:59:39,617 --> 00:59:41,537
+Eun-hee would find this place.
+
+809
+00:59:42,662 --> 00:59:44,502
+She said it was a pure hunch.
+
+810
+00:59:46,207 --> 00:59:48,167
+I didn't think she had a hunch.
+
+811
+00:59:48,918 --> 00:59:51,128
+Eun-hee actually has quite good hunches.
+
+812
+00:59:51,212 --> 00:59:52,672
+Although dense.
+
+813
+00:59:54,882 --> 00:59:57,642
+I'm sure she brought you here
+because she's dense.
+
+814
+00:59:57,719 --> 01:00:00,469
+Perhaps she brought me here
+because she has a good hunch.
+
+815
+01:00:10,231 --> 01:00:13,821
+But us two going back to Seoul
+together may seem weird.
+
+816
+01:00:13,901 --> 01:00:15,651
+That's Eun-hee's true talent.
+
+817
+01:00:16,362 --> 01:00:18,412
+The talent for making things weird.
+
+818
+01:00:18,489 --> 01:00:21,079
+The talent for making things weird
+and escaping on her own.
+
+819
+01:00:22,869 --> 01:00:25,329
+Do you know who Eun-hee
+went back to Seoul with?
+
+820
+01:00:27,707 --> 01:00:28,877
+The barista.
+
+821
+01:00:36,132 --> 01:00:39,182
+I'm actually laughing, surprisingly.
+
+822
+01:00:46,976 --> 01:00:49,096
+So this is how it feels to be comforted.
+
+823
+01:01:16,798 --> 01:01:18,628
+I'm going back with Eun-joo.
+
+824
+01:01:18,716 --> 01:01:21,216
+She's fine, so don't worry.
+
+825
+01:01:21,302 --> 01:01:23,302
+Just you and her?
+
+826
+01:01:24,097 --> 01:01:25,597
+What about my brother-in-law?
+
+827
+01:01:33,773 --> 01:01:35,153
+Thanks.
+
+828
+01:01:42,115 --> 01:01:44,655
+You've done so much.
+
+829
+01:01:56,212 --> 01:01:57,382
+I have something for you.
+
+830
+01:01:57,964 --> 01:01:59,804
+I'll wait at the cafe around your house.
+
+831
+01:02:00,341 --> 01:02:01,841
+ACTUALLY, Iâ¦
+
+832
+01:02:05,596 --> 01:02:07,766
+I'm almost there, so don't run away.
+
+833
+01:02:10,184 --> 01:02:13,984
+OKAY
+
+834
+01:02:21,070 --> 01:02:22,740
+It's because I have nothing.
+
+835
+01:02:26,075 --> 01:02:28,995
+How could I do something
+even a barbarian wouldn't do?
+
+836
+01:02:29,787 --> 01:02:31,997
+Throwing fists at homeâ¦
+
+837
+01:02:32,081 --> 01:02:33,671
+Bleedingâ¦
+
+838
+01:02:36,335 --> 01:02:38,625
+How can I be forgiven for such a sin?
+
+839
+01:02:41,966 --> 01:02:43,376
+YOUNGER DAUGHTER
+
+840
+01:02:50,266 --> 01:02:51,766
+-Dad.
+-Hello.
+
+841
+01:02:52,935 --> 01:02:54,515
+My Eun-hee.
+
+842
+01:02:54,604 --> 01:02:56,654
+Yes, this is your Eun-hee.
+
+843
+01:02:57,940 --> 01:03:00,110
+Don't you have something to say to me?
+
+844
+01:03:00,193 --> 01:03:01,153
+What?
+
+845
+01:03:02,361 --> 01:03:05,241
+Did you forget the promise
+you made with me?
+
+846
+01:03:05,323 --> 01:03:06,573
+What was it?
+
+847
+01:03:06,657 --> 01:03:08,657
+I heard your memories came back.
+
+848
+01:03:11,662 --> 01:03:13,002
+Right.
+
+849
+01:03:13,080 --> 01:03:16,290
+Dad, what happened to your voice?
+Did you catch a cold?
+
+850
+01:03:17,126 --> 01:03:19,746
+No.
+
+851
+01:03:21,589 --> 01:03:23,259
+Tell me your driving schedule.
+
+852
+01:03:24,175 --> 01:03:25,465
+I'll go see you.
+
+853
+01:03:27,011 --> 01:03:29,601
+-Okay.
+-Yes.
+
+854
+01:03:34,977 --> 01:03:35,937
+Ah, I'm tired.
+
+855
+01:03:36,729 --> 01:03:38,479
+I'm getting old.
+
+856
+01:03:41,567 --> 01:03:43,357
+We're family, but we don't know.
+
+857
+01:03:44,654 --> 01:03:47,324
+We don't know if we don't tell.
+
+858
+01:03:58,668 --> 01:04:00,958
+It's so good to be with you, Ms. Sook.
+
+859
+01:04:07,844 --> 01:04:09,804
+Ms. Jin-sook, I love you.
+
+860
+01:04:10,388 --> 01:04:13,598
+I really, truly love you.
+
+861
+01:04:13,683 --> 01:04:15,983
+Everything shone brightly since you came.
+
+862
+01:04:16,561 --> 01:04:18,811
+Thank you, Ms. Sook.
+
+863
+01:04:18,896 --> 01:04:23,986
+I'm so thankful for being with
+a lacking jerk like me.
+
+864
+01:04:29,615 --> 01:04:30,985
+After all this timeâ¦
+
+865
+01:04:32,034 --> 01:04:34,204
+how can he try to stop me?
+
+866
+01:04:35,204 --> 01:04:37,834
+After all this timeâ¦
+
+867
+01:04:48,718 --> 01:04:51,968
+Ms. Lee Jin-sook, this is your messenger.
+
+868
+01:04:52,054 --> 01:04:54,684
+Yes, did you talk to your sister
+on the phone?
+
+869
+01:04:54,765 --> 01:04:56,845
+Your expectation was right.
+
+870
+01:04:56,934 --> 01:04:59,314
+Did something happen?
+
+871
+01:04:59,395 --> 01:05:02,395
+Tae-hyung was on the plane
+for so long going back and forth.
+
+872
+01:05:02,481 --> 01:05:03,571
+He's not feeling well.
+
+873
+01:05:04,400 --> 01:05:06,610
+I'll tell them to call tomorrow
+or the day after.
+
+874
+01:05:06,694 --> 01:05:08,454
+Is Tae-hyung badly ill?
+
+875
+01:05:08,529 --> 01:05:12,069
+It's not that bad. Donât worry.
+They'll call you soon.
+
+876
+01:05:12,742 --> 01:05:13,782
+Okay.
+
+877
+01:05:13,868 --> 01:05:14,988
+Mom.
+
+878
+01:05:15,077 --> 01:05:17,117
+What happened to your voice?
+
+879
+01:05:17,204 --> 01:05:18,624
+Did you catch a cold?
+
+880
+01:05:18,706 --> 01:05:20,536
+Dad sounded like he caught a cold, too.
+
+881
+01:05:21,709 --> 01:05:23,039
+A cold?
+
+882
+01:05:24,462 --> 01:05:26,052
+He was fine in the morning.
+
+883
+01:05:29,842 --> 01:05:31,842
+Mom, I have to go. Bye.
+
+884
+01:05:41,979 --> 01:05:44,729
+If you always answer the phone
+with a calm voice,
+
+885
+01:05:46,400 --> 01:05:49,490
+although you're sometimes heartbroken,
+
+886
+01:05:52,031 --> 01:05:55,451
+then they will never know
+until you tell them.
+
+887
+01:06:43,332 --> 01:06:44,752
+You look tired.
+
+888
+01:06:45,626 --> 01:06:46,916
+I'm fine.
+
+889
+01:06:49,005 --> 01:06:50,795
+Come to work tomorrow with this.
+
+890
+01:06:50,881 --> 01:06:53,261
+It's the project plan
+for writer Choi Dong-ha.
+
+891
+01:06:53,342 --> 01:06:55,092
+This is enough to say you worked away.
+
+892
+01:06:59,974 --> 01:07:04,274
+I can read "Thank you,
+thank you so much!" on your face.
+
+893
+01:07:04,353 --> 01:07:05,483
+Do you want pizza and beer?
+
+894
+01:07:05,563 --> 01:07:06,903
+If you do a bottoms-up
+
+895
+01:07:06,981 --> 01:07:09,651
+with the first glass of beer
+when you're tired,
+
+896
+01:07:09,734 --> 01:07:12,454
+your arms and legs feel relaxed,
+your brain gets dizzy,
+
+897
+01:07:12,528 --> 01:07:14,448
+and you get confident.
+
+898
+01:07:15,573 --> 01:07:17,373
+That's some amazing flirting skills.
+
+899
+01:07:17,450 --> 01:07:20,080
+Look here. This is not a flirting skill.
+
+900
+01:07:20,828 --> 01:07:22,748
+This is just a drink with a coworker.
+
+901
+01:07:24,206 --> 01:07:25,536
+Or with a boss.
+
+902
+01:07:31,714 --> 01:07:33,634
+Are you drunk after drinking one bottle?
+
+903
+01:07:33,716 --> 01:07:34,546
+Iâ¦
+
+904
+01:07:35,509 --> 01:07:37,429
+I couldn't sleep last night,
+
+905
+01:07:38,512 --> 01:07:41,522
+and I got up in the morning
+and drove to Goheung.
+
+906
+01:07:41,599 --> 01:07:45,479
+Plus, I hardly ate anything the whole day.
+
+907
+01:07:47,146 --> 01:07:48,606
+I had some lunch.
+
+908
+01:07:50,441 --> 01:07:53,241
+Wow, you drove all the way there?
+
+909
+01:08:07,208 --> 01:08:08,498
+Did you go with that friend?
+
+910
+01:08:13,672 --> 01:08:14,922
+Well, it's a bitâ¦
+
+911
+01:08:16,217 --> 01:08:17,717
+complicated.
+
+912
+01:08:20,012 --> 01:08:22,852
+I realize that what I just said
+can cause misunderstandings.
+
+913
+01:08:24,016 --> 01:08:25,516
+I didnât ask you for your help
+
+914
+01:08:26,811 --> 01:08:29,231
+to go and have fun with my friend.
+
+915
+01:08:31,398 --> 01:08:33,028
+I don't get any wrong ideas.
+
+916
+01:08:33,109 --> 01:08:35,819
+I just want to know
+what this complicated matter is,
+
+917
+01:08:36,403 --> 01:08:37,783
+and I want to comfort you.
+
+918
+01:08:42,243 --> 01:08:44,043
+Because you're the one I love.
+
+919
+01:09:02,138 --> 01:09:05,308
+Although I didn't want it,
+thank you for today.
+
+920
+01:09:06,267 --> 01:09:09,687
+It seems like you're okay now,
+but when you're home aloneâ¦
+
+921
+01:09:12,857 --> 01:09:14,477
+The emotions will come back.
+
+922
+01:09:17,069 --> 01:09:20,699
+You should stay at
+Eun-hee's house for a while.
+
+923
+01:09:25,995 --> 01:09:27,495
+I don't know where she lives.
+
+924
+01:09:28,622 --> 01:09:30,212
+I realized that just now.
+
+925
+01:09:32,418 --> 01:09:34,298
+I can take care of myself. Go home now.
+
+926
+01:09:40,926 --> 01:09:42,256
+Do you have something to say?
+
+927
+01:09:45,931 --> 01:09:50,191
+Haven't you thought that all of my actions
+are the actions of a man in love?
+
+928
+01:09:50,769 --> 01:09:51,849
+I thinkâ¦
+
+929
+01:09:53,606 --> 01:09:55,266
+I tried not to think so.
+
+930
+01:09:55,357 --> 01:09:56,397
+Why?
+
+931
+01:09:57,401 --> 01:09:59,861
+Because we slept together
+the first day we met?
+
+932
+01:10:05,284 --> 01:10:06,374
+Andâ¦
+
+933
+01:10:07,912 --> 01:10:09,792
+you donât know me that well.
+
+934
+01:10:11,290 --> 01:10:13,130
+I know you very well, Eun-hee.
+
+935
+01:10:14,251 --> 01:10:16,051
+When the meeting is boring,
+
+936
+01:10:16,128 --> 01:10:18,758
+you write the Chinese character
+"Taoist Immortal."
+
+937
+01:10:18,839 --> 01:10:20,259
+Because you like the meaning
+
+938
+01:10:20,341 --> 01:10:21,931
+of a person leaning on a mountain.
+
+939
+01:10:22,009 --> 01:10:23,759
+You don't like taking sides either,
+
+940
+01:10:24,762 --> 01:10:26,812
+so you don't take anyone's side
+in a meeting.
+
+941
+01:10:27,681 --> 01:10:31,521
+You're the second daughter, stuck
+in between the eldest and the youngest.
+
+942
+01:10:32,102 --> 01:10:33,402
+The name of your email
+
+943
+01:10:33,479 --> 01:10:35,979
+is the main character
+from Pride and Prejudice,
+
+944
+01:10:36,065 --> 01:10:37,475
+Liz.
+
+945
+01:10:37,566 --> 01:10:39,146
+The email address?
+
+946
+01:10:39,235 --> 01:10:41,235
+You always translated my username
+
+947
+01:10:41,320 --> 01:10:43,320
+and referred to me as that.
+
+948
+01:10:44,740 --> 01:10:45,910
+Thistleâ¦
+
+949
+01:10:48,160 --> 01:10:49,330
+You meanâ¦
+
+950
+01:10:50,329 --> 01:10:51,209
+Yes.
+
+951
+01:10:52,581 --> 01:10:54,171
+I'm Thistle.
+
+952
+01:10:57,920 --> 01:11:01,050
+I had a great time too and thank you.
+
+953
+01:11:01,131 --> 01:11:03,761
+Thistle,
+
+954
+01:11:03,842 --> 01:11:05,512
+Be happy.
+
+955
+01:11:05,594 --> 01:11:07,184
+I'm the one you've been emailing
+
+956
+01:11:07,263 --> 01:11:08,393
+for more than a year.
+
+957
+01:11:11,058 --> 01:11:12,268
+No way.
+
+958
+01:11:12,351 --> 01:11:13,981
+Thistle is a cute
+and capable female student
+
+959
+01:11:14,061 --> 01:11:15,941
+in her early twenties who lives overseas!
+
+960
+01:11:16,021 --> 01:11:17,151
+Yes.
+
+961
+01:11:17,231 --> 01:11:19,571
+Because she's cute and capable,
+
+962
+01:11:19,650 --> 01:11:21,240
+she got a better-paying job
+
+963
+01:11:21,318 --> 01:11:22,648
+in less than a week.
+
+964
+01:11:23,445 --> 01:11:25,405
+So I got to use her email.
+
+965
+01:11:27,241 --> 01:11:28,741
+I tried to tell youâ¦
+
+966
+01:11:29,743 --> 01:11:31,413
+but it was so much fun,
+
+967
+01:11:31,495 --> 01:11:33,155
+so I decided to pretend to be her.
+
+968
+01:11:35,666 --> 01:11:37,576
+Then I became interested in you.
+
+969
+01:11:39,169 --> 01:11:40,669
+I came here because I wanted to see you
+
+970
+01:11:41,505 --> 01:11:42,915
+and fell in love.
+
+971
+01:11:53,976 --> 01:11:57,516
+It was an honest conversation
+between women.
+
+972
+01:11:59,982 --> 01:12:01,732
+I thought you wouldn't have opened up
+
+973
+01:12:01,817 --> 01:12:03,397
+if I revealed my identity.
+
+974
+01:12:03,485 --> 01:12:05,945
+I think I said inappropriate things, too.
+
+975
+01:12:06,030 --> 01:12:07,450
+I'm telling you.
+
+976
+01:12:08,824 --> 01:12:11,374
+We mostly talked about books, authors,
+
+977
+01:12:11,452 --> 01:12:12,952
+and work.
+
+978
+01:12:13,037 --> 01:12:15,157
+We related to each other so well.
+
+979
+01:12:17,833 --> 01:12:20,673
+You still should've
+revealed your identity.
+
+980
+01:12:22,796 --> 01:12:23,876
+You seeâ¦
+
+981
+01:12:25,382 --> 01:12:27,132
+At first, I missed the timing.
+
+982
+01:12:28,218 --> 01:12:29,598
+Then, I just didn't want to reveal it.
+
+983
+01:12:30,179 --> 01:12:31,179
+Why not?
+
+984
+01:12:32,014 --> 01:12:33,394
+Because I liked your writings.
+
+985
+01:12:34,099 --> 01:12:35,889
+They made me laugh
+
+986
+01:12:35,976 --> 01:12:37,226
+and they comforted me.
+
+987
+01:12:38,896 --> 01:12:40,016
+And it was heartwarming.
+
+988
+01:12:42,775 --> 01:12:45,025
+Then you shouldn't have told me.
+
+989
+01:12:46,111 --> 01:12:49,951
+It's embarrassing because it feels like
+my shameful secret has been revealed.
+
+990
+01:13:02,711 --> 01:13:03,921
+I'll get going.
+
+991
+01:13:04,004 --> 01:13:04,964
+All right.
+
+992
+01:13:52,302 --> 01:13:54,682
+Right when I thought I fell in love,
+
+993
+01:14:04,231 --> 01:14:07,821
+I heard another sound
+that knocked on my heart.
+
+994
+01:14:11,989 --> 01:14:14,279
+And I badly wished that sound
+
+995
+01:14:21,123 --> 01:14:22,333
+wasn't you.
+
+996
+01:14:57,034 --> 01:15:01,164
+I want to know why
+you're ignoring my calls and texts.
+
+997
+01:15:01,246 --> 01:15:04,076
+They say you should give up
+if your heart doesn't flutter.
+
+998
+01:15:04,166 --> 01:15:06,916
+I don't want to be a man
+who's jealous of your friend.
+
+999
+01:15:07,002 --> 01:15:08,632
+You wereâ¦
+
+1000
+01:15:09,463 --> 01:15:12,093
+particularly cold to me and Dad.
+
+1001
+01:15:12,174 --> 01:15:15,554
+October 13. That was the day
+I proposed to your mother.
+
+1002
+01:15:15,636 --> 01:15:19,136
+-They said I tried to kill myself.
+-Try reading the diary!
+
+1003
+01:15:19,223 --> 01:15:20,723
+I've been holding back
+because of the kids.
+
+1004
+01:15:20,807 --> 01:15:21,977
+I wasâ¦
+
+1005
+01:15:22,059 --> 01:15:23,979
+done a long time ago.
+
+1006
+01:15:24,978 --> 01:15:30,108
+{\an8}Subtitle translation by: Hae-lim Lee
+
+1007
+01:15:31,305 --> 01:16:31,868
+Please rate this subtitle at www.osdb.link/ah6xg
+Help other users to choose the best subtitles

@@ -1,0 +1,370 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.92,0:00:13.34,Default,,0000,0000,0000,,{\i1}FACTION FACTION\NIt's so unclear{\i0}
+Dialogue: 0,0:00:10.92,0:00:13.34,Default,,0000,0000,0000,,{\i1}FACTION FACTION aimaina monsa{\i0}
+Dialogue: 0,0:00:13.51,0:00:16.68,Default,,0000,0000,0000,,{\i1}Mysterious, abstract FACTION LIFE{\i0}
+Dialogue: 0,0:00:13.51,0:00:16.68,Default,,0000,0000,0000,,{\i1}kai chuushouteki FACTION LIFE{\i0}
+Dialogue: 0,0:00:31.15,0:00:33.20,Default,,0000,0000,0000,,{\i1}FACTION LIFE\NStrange and odd{\i0}
+Dialogue: 0,0:00:31.15,0:00:33.20,Default,,0000,0000,0000,,{\i1}FACTION LIFE kimyou kiteretsu{\i0}
+Dialogue: 0,0:00:33.36,0:00:35.82,Default,,0000,0000,0000,,{\i1}Here comes an enigma\NHow mysterious{\i0}
+Dialogue: 0,0:00:33.36,0:00:35.82,Default,,0000,0000,0000,,{\i1}kaikai tourai mysterious{\i0}
+Dialogue: 0,0:00:35.99,0:00:38.53,Default,,0000,0000,0000,,{\i1}When I turn back and look{\i0}
+Dialogue: 0,0:00:35.99,0:00:38.53,Default,,0000,0000,0000,,{\i1}patto furikaettara futo{\i0}
+Dialogue: 0,0:00:38.70,0:00:40.91,Default,,0000,0000,0000,,{\i1}I feel a material to the unknown{\i0}
+Dialogue: 0,0:00:38.70,0:00:40.91,Default,,0000,0000,0000,,{\i1}kanjiru michi e no material{\i0}
+Dialogue: 0,0:00:41.08,0:00:43.75,Default,,0000,0000,0000,,{\i1}That's a FACTION FACTION\NIt's so unclear{\i0}
+Dialogue: 0,0:00:41.08,0:00:43.75,Default,,0000,0000,0000,,{\i1}That's a FACTION FACTION aimaina monsa{\i0}
+Dialogue: 0,0:00:43.91,0:00:46.25,Default,,0000,0000,0000,,{\i1}FACTION FACTION\NReal ideal{\i0}
+Dialogue: 0,0:00:43.91,0:00:46.25,Default,,0000,0000,0000,,{\i1}FACTION FACTION real ideal{\i0}
+Dialogue: 0,0:00:46.42,0:00:48.75,Default,,0000,0000,0000,,{\i1}FACTION FACTION\NFaintly behind me{\i0}
+Dialogue: 0,0:00:46.42,0:00:48.75,Default,,0000,0000,0000,,{\i1}FACTION FACTION haigo ni kasuka{\i0}
+Dialogue: 0,0:00:48.92,0:00:51.46,Default,,0000,0000,0000,,{\i1}FACTION FACTION\N"We're right here"{\i0}
+Dialogue: 0,0:00:48.92,0:00:51.46,Default,,0000,0000,0000,,{\i1}FACTION FACTION "ima oidemasu"{\i0}
+Dialogue: 0,0:00:51.63,0:00:56.01,Default,,0000,0000,0000,,{\i1}Is the faraway inviting hand\NA truth or a lie?{\i0}
+Dialogue: 0,0:00:51.63,0:00:56.01,Default,,0000,0000,0000,,{\i1}tooi te wo maneiteiru shoutai wa\Ntruth or lie?{\i0}
+Dialogue: 0,0:00:56.18,0:01:00.89,Default,,0000,0000,0000,,{\i1}In the gradient space with no boundaries\N"Come"{\i0}
+Dialogue: 0,0:00:56.18,0:01:00.89,Default,,0000,0000,0000,,{\i1}sakaime nai gradation no hazama de "oide"{\i0}
+Dialogue: 0,0:01:01.43,0:01:06.77,Default,,0000,0000,0000,,{\i1}Auditory hallucinations, images,\NStill unsure if it's the truth{\i0}
+Dialogue: 0,0:01:01.43,0:01:06.77,Default,,0000,0000,0000,,{\i1}genchou guuzou shinjitsu ka saemo\Noborona manma{\i0}
+Dialogue: 0,0:01:06.94,0:01:11.57,Default,,0000,0000,0000,,{\i1}GO AFTER, VANISH, SHOW UP\NWe won't reach it if that's all we do{\i0}
+Dialogue: 0,0:01:06.94,0:01:11.57,Default,,0000,0000,0000,,{\i1}GO AFTER, VANISH, SHOW UP\Nkurikaeshite wa tsukamenai{\i0}
+Dialogue: 0,0:01:12.86,0:01:15.15,Default,,0000,0000,0000,,{\i1}Here and there, what a surprise (thump){\i0}
+Dialogue: 0,0:01:12.86,0:01:15.15,Default,,0000,0000,0000,,{\i1}acchi kocchi odoroki (dokkin){\i0}
+Dialogue: 0,0:01:15.32,0:01:17.82,Default,,0000,0000,0000,,{\i1}Wandering moments\NThe maze is a labyrinth{\i0}
+Dialogue: 0,0:01:15.32,0:01:17.82,Default,,0000,0000,0000,,{\i1}samayotte moments meikyuu wa labyrinth{\i0}
+Dialogue: 0,0:01:17.99,0:01:20.33,Default,,0000,0000,0000,,{\i1}Bizarre, offbeat, darkness (shiver){\i0}
+Dialogue: 0,0:01:17.99,0:01:20.33,Default,,0000,0000,0000,,{\i1}kaiki toppi kurayami (zokkun){\i0}
+Dialogue: 0,0:01:20.49,0:01:22.79,Default,,0000,0000,0000,,{\i1}Jumping into the unknown,\NDeeper and deeper{\i0}
+Dialogue: 0,0:01:20.49,0:01:22.79,Default,,0000,0000,0000,,{\i1}tobikomu mitaiken no oku no oku ni{\i0}
+Dialogue: 0,0:01:22.95,0:01:27.83,Default,,0000,0000,0000,,{\i1}More FACTION FACTION\NEven within such nonsense and incoherence{\i0}
+Dialogue: 0,0:01:22.95,0:01:27.83,Default,,0000,0000,0000,,{\i1}More FACTION FACTION detarame\Nshirimetsuretsu no naka ni mo kitto{\i0}
+Dialogue: 0,0:01:28.00,0:01:32.17,Default,,0000,0000,0000,,{\i1}More FACTION FACTION\NThere should be a piece of truth buried{\i0}
+Dialogue: 0,0:01:28.00,0:01:32.17,Default,,0000,0000,0000,,{\i1}More FACTION FACTION\Nshinjitsu no kakera ga umoreteru hazusa{\i0}
+Dialogue: 0,0:01:32.34,0:01:34.84,Default,,0000,0000,0000,,{\i1}REAL? FICTION?{\i0}
+Dialogue: 0,0:01:32.34,0:01:34.84,Default,,0000,0000,0000,,{\i1}REAL? FICTION?{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.76,Default,,0000,0000,0000,,{\i1}Holograms, a new technology.{\i0}
+Dialogue: 0,0:01:39.60,0:01:42.85,Default,,0000,0000,0000,,{\i1}In the near future,\Nparanormal phenomenon frequently occur.{\i0}
+Dialogue: 0,0:01:43.89,0:01:47.73,Default,,0000,0000,0000,,{\i1}Humans began to refer to them as...{\i0}
+Dialogue: 0,0:01:48.31,0:01:50.48,Default,,0000,0000,0000,,{\i1}Hologram Ghosts.{\i0}
+Dialogue: 0,0:01:52.61,0:01:53.86,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:01:54.36,0:01:57.78,Default,,0000,0000,0000,,I've been hearing things\Nat night since the other day.
+Dialogue: 0,0:02:22.55,0:02:23.93,Default,,0000,0000,0000,,Darling?!
+Dialogue: 0,0:02:54.34,0:02:59.80,Default,,0000,0000,0000,,Our meetings are livelier now\Nwith so many Digimon crossing over.
+Dialogue: 0,0:02:58.38,0:03:01.13,Default,,0000,0000,0000,,CANNIBAL MANSION
+Dialogue: 0,0:03:00.55,0:03:02.76,Default,,0000,0000,0000,,Nightmare Syndrome!
+Dialogue: 0,0:03:15.48,0:03:17.48,Default,,0000,0000,0000,,It's me!
+Dialogue: 0,0:03:17.65,0:03:21.15,Default,,0000,0000,0000,,Digitamamon?! Is that really you?!
+Dialogue: 0,0:03:22.78,0:03:24.70,Default,,0000,0000,0000,,When did you get here?
+Dialogue: 0,0:03:25.20,0:03:27.41,Default,,0000,0000,0000,,About six months ago.
+Dialogue: 0,0:03:27.58,0:03:29.25,Default,,0000,0000,0000,,That long?
+Dialogue: 0,0:03:29.79,0:03:34.75,Default,,0000,0000,0000,,What have you been doing?\NExploring the human world?
+Dialogue: 0,0:03:38.46,0:03:42.97,Default,,0000,0000,0000,,Do you remember\Nlearning together in the Digital World?
+Dialogue: 0,0:03:43.14,0:03:45.01,Default,,0000,0000,0000,,Like I would forget!
+Dialogue: 0,0:03:45.93,0:03:51.44,Default,,0000,0000,0000,,{\i1}We poured over documents studying history\Nof the Digital World and Digimon biology.{\i0}
+Dialogue: 0,0:03:51.77,0:03:54.31,Default,,0000,0000,0000,,{\i1}We learned so much together.{\i0}
+Dialogue: 0,0:03:55.69,0:03:59.03,Default,,0000,0000,0000,,{\i1}We had so much fun every day.{\i0}
+Dialogue: 0,0:03:59.61,0:04:04.66,Default,,0000,0000,0000,,{\i1}But there wasn't any information\Nregarding human beings.{\i0}
+Dialogue: 0,0:04:05.62,0:04:08.37,Default,,0000,0000,0000,,We didn't know anything about them.
+Dialogue: 0,0:04:08.95,0:04:12.71,Default,,0000,0000,0000,,I was so scared, I've been\Nhiding away here the whole time.
+Dialogue: 0,0:04:13.33,0:04:14.83,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:04:15.75,0:04:18.88,Default,,0000,0000,0000,,But you don't need to be so afraid.
+Dialogue: 0,0:04:19.30,0:04:22.80,Default,,0000,0000,0000,,Digimon and humans\Naren't actually all that different.
+Dialogue: 0,0:04:23.38,0:04:24.38,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:04:24.93,0:04:28.64,Default,,0000,0000,0000,,I'm actually living with humans now.
+Dialogue: 0,0:04:28.85,0:04:29.81,Default,,0000,0000,0000,,With humans?!
+Dialogue: 0,0:04:30.81,0:04:33.39,Default,,0000,0000,0000,,Are there other Digimon who do that too?
+Dialogue: 0,0:04:33.56,0:04:36.56,Default,,0000,0000,0000,,Yeah, Gammamon and Jellymon.
+Dialogue: 0,0:04:40.98,0:04:45.16,Default,,0000,0000,0000,,Your curious nature hasn't changed at all.
+Dialogue: 0,0:04:45.32,0:04:50.95,Default,,0000,0000,0000,,You're still my old friend,\Nthe explorer of knowledge.
+Dialogue: 0,0:04:52.75,0:04:54.37,Default,,0000,0000,0000,,Same with you.
+Dialogue: 0,0:04:54.75,0:04:56.58,Default,,0000,0000,0000,,That's interesting though.
+Dialogue: 0,0:04:58.46,0:05:03.34,Default,,0000,0000,0000,,Do you think you could introduce\Nthose Digimon and humans to me?
+Dialogue: 0,0:05:04.13,0:05:06.80,Default,,0000,0000,0000,,Sure, I'll ask Ruli.
+Dialogue: 0,0:05:07.22,0:05:10.85,Default,,0000,0000,0000,,Ruli? Is that the name\Nof the human you're living with?
+Dialogue: 0,0:05:11.01,0:05:11.93,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:12.72,0:05:13.89,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:05:14.77,0:05:16.52,Default,,0000,0000,0000,,I'm looking forward to it.
+Dialogue: 0,0:05:18.06,0:05:23.11,Default,,0000,0000,0000,,I'm relieved to see that you haven't\Nchanged at all either, Angoramon.
+Dialogue: 0,0:05:24.36,0:05:27.11,Default,,0000,0000,0000,,You're always worrying about me.
+Dialogue: 0,0:05:27.66,0:05:30.70,Default,,0000,0000,0000,,Of course! You're my best friend!
+Dialogue: 0,0:05:31.08,0:05:35.41,Default,,0000,0000,0000,,I hope we can learn and study\Ntogether again like we used to.
+Dialogue: 0,0:05:35.58,0:05:38.38,Default,,0000,0000,0000,,Yeah, I'm sure we can.
+Dialogue: 0,0:05:39.21,0:05:40.79,Default,,0000,0000,0000,,Yes, I'll go!
+Dialogue: 0,0:05:41.17,0:05:42.88,Default,,0000,0000,0000,,You decided fast.
+Dialogue: 0,0:05:43.05,0:05:47.68,Default,,0000,0000,0000,,I mean, it's your best friend\Nfrom the Digital World.
+Dialogue: 0,0:05:47.84,0:05:49.39,Default,,0000,0000,0000,,I have to go!
+Dialogue: 0,0:05:49.80,0:05:51.01,Default,,0000,0000,0000,,That's great.
+Dialogue: 0,0:05:51.18,0:05:53.14,Default,,0000,0000,0000,,If Hiro and Kiyoshiro can--
+Dialogue: 0,0:05:53.93,0:05:57.14,Default,,0000,0000,0000,,Hello, Hiro? Are you free tomorrow?
+Dialogue: 0,0:06:01.02,0:06:02.19,Default,,0000,0000,0000,,Where is Hiro?
+Dialogue: 0,0:06:02.36,0:06:04.53,Default,,0000,0000,0000,,We're supposed to meet here.
+Dialogue: 0,0:06:04.69,0:06:06.95,Default,,0000,0000,0000,,Maybe we're early.
+Dialogue: 0,0:06:07.11,0:06:09.32,Default,,0000,0000,0000,,You're too excited, Ruli.
+Dialogue: 0,0:06:09.49,0:06:11.32,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:06:14.12,0:06:15.58,Default,,0000,0000,0000,,That must be Digitamamon!
+Dialogue: 0,0:06:18.71,0:06:19.62,Default,,0000,0000,0000,,Ruli?
+Dialogue: 0,0:06:24.55,0:06:26.84,Default,,0000,0000,0000,,You're so smooth, like an egg.
+Dialogue: 0,0:06:27.01,0:06:30.84,Default,,0000,0000,0000,,But unlike an egg, I'm harder than a rock!
+Dialogue: 0,0:06:31.01,0:06:32.35,Default,,0000,0000,0000,,Let's see here.
+Dialogue: 0,0:06:33.35,0:06:34.51,Default,,0000,0000,0000,,It's true.
+Dialogue: 0,0:06:34.68,0:06:35.72,Default,,0000,0000,0000,,And over here.
+Dialogue: 0,0:06:35.89,0:06:38.06,Default,,0000,0000,0000,,So fluffy! The complete opposite.
+Dialogue: 0,0:06:38.23,0:06:39.77,Default,,0000,0000,0000,,That's fascinating.
+Dialogue: 0,0:06:39.94,0:06:42.52,Default,,0000,0000,0000,,Yes, we are opposites in a lot of ways,
+Dialogue: 0,0:06:43.19,0:06:46.15,Default,,0000,0000,0000,,but strangely we get along.
+Dialogue: 0,0:06:47.07,0:06:49.57,Default,,0000,0000,0000,,We were always together\Nin the Digital World.
+Dialogue: 0,0:06:49.74,0:06:52.24,Default,,0000,0000,0000,,Tell me about that!
+Dialogue: 0,0:06:52.41,0:06:54.41,Default,,0000,0000,0000,,Sure thing! Please, come on in.
+Dialogue: 0,0:06:54.95,0:06:57.29,Default,,0000,0000,0000,,Not that this is my home.
+Dialogue: 0,0:07:02.13,0:07:03.75,Default,,0000,0000,0000,,It's a left here.
+Dialogue: 0,0:07:03.92,0:07:06.05,Default,,0000,0000,0000,,Left is this way!
+Dialogue: 0,0:07:07.88,0:07:10.18,Default,,0000,0000,0000,,Are you sure this is okay?
+Dialogue: 0,0:07:10.76,0:07:13.47,Default,,0000,0000,0000,,It may be an empty house,\Nbut someone still owns it.
+Dialogue: 0,0:07:13.64,0:07:17.52,Default,,0000,0000,0000,,But it's our chance to hear\Nabout the Digital World.
+Dialogue: 0,0:07:17.68,0:07:19.98,Default,,0000,0000,0000,,We can't miss this opportunity!
+Dialogue: 0,0:07:20.14,0:07:22.60,Default,,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:07:23.19,0:07:23.98,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:07:24.56,0:07:30.07,Default,,0000,0000,0000,,{\i1}Angoramon wanted to check\Nthe rare Platinumnumemon's habitat.{\i0}
+Dialogue: 0,0:07:30.24,0:07:33.74,Default,,0000,0000,0000,,Our mission is to explore knowledge.
+Dialogue: 0,0:07:33.91,0:07:39.04,Default,,0000,0000,0000,,And putting it to practice\Nis the shortcut to knowledge, right?
+Dialogue: 0,0:07:39.20,0:07:42.75,Default,,0000,0000,0000,,It's unfair to use\Nmy own words against me.
+Dialogue: 0,0:07:46.42,0:07:48.25,Default,,0000,0000,0000,,What did I tell you?!
+Dialogue: 0,0:07:48.42,0:07:53.26,Default,,0000,0000,0000,,They may be platinum,\Nbut they're still poo-throwing Numemon!
+Dialogue: 0,0:07:57.26,0:07:59.60,Default,,0000,0000,0000,,You were really reckless.
+Dialogue: 0,0:07:59.77,0:08:05.98,Default,,0000,0000,0000,,Hold on a second! You're the one\Nwho said you wanted to go, not me!
+Dialogue: 0,0:08:06.15,0:08:07.02,Default,,0000,0000,0000,,Did I?
+Dialogue: 0,0:08:07.19,0:08:08.53,Default,,0000,0000,0000,,You did!
+Dialogue: 0,0:08:10.07,0:08:12.70,Default,,0000,0000,0000,,You two really are close.
+Dialogue: 0,0:08:12.86,0:08:15.24,Default,,0000,0000,0000,,I-I guess so.
+Dialogue: 0,0:08:17.03,0:08:19.20,Default,,0000,0000,0000,,I haven't talked this much in a while.
+Dialogue: 0,0:08:19.41,0:08:21.25,Default,,0000,0000,0000,,I'm getting hungry.
+Dialogue: 0,0:08:21.91,0:08:24.62,Default,,0000,0000,0000,,You can eat what I brought. It's so good.
+Dialogue: 0,0:08:29.96,0:08:31.26,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:08:33.01,0:08:38.10,Default,,0000,0000,0000,,I know! The last people who lived here\Nleft a bunch of interesting stuff.
+Dialogue: 0,0:08:38.89,0:08:40.56,Default,,0000,0000,0000,,Interesting?
+Dialogue: 0,0:08:41.10,0:08:43.85,Default,,0000,0000,0000,,I promise you'll be hooked!
+Dialogue: 0,0:08:45.52,0:08:49.65,Default,,0000,0000,0000,,Amanokawa-kun,\Nis our destination around here?
+Dialogue: 0,0:08:50.78,0:08:52.61,Default,,0000,0000,0000,,Didn't I tell you?
+Dialogue: 0,0:08:54.53,0:08:56.20,Default,,0000,0000,0000,,It's this house.
+Dialogue: 0,0:08:56.66,0:08:58.70,Default,,0000,0000,0000,,Th-This house?!
+Dialogue: 0,0:09:02.20,0:09:03.50,Default,,0000,0000,0000,,Oh, my!
+Dialogue: 0,0:09:04.37,0:09:08.54,Default,,0000,0000,0000,,It's the first edition of Mushitaro Kuri's\N{\i1}Murder at Red Death Manor{\i0}.
+Dialogue: 0,0:09:08.71,0:09:13.84,Default,,0000,0000,0000,,And this is an original edition of\Nthe {\i1}Reiki Mountain{\i0}! Amazing.
+Dialogue: 0,0:09:14.17,0:09:18.55,Default,,0000,0000,0000,,While I can always read the data,\Nseeing the real thing is different.
+Dialogue: 0,0:09:20.64,0:09:24.39,Default,,0000,0000,0000,,I don't really get it,\Nbut I guess they're all rare books.
+Dialogue: 0,0:09:24.56,0:09:29.31,Default,,0000,0000,0000,,There's also something\Nshaped like a small human upstairs.
+Dialogue: 0,0:09:29.48,0:09:30.98,Default,,0000,0000,0000,,You mean a doll?
+Dialogue: 0,0:09:31.15,0:09:32.61,Default,,0000,0000,0000,,I'm not sure.
+Dialogue: 0,0:09:32.78,0:09:34.99,Default,,0000,0000,0000,,Maybe you can go check it out with me.
+Dialogue: 0,0:09:35.49,0:09:39.03,Default,,0000,0000,0000,,Sure. I love antique dolls.
+Dialogue: 0,0:09:39.66,0:09:40.74,Default,,0000,0000,0000,,What about you?
+Dialogue: 0,0:09:40.91,0:09:45.25,Default,,0000,0000,0000,,I'll stay and look at this\Namazing collection a little longer.
+Dialogue: 0,0:09:46.12,0:09:47.83,Default,,0000,0000,0000,,I thought you'd say that.
+Dialogue: 0,0:09:48.67,0:09:49.96,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:09:48.67,0:09:51.50,Default,,0000,0000,0000,,LIST OF STIGMATIZED PROPERTY
+Dialogue: 0,0:09:50.13,0:09:51.50,Default,,0000,0000,0000,,Man-eating mansion?
+Dialogue: 0,0:09:52.67,0:09:54.01,Default,,0000,0000,0000,,Does it eat?
+Dialogue: 0,0:09:54.34,0:09:57.51,Default,,0000,0000,0000,,An entire family living there\Nsuddenly disappeared
+Dialogue: 0,0:09:57.84,0:10:00.93,Default,,0000,0000,0000,,and the new tenants would\Ndisappear one by one.
+Dialogue: 0,0:10:01.10,0:10:03.52,Default,,0000,0000,0000,,This house is famous for those rumors!
+Dialogue: 0,0:10:03.68,0:10:06.14,Default,,0000,0000,0000,,They're just rumors.
+Dialogue: 0,0:10:06.31,0:10:08.39,Default,,0000,0000,0000,,Let's hurry, we're late.
+Dialogue: 0,0:10:10.98,0:10:14.11,Default,,0000,0000,0000,,I shouldn't have\Nleft you in charge of navigation!
+Dialogue: 0,0:10:14.28,0:10:17.11,Default,,0000,0000,0000,,If only I realized sooner!
+Dialogue: 0,0:10:17.28,0:10:22.03,Default,,0000,0000,0000,,If the rumors are true,\NRuli could have been eaten by now.
+Dialogue: 0,0:10:23.33,0:10:25.62,Default,,0000,0000,0000,,We should head back right now!
+Dialogue: 0,0:10:26.33,0:10:28.29,Default,,0000,0000,0000,,Did Ruli get eaten?
+Dialogue: 0,0:10:28.67,0:10:30.33,Default,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:10:33.50,0:10:35.34,Default,,0000,0000,0000,,Which way on the second floor?
+Dialogue: 0,0:10:36.46,0:10:38.22,Default,,0000,0000,0000,,The room in the back.
+Dialogue: 0,0:10:50.40,0:10:52.27,Default,,0000,0000,0000,,It's amazing!
+Dialogue: 0,0:10:54.27,0:10:55.44,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:10:55.82,0:10:59.86,Default,,0000,0000,0000,,Yes, why don't you open that closet?
+Dialogue: 0,0:11:05.41,0:11:06.45,Default,,0000,0000,0000,,Sand?
+Dialogue: 0,0:11:07.12,0:11:09.04,Default,,0000,0000,0000,,We'll have to clean that later.
+Dialogue: 0,0:11:10.62,0:11:14.67,Default,,0000,0000,0000,,Amazing! So many old bisque dolls.
+Dialogue: 0,0:11:16.63,0:11:18.84,Default,,0000,0000,0000,,Sand over here too?
+Dialogue: 0,0:11:20.93,0:11:23.26,Default,,0000,0000,0000,,One of the dolls fell.
+Dialogue: 0,0:11:27.85,0:11:29.85,Default,,0000,0000,0000,,{\i1}Hiro? Where are you right now?{\i0}
+Dialogue: 0,0:11:30.02,0:11:31.60,Default,,0000,0000,0000,,Well, the thing is...
+Dialogue: 0,0:11:31.77,0:11:34.27,Default,,0000,0000,0000,,What? Man-eating mansion?
+Dialogue: 0,0:11:36.94,0:11:38.32,Default,,0000,0000,0000,,Higacchi said?
+Dialogue: 0,0:11:39.53,0:11:41.74,Default,,0000,0000,0000,,Of course that's not true.
+Dialogue: 0,0:11:45.78,0:11:48.66,Default,,0000,0000,0000,,Okay, we'll be waiting for you.
+Dialogue: 0,0:11:50.16,0:11:52.62,Default,,0000,0000,0000,,You're not going to\Nbelieve this, Digitama...
+Dialogue: 0,0:11:54.79,0:11:56.63,Default,,0000,0000,0000,,Digitamamon?
+Dialogue: 0,0:11:57.67,0:12:01.63,Default,,0000,0000,0000,,The real thing feels so nice.
+Dialogue: 0,0:12:09.18,0:12:10.23,Default,,0000,0000,0000,,Ruli?!
+Dialogue: 0,0:12:11.27,0:12:14.73,Default,,0000,0000,0000,,What's wrong, Digitamamon?
+Dialogue: 0,0:12:19.03,0:12:19.90,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:12:29.08,0:12:29.87,Default,,0000,0000,0000,,Ruli!
+Dialogue: 0,0:12:30.04,0:12:31.87,Default,,0000,0000,0000,,What are you doing, Digitamamon?!
+Dialogue: 0,0:12:32.04,0:12:34.25,Default,,0000,0000,0000,,I got hungry.
+Dialogue: 0,0:12:35.29,0:12:37.17,Default,,0000,0000,0000,,I'm just going to eat a little.
+Dialogue: 0,0:12:37.67,0:12:38.63,Default,,0000,0000,0000,,Eat?!
+Dialogue: 0,0:12:38.80,0:12:39.96,Default,,0000,0000,0000,,I'll eat her.
+Dialogue: 0,0:12:41.55,0:12:43.09,Default,,0000,0000,0000,,And she'll become sand.
+Dialogue: 0,0:12:44.38,0:12:46.05,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:12:48.43,0:12:51.35,Default,,0000,0000,0000,,Then all this sand...
+Dialogue: 0,0:12:52.48,0:12:57.40,Default,,0000,0000,0000,,We can talk about old times again\Nwhen I'm done eating.
+Dialogue: 0,0:12:59.27,0:13:01.40,Default,,0000,0000,0000,,Ruli, go outside!
+Dialogue: 0,0:13:03.44,0:13:04.49,Default,,0000,0000,0000,,Digitamamon!
+Dialogue: 0,0:13:06.49,0:13:07.53,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:13:08.70,0:13:10.33,Default,,0000,0000,0000,,I can't believe we're here!
+Dialogue: 0,0:13:10.49,0:13:12.50,Default,,0000,0000,0000,,Just give it up, Darling.
+Dialogue: 0,0:13:15.37,0:13:17.75,Default,,0000,0000,0000,,What in the world?!
+Dialogue: 0,0:13:20.75,0:13:22.71,Default,,0000,0000,0000,,Why are you getting in my way?
+Dialogue: 0,0:13:23.17,0:13:27.89,Default,,0000,0000,0000,,Do you have any idea\Nwhat you're trying to do?!
+Dialogue: 0,0:13:35.06,0:13:37.52,Default,,0000,0000,0000,,It was an accident at first.
+Dialogue: 0,0:13:39.27,0:13:42.44,Default,,0000,0000,0000,,{\i1}It was fine when I couldn't be seen.{\i0}
+Dialogue: 0,0:13:43.86,0:13:50.66,Default,,0000,0000,0000,,{\i1}But when something caused me\Nto materialize, I got so hungry.{\i0}
+Dialogue: 0,0:13:51.28,0:13:52.83,Default,,0000,0000,0000,,{\i1}So hungry.{\i0}
+Dialogue: 0,0:13:57.12,0:14:00.71,Default,,0000,0000,0000,,{\i1}I was scared to be found by humans.{\i0}
+Dialogue: 0,0:14:01.46,0:14:03.42,Default,,0000,0000,0000,,{\i1}I was so scared,{\i0}
+Dialogue: 0,0:14:03.59,0:14:05.92,Default,,0000,0000,0000,,{\i1}I swallowed them up without thinking.{\i0}
+Dialogue: 0,0:14:06.55,0:14:07.38,Default,,0000,0000,0000,,{\i1}Then...{\i0}
+Dialogue: 0,0:14:08.63,0:14:11.39,Default,,0000,0000,0000,,{\i1}I tried to spit them out right away,{\i0}
+Dialogue: 0,0:14:11.55,0:14:16.39,Default,,0000,0000,0000,,{\i1}but the spirits of the people\NI swallowed came pouring into me.{\i0}
+Dialogue: 0,0:14:17.52,0:14:19.48,Default,,0000,0000,0000,,{\i1}I only drained their spirits,{\i0}
+Dialogue: 0,0:14:19.85,0:14:22.57,Default,,0000,0000,0000,,{\i1}but the humans turned into sand.{\i0}
+Dialogue: 0,0:14:23.44,0:14:26.78,Default,,0000,0000,0000,,{\i1}The human spirits filled my stomach.{\i0}
+Dialogue: 0,0:14:27.40,0:14:30.37,Default,,0000,0000,0000,,{\i1}It was the most\Nsatisfying feeling in my life.{\i0}
+Dialogue: 0,0:14:34.29,0:14:37.00,Default,,0000,0000,0000,,Human spirits?
+Dialogue: 0,0:14:37.16,0:14:41.50,Default,,0000,0000,0000,,What you've done is terrible.
+Dialogue: 0,0:14:42.25,0:14:46.71,Default,,0000,0000,0000,,But humans eat other organisms to survive.
+Dialogue: 0,0:14:47.59,0:14:49.26,Default,,0000,0000,0000,,Hiro! Higacchi!
+Dialogue: 0,0:14:50.18,0:14:54.14,Default,,0000,0000,0000,,Be careful! That Digimon\Nturns humans into sand!
+Dialogue: 0,0:14:56.14,0:14:58.31,Default,,0000,0000,0000,,Yeah, we just heard!
+Dialogue: 0,0:14:59.10,0:15:02.40,Default,,0000,0000,0000,,I knew it was a man-eating mansion!
+Dialogue: 0,0:15:02.56,0:15:03.73,Default,,0000,0000,0000,,You there!
+Dialogue: 0,0:15:05.36,0:15:07.11,Default,,0000,0000,0000,,What are you doing there?
+Dialogue: 0,0:15:08.65,0:15:11.24,Default,,0000,0000,0000,,Oh, no! Oh, no! Oh, no!
+Dialogue: 0,0:15:12.57,0:15:13.62,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:15:15.20,0:15:17.83,Default,,0000,0000,0000,,Oh, well. More importantly...
+Dialogue: 0,0:15:18.91,0:15:21.12,Default,,0000,0000,0000,,It's my first meal in a while.
+Dialogue: 0,0:15:22.00,0:15:25.17,Default,,0000,0000,0000,,It's my lucky day,\Nhaving so many here to eat.
+Dialogue: 0,0:15:29.17,0:15:30.97,Default,,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:15:31.38,0:15:32.22,Default,,0000,0000,0000,,Ruli!
+Dialogue: 0,0:15:36.18,0:15:38.43,Default,,0000,0000,0000,,Angoramon Evolution!
+Dialogue: 0,0:15:42.27,0:15:44.02,Default,,0000,0000,0000,,Symbaangoramon!
+Dialogue: 0,0:15:44.98,0:15:46.69,Default,,0000,0000,0000,,Landlizer!
+Dialogue: 0,0:15:55.49,0:15:57.74,Default,,0000,0000,0000,,You learned to evolve.
+Dialogue: 0,0:15:57.91,0:15:59.45,Default,,0000,0000,0000,,What a surprise.
+Dialogue: 0,0:16:00.37,0:16:04.21,Default,,0000,0000,0000,,But it seems that you've forgotten
+Dialogue: 0,0:16:05.42,0:16:07.71,Default,,0000,0000,0000,,just how hard my body is.
+Dialogue: 0,0:16:07.88,0:16:09.21,Default,,0000,0000,0000,,In that case!
+Dialogue: 0,0:16:11.88,0:16:12.72,Default,,0000,0000,0000,,Jive!
+Dialogue: 0,0:16:19.02,0:16:21.35,Default,,0000,0000,0000,,I told you it's no use.
+Dialogue: 0,0:16:23.60,0:16:26.94,Default,,0000,0000,0000,,We can read some books together\Nonce I'm done eating.
+Dialogue: 0,0:16:27.48,0:16:29.78,Default,,0000,0000,0000,,Please don't get in my way.
+Dialogue: 0,0:16:31.32,0:16:33.49,Default,,0000,0000,0000,,Nightmare Syndrome.
+Dialogue: 0,0:16:49.25,0:16:52.13,Default,,0000,0000,0000,,I haven't exercised this much in a while.
+Dialogue: 0,0:16:54.59,0:16:57.26,Default,,0000,0000,0000,,I'm even hungrier now.
+Dialogue: 0,0:16:59.14,0:17:00.85,Default,,0000,0000,0000,,Everyone, be careful!
+Dialogue: 0,0:17:01.02,0:17:03.85,Default,,0000,0000,0000,,LEVEL: ULTIMATE\NSPECIAL MOVE: ENIGMA / NIGHTMARE SYNDROME
+Dialogue: 0,0:17:01.52,0:17:06.85,Default,,0000,0000,0000,,Digitamamon's Nightmare Syndrome\Nwill stop your heart!
+Dialogue: 0,0:17:04.02,0:17:06.85,Default,,0000,0000,0000,,TYPE: PERFECT\NATTRIBUTE: DATA
+Dialogue: 0,0:17:07.31,0:17:09.11,Default,,0000,0000,0000,,You have to dodge it!
+Dialogue: 0,0:17:09.44,0:17:11.86,Default,,0000,0000,0000,,What kind of dangerous attack is that?!
+Dialogue: 0,0:17:12.49,0:17:14.36,Default,,0000,0000,0000,,I'm so hungry.
+Dialogue: 0,0:17:17.45,0:17:18.37,Default,,0000,0000,0000,,I'm so...
+Dialogue: 0,0:17:18.53,0:17:20.79,Default,,0000,0000,0000,,I guess we have to fight!
+Dialogue: 0,0:17:22.29,0:17:25.04,Default,,0000,0000,0000,,Jellymon Evolution!
+Dialogue: 0,0:17:27.54,0:17:29.88,Default,,0000,0000,0000,,Teslajellymon!
+Dialogue: 0,0:17:30.80,0:17:32.71,Default,,0000,0000,0000,,I'm getting bad vibes!
+Dialogue: 0,0:17:32.88,0:17:35.38,Default,,0000,0000,0000,,I'm gonna do my best to stop that Digimon!
+Dialogue: 0,0:17:35.55,0:17:36.30,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:17:37.59,0:17:40.76,Default,,0000,0000,0000,,Gammamon Evolution!
+Dialogue: 0,0:17:44.48,0:17:46.77,Default,,0000,0000,0000,,Wezengammamon!
+Dialogue: 0,0:17:47.90,0:17:49.11,Default,,0000,0000,0000,,Sedna!
+Dialogue: 0,0:17:53.69,0:17:56.03,Default,,0000,0000,0000,,Now! Vorsprite!
+Dialogue: 0,0:17:58.11,0:17:59.62,Default,,0000,0000,0000,,Enigma.
+Dialogue: 0,0:18:00.58,0:18:01.53,Default,,0000,0000,0000,,Dodge it!
+Dialogue: 0,0:18:03.91,0:18:07.54,Default,,0000,0000,0000,,That move will scramble your mind!
+Dialogue: 0,0:18:07.71,0:18:12.75,Default,,0000,0000,0000,,All of our attacks are reflected,\Nand we're being thrown deadly attacks!
+Dialogue: 0,0:18:12.92,0:18:14.55,Default,,0000,0000,0000,,That Digimon's crazy dangerous!
+Dialogue: 0,0:18:15.42,0:18:18.68,Default,,0000,0000,0000,,I don't mean to hurt any Digimon.
+Dialogue: 0,0:18:19.01,0:18:20.64,Default,,0000,0000,0000,,I'm one of you.
+Dialogue: 0,0:18:21.55,0:18:25.35,Default,,0000,0000,0000,,I'm just looking to eat.
+Dialogue: 0,0:18:26.81,0:18:28.64,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:18:28.81,0:18:32.15,Default,,0000,0000,0000,,I won't let you eat my darling!
+Dialogue: 0,0:18:32.32,0:18:34.57,Default,,0000,0000,0000,,Please, stop!
+Dialogue: 0,0:18:35.90,0:18:37.40,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:18:37.90,0:18:42.07,Default,,0000,0000,0000,,Why do you protect humans?
+Dialogue: 0,0:18:43.16,0:18:45.79,Default,,0000,0000,0000,,I'm hungry!
+Dialogue: 0,0:19:08.85,0:19:10.06,Default,,0000,0000,0000,,I don't think so!
+Dialogue: 0,0:19:14.27,0:19:17.78,Default,,0000,0000,0000,,Wezengammamon Super Evolution!
+Dialogue: 0,0:19:24.95,0:19:26.79,Default,,0000,0000,0000,,Canoweissmon!
+Dialogue: 0,0:19:37.17,0:19:38.46,Default,,0000,0000,0000,,Nightmare--
+Dialogue: 0,0:19:38.63,0:19:39.51,Default,,0000,0000,0000,,GALLIA FISSURE
+Dialogue: 0,0:19:39.67,0:19:40.97,Default,,0000,0000,0000,,Gallia Fissure!
+Dialogue: 0,0:19:55.27,0:19:56.07,Default,,0000,0000,0000,,In that case!
+Dialogue: 0,0:19:57.90,0:19:59.15,Default,,0000,0000,0000,,Digitamamon!
+Dialogue: 0,0:20:00.36,0:20:01.78,Default,,0000,0000,0000,,Symbaangoramon?!
+Dialogue: 0,0:20:02.57,0:20:06.58,Default,,0000,0000,0000,,Why? Tell me why.
+Dialogue: 0,0:20:08.29,0:20:10.83,Default,,0000,0000,0000,,I want to eat.
+Dialogue: 0,0:20:15.13,0:20:17.17,Default,,0000,0000,0000,,I want to eat.
+Dialogue: 0,0:20:17.75,0:20:19.13,Default,,0000,0000,0000,,Please, stop.
+Dialogue: 0,0:20:20.71,0:20:22.30,Default,,0000,0000,0000,,Please.
+Dialogue: 0,0:20:23.43,0:20:26.05,Default,,0000,0000,0000,,Let me eat you.
+Dialogue: 0,0:20:28.14,0:20:33.64,Default,,0000,0000,0000,,Why are you doing this?\NYou're an explorer of knowledge.
+Dialogue: 0,0:20:39.40,0:20:41.86,Default,,0000,0000,0000,,How did it come to this?
+Dialogue: 0,0:20:44.99,0:20:47.16,Default,,0000,0000,0000,,Don't get in my way!
+Dialogue: 0,0:20:47.99,0:20:49.20,Default,,0000,0000,0000,,Digitamamon!
+Dialogue: 0,0:21:03.59,0:21:07.18,Default,,0000,0000,0000,,You've changed too.
+Dialogue: 0,0:21:08.43,0:21:09.89,Default,,0000,0000,0000,,Angoramon.
+Dialogue: 0,0:21:11.27,0:21:13.85,Default,,0000,0000,0000,,Are you a Digimon?
+Dialogue: 0,0:21:16.85,0:21:18.65,Default,,0000,0000,0000,,Or a human?
+Dialogue: 0,0:21:33.58,0:21:39.08,Default,,0000,0000,0000,,{\i1}That house still stands to this day.{\i0}
+Dialogue: 0,0:21:39.96,0:21:44.13,Default,,0000,0000,0000,,{\i1}As if nothing happened.{\i0}
+Dialogue: 0,0:21:45.88,0:21:51.14,Default,,0000,0000,0000,,{\i1}I looked out far into space{\i0}
+Dialogue: 0,0:21:45.88,0:21:51.14,Default,,0000,0000,0000,,{\i1}uchuu no saki wo mite itawa{\i0}
+Dialogue: 0,0:21:51.31,0:21:56.98,Default,,0000,0000,0000,,{\i1}Jupiter's ring was spinning like a record{\i0}
+Dialogue: 0,0:21:51.31,0:21:56.98,Default,,0000,0000,0000,,{\i1}mokusei no wakka ga{\i0}\N{\i1}record mitai ni mawatteru{\i0}
+Dialogue: 0,0:21:57.44,0:22:02.57,Default,,0000,0000,0000,,{\i1}That's the stupid dream I had{\i0}
+Dialogue: 0,0:21:57.44,0:22:02.57,Default,,0000,0000,0000,,{\i1}sonna bakageta yume wo mitawa{\i0}
+Dialogue: 0,0:22:03.36,0:22:08.66,Default,,0000,0000,0000,,{\i1}Tonight, I'll be waiting in my dream again{\i0}\N{\i1}At our rendezvous{\i0}
+Dialogue: 0,0:22:03.36,0:22:08.66,Default,,0000,0000,0000,,{\i1}kyou no yume mo{\i0}\N{\i1}ano ko to machiawase yumebanchi{\i0}
+Dialogue: 0,0:22:10.45,0:22:16.21,Default,,0000,0000,0000,,{\i1}Under the twinkling lights{\i0}\N{\i1}We melt into the night{\i0}
+Dialogue: 0,0:22:10.45,0:22:16.21,Default,,0000,0000,0000,,{\i1}kirakira mabushikute yoru ni tokedasu{\i0}
+Dialogue: 0,0:22:16.37,0:22:21.59,Default,,0000,0000,0000,,{\i1}shounentai seimeitai yuurei{\i0}\N{\i1}men to mukatte susume{\i0}
+Dialogue: 0,0:22:16.37,0:22:21.59,Default,,0000,0000,0000,,{\i1}Kids, creatures, and ghosts{\i0}\N{\i1}March forward!{\i0}
+Dialogue: 0,0:22:21.75,0:22:26.72,Default,,0000,0000,0000,,{\i1}imi naku hitasura ni tada oikakeru{\i0}
+Dialogue: 0,0:22:21.75,0:22:26.72,Default,,0000,0000,0000,,{\i1}Just keep chasing without rhyme or reason{\i0}
+Dialogue: 0,0:22:26.88,0:22:31.76,Default,,0000,0000,0000,,{\i1}bokura wa hikareau mono tachi{\i0}
+Dialogue: 0,0:22:26.88,0:22:31.76,Default,,0000,0000,0000,,{\i1}We are drawn together{\i0}
+Dialogue: 0,0:22:32.68,0:22:37.35,Default,,0000,0000,0000,,{\i1}bokura wa hikariau mono tachi{\i0}
+Dialogue: 0,0:22:32.68,0:22:37.35,Default,,0000,0000,0000,,{\i1}We shine together{\i0}
+Dialogue: 0,0:22:46.86,0:22:51.53,Default,,0000,0000,0000,,{\i1}A leaky faucet can drive you crazy\Nwith the sound of dripping water.{\i0}
+Dialogue: 0,0:22:51.87,0:22:54.58,Default,,0000,0000,0000,,{\i1}But it could be beckoning you.{\i0}
+Dialogue: 0,0:22:54.79,0:22:58.71,Default,,0000,0000,0000,,{\i1}Perhaps you should go along.{\i0}
+Dialogue: 0,0:22:58.91,0:23:04.96,Default,,0000,0000,0000,,{\i1}A terror beyond your imagination\Ncould be waiting for you.{\i0}
+Dialogue: 0,0:23:05.38,0:23:09.30,Default,,0000,0000,0000,,{\i1}Do you hear it dripping now?{\i0}
+Dialogue: 0,0:23:09.88,0:23:13.93,Default,,0000,0000,0000,,{\i1}Next time on Digimon Ghost Game\N"Monster's Beauty Serum"{\i0}
+Dialogue: 0,0:23:13.93,0:23:15.93,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:15.93,0:23:17.93,Default,,0000,0000,0000,,

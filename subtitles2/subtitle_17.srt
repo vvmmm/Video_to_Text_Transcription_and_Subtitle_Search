@@ -1,0 +1,354 @@
+ï»¿[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: DefaultTop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: DefaultItalicsTop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: Flashback,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: FlashbackItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,6,3,2,10,10,18,1
+Style: FlashbackTop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,6,3,8,20,20,18,1
+Style: FlashbackItalicsTop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,6,3,8,10,10,18,1
+Style: Signs,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,10,1
+Style: Title,Times New Roman,72,&H00FFFFFF,&H000000FF,&H2864D26C,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,18,1
+Style: Next Episode Title,Times New Roman,90,&H00FFFFFF,&H000000FF,&H2864D26C,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.80,0:00:06.76,Default,Farma,0000,0000,0000,,A house call for the Empress?
+Dialogue: 0,0:00:06.76,0:00:08.62,Default,Farma,0000,0000,0000,,Is something wrong with Her Majesty?
+Dialogue: 0,0:00:08.90,0:00:11.27,Default,Bruno,0000,0000,0000,,Her condition apparently took a sudden turn.
+Dialogue: 0,0:00:11.27,0:00:12.77,Default,Bruno,0000,0000,0000,,We'll go andâ
+Dialogue: 0,0:00:15.07,0:00:17.64,DefaultItalics,Farma,0000,0000,0000,,I don't like the sound of that cough...
+Dialogue: 0,0:00:19.11,0:00:20.00,Default,Bruno,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:00:20.15,0:00:21.20,Default,Farma,0000,0000,0000,,Nothing!
+Dialogue: 0,0:00:21.20,0:00:24.34,Default,Farma,0000,0000,0000,,What sort of illness does Her Majesty have?
+Dialogue: 0,0:00:24.34,0:00:26.82,Default,Bruno,0000,0000,0000,,I cannot speak of it here.
+Dialogue: 0,0:00:26.82,0:00:28.48,Default,Bruno,0000,0000,0000,,Go get ready.
+Dialogue: 0,0:00:29.60,0:00:30.67,Default,Farma,0000,0000,0000,,Yes, Father.
+Dialogue: 0,0:00:30.75,0:00:32.25,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}Opening Theme Song....
+Dialogue: 0,0:00:32.34,0:00:34.85,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Mitsumeteiru negatteiru âª
+Dialogue: 0,0:00:34.94,0:00:37.35,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Nakitaku naru kurushinderu âª
+Dialogue: 0,0:00:37.44,0:00:40.06,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Kizutsuiteru kikoetekuru âª
+Dialogue: 0,0:00:40.15,0:00:41.89,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Kizuite hoshii to âª
+Dialogue: 0,0:00:41.97,0:00:45.26,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Tsutsundeiku iyashiteiku âª
+Dialogue: 0,0:00:45.38,0:00:47.84,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Sukuetanara tsuzuiteiku âª
+Dialogue: 0,0:00:47.95,0:00:52.00,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Musou teki kuronikuru âª
+Dialogue: 0,0:00:52.23,0:01:00.88,Title,,0000,0000,0000,,{\fad(239,1518)\blur3\bord3\fs60\pos(1315.5,298.5)\3c&H81C062&\clip(1002,232.5,1057.5,396)\t(72,572,\clip(1002,232.5,1845,396))}P{\3c&H7EC163&}a{\3c&H7CC265&}r{\3c&H79C466&}a{\3c&H76C567&}l{\3c&H74C669&}l{\3c&H71C86A&}e{\3c&H6EC96B&}l {\3c&H69CB6E&}W{\3c&H66CC6F&}o{\3c&H64CE71&}r{\3c&H61CF72&}l{\3c&H64CE70&}d {\3c&H6BCA6D&}P{\3c&H6EC96C&}h{\3c&H71C86A&}a{\3c&H74C668&}r{\3c&H77C467&}m{\3c&H7BC365&}a{\3c&H7EC264&}c{\3c&H81C062&}y
+Dialogue: 0,0:00:56.03,0:01:00.96,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Hello hello âª
+Dialogue: 0,0:01:01.05,0:01:03.55,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Mazeawaseru âª
+Dialogue: 0,0:01:03.64,0:01:06.21,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Meguri ai wa âª
+Dialogue: 0,0:01:06.29,0:01:08.81,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Hito to hito no âª
+Dialogue: 0,0:01:08.89,0:01:10.89,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Paretto no iro âª
+Dialogue: 0,0:01:10.98,0:01:16.00,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Onaji kanashimi ayamachi kurikaesu âª
+Dialogue: 0,0:01:16.15,0:01:19.70,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Kowa sa o koeru te o âª
+Dialogue: 0,0:01:19.78,0:01:23.60,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Sotto nobasu nureta hoo ni ateru âª
+Dialogue: 0,0:01:23.68,0:01:25.58,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Ano hi no âª
+Dialogue: 0,0:01:25.66,0:01:29.95,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª kioku ga sasatteru mitaida âª
+Dialogue: 0,0:01:30.03,0:01:34.78,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Shitsu kusu koto ni âª\Nâª makenai mono o shinjiteru âª
+Dialogue: 0,0:01:34.88,0:01:40.08,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Zutto buruu ni somatteita âª
+Dialogue: 0,0:01:40.17,0:01:44.83,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Musou teki kuronikuru âª
+Dialogue: 0,0:01:44.91,0:01:48.26,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Mamoritai tasuketai âª
+Dialogue: 0,0:01:53.02,0:01:58.56,DefaultTop,,0,0,0,,{\i1}{\c&H40FCFF&}âª Hello hello âª
+Dialogue: 0,0:02:00.97,0:02:03.22,Title,Episode Title,0000,0000,0000,,{\an4\blur6\3c&H9D7C0C&\pos(505.5,735)}T{*\3c&H967F14&}h{*\3c&H8F811C&}e {*\3c&H81872C&}C{*\3c&H7A8934&}h{*\3c&H738C3C&}i{*\3c&H6C8F44&}e{*\3c&H65914C&}f {*\3c&H57975C&}R{*\3c&H509964&}o{\3c&H499C6C&}y{*\3c&H4F9E6B&}a{*\3c&H55A06A&}l {*\3c&H60A367&}P{*\3c&H66A566&}h{*\3c&H6CA765&}a{*\3c&H72A864&}r{*\3c&H78AA63&}m{*\3c&H7EAC62&}a{*\3c&H83AE60&}c{*\3c&H89AF5F&}i{*\3c&H8FB15E&}a{\3c&H95B35D&}n\N{\3c&H9D7C0C&}a{*\3c&H977E13&}n{*\3c&H90811B&}d {*\3c&H83862A&}t{*\3c&H7D8831&}h{*\3c&H768B38&}e {*\3c&H699047&}R{*\3c&H63924E&}e{*\3c&H5C9556&}i{*\3c&H56975D&}n{*\3c&H4F9A65&}c{\3c&H499C6C&}a{*\3c&H4D9D6B&}r{*\3c&H509E6B&}n{*\3c&H549F6A&}a{*\3c&H57A069&}t{*\3c&H5BA168&}e{*\3c&H5FA368&}d {*\3c&H66A566&}P{*\3c&H6AA666&}h{*\3c&H6DA765&}a{*\3c&H71A864&}r{*\3c&H74A963&}m{*\3c&H78AA63&}a{*\3c&H7CAB62&}c{*\3c&H7FAC61&}o{*\3c&H83AE61&}l{*\3c&H87AF60&}o{*\3c&H8AB05F&}g{*\3c&H8EB15E&}i{*\3c&H91B25E&}s{\3c&H95B35D&}t
+Dialogue: 0,0:02:00.97,0:02:05.22,Title,Episode Title,0000,0000,0000,,{\blur6\pos(279,735)\3c&H9D7C0C&}E{\3c&H9C8316&}p{\3c&H9B8A20&}i{\3c&H9A912A&}s{\3c&H999834&}o{\3c&H989E3F&}d{\3c&H97A549&}e {\3c&H95B35D&}3
+Dialogue: 0,0:02:03.22,0:02:05.22,Title,Episode Title,0000,0000,0000,,{\an4\blur6\3c&H9D7C0C&\pos(505.5,735)}T{*\3c&H98831A&}h{*\3c&H948A27&}e {*\3c&H8B9742&}C{*\3c&H869E50&}h{*\3c&H82A55D&}i{*\3c&H7EAC6A&}e{*\3c&H79B378&}f {*\3c&H70C093&}R{*\3c&H6CC7A0&}o{\3c&H67CEAE&}y{*\3c&H6BCCA8&}a{*\3c&H6ECAA2&}l {*\3c&H75C695&}P{*\3c&H79C48F&}h{*\3c&H7CC289&}a{*\3c&H80BF82&}r{*\3c&H83BD7C&}m{*\3c&H87BB76&}a{*\3c&H8AB970&}c{*\3c&H8EB769&}i{*\3c&H91B563&}a{\3c&H95B35D&}n\N{\3c&H9D7C0C&}a{*\3c&H998218&}n{*\3c&H958925&}d {*\3c&H8C953E&}t{*\3c&H889C4A&}h{*\3c&H84A257&}e {*\3c&H7CAE70&}R{*\3c&H78B57C&}e{*\3c&H73BB89&}i{*\3c&H6FC195&}n{*\3c&H6BC8A2&}c{\3c&H67CEAE&}a{*\3c&H69CDAA&}r{*\3c&H6BCBA6&}n{*\3c&H6ECAA2&}a{*\3c&H70C99F&}t{*\3c&H72C89B&}e{*\3c&H74C697&}d {*\3c&H79C48F&}P{*\3c&H7BC28B&}h{*\3c&H7DC187&}a{*\3c&H7FC084&}r{*\3c&H81BF80&}m{*\3c&H83BD7C&}a{*\3c&H86BC78&}c{*\3c&H88BB74&}o{*\3c&H8AB970&}l{*\3c&H8CB86C&}o{*\3c&H8EB769&}g{*\3c&H91B665&}i{*\3c&H93B461&}s{\3c&H95B35D&}t
+Dialogue: 0,0:02:14.93,0:02:16.07,Default,Claude,0000,0000,0000,,Archduke!
+Dialogue: 0,0:02:16.40,0:02:17.59,Default,Bruno,0000,0000,0000,,Head Court Physician.
+Dialogue: 0,0:02:18.73,0:02:20.48,Default,Bruno,0000,0000,0000,,How is Her Majesty's condition?
+Dialogue: 0,0:02:20.48,0:02:21.76,Default,Claude,0000,0000,0000,,It does not look good.
+Dialogue: 0,0:02:22.33,0:02:25.09,Default,Claude,0000,0000,0000,,Her lungs appear to have \Nweakened considerably.
+Dialogue: 0,0:02:47.28,0:02:50.29,Default,Bruno,0000,0000,0000,,Your Majesty, I am sorry to disturb you.
+Dialogue: 0,0:02:52.98,0:02:54.64,DefaultItalics,Farma,0000,0000,0000,,So this...
+Dialogue: 0,0:02:54.64,0:02:56.06,DefaultItalics,Farma,0000,0000,0000,,is this nation's empress,
+Dialogue: 0,0:02:56.06,0:02:58.19,DefaultItalics,Farma,0000,0000,0000,,Her Majesty Ãlisabeth II.
+Dialogue: 0,0:03:05.48,0:03:07.08,Default,Bruno,0000,0000,0000,,Farma, my bag.
+Dialogue: 0,0:03:07.08,0:03:08.09,Default,Farma,0000,0000,0000,,Y-Yes, sir.
+Dialogue: 0,0:03:28.68,0:03:29.69,DefaultItalics,Farma,0000,0000,0000,,And this...
+Dialogue: 0,0:03:29.69,0:03:31.79,DefaultItalics,Farma,0000,0000,0000,,is how examinations are performed here?
+Dialogue: 0,0:03:44.08,0:03:46.59,Default,Claude,0000,0000,0000,,I see. Then it's as we feared...
+Dialogue: 0,0:03:46.59,0:03:49.53,Default,Astronomer,0000,0000,0000,,Indeed. The stars are in a horrible state.
+Dialogue: 0,0:03:50.23,0:03:53.45,Default,Bruno,0000,0000,0000,,I'm afraid her destiny is near its end.
+Dialogue: 0,0:03:54.44,0:03:56.79,DefaultItalics,Farma,0000,0000,0000,,Did he just mention {\i0}stars{\i1}?!
+Dialogue: 0,0:03:56.79,0:04:00.02,Default,Bruno,0000,0000,0000,,Nevertheless, I shall continue \Nwhat treatment I can.
+Dialogue: 0,0:04:00.02,0:04:01.83,Default,Bruno,0000,0000,0000,,Farma, assist me.
+Dialogue: 0,0:04:01.83,0:04:03.01,Default,Farma,0000,0000,0000,,Y-Yes, sir.
+Dialogue: 0,0:04:04.06,0:04:05.50,Default,Claude,0000,0000,0000,,"Treatment..."
+Dialogue: 0,0:04:09.35,0:04:13.03,DefaultItalics,Farma,0000,0000,0000,,In this world, pharmacians have \Nindependent prescribing authority,
+Dialogue: 0,0:04:13.26,0:04:15.85,DefaultItalics,Farma,0000,0000,0000,,so they both prescribe \Nand compound medicine.
+Dialogue: 0,0:04:16.41,0:04:18.89,DefaultItalics,Farma,0000,0000,0000,,The smell of opium and mandrake.
+Dialogue: 0,0:04:18.89,0:04:20.30,DefaultItalics,Farma,0000,0000,0000,,Anesthetic effects.
+Dialogue: 0,0:04:20.80,0:04:23.03,DefaultItalics,Farma,0000,0000,0000,,So he created an anesthesia potion?
+Dialogue: 0,0:04:25.07,0:04:28.19,Default,Bruno,0000,0000,0000,,Your Majesty, how are you feeling?
+Dialogue: 0,0:04:30.14,0:04:31.30,Default,Ãlisabeth II,0000,0000,0000,,Bruno,
+Dialogue: 0,0:04:31.66,0:04:33.98,Default,Ãlisabeth II,0000,0000,0000,,speak plainly.
+Dialogue: 0,0:04:33.98,0:04:36.71,Default,Ãlisabeth II,0000,0000,0000,,Am I beyond recovery?
+Dialogue: 0,0:04:37.33,0:04:39.32,Default,Bruno,0000,0000,0000,,Not at all, Your Majesty.
+Dialogue: 0,0:04:39.62,0:04:42.29,Default,Bruno,0000,0000,0000,,I have brought a powerful medicine.
+Dialogue: 0,0:04:42.87,0:04:44.59,Default,Bruno,0000,0000,0000,,Please inhale these vapors.
+Dialogue: 0,0:04:44.59,0:04:46.70,Default,Bruno,0000,0000,0000,,It should ease your breathing.
+Dialogue: 0,0:04:51.72,0:04:55.40,DefaultItalics,Farma,0000,0000,0000,,With that medicine, no improvement \Nin her illness can be expected.
+Dialogue: 0,0:04:55.40,0:04:59.18,DefaultItalics,Farma,0000,0000,0000,,So all they can do is lessen \Nher present suffering?
+Dialogue: 0,0:05:00.83,0:05:02.16,Default,Claude,0000,0000,0000,,Call the priest.
+Dialogue: 0,0:05:02.52,0:05:04.61,Default,Claude,0000,0000,0000,,Most likely, tomorrow night \Nwill be the critical juncture.
+Dialogue: 0,0:05:07.27,0:05:10.03,DefaultItalics,Farma,0000,0000,0000,,This is like a ritual for euthanasia!
+Dialogue: 0,0:05:10.34,0:05:12.25,DefaultItalics,Farma,0000,0000,0000,,Do they not intend to cure her?
+Dialogue: 0,0:05:12.80,0:05:13.99,DefaultItalics,Farma,0000,0000,0000,,No one here does?
+Dialogue: 0,0:05:15.91,0:05:17.66,DefaultItalics,Farma,0000,0000,0000,,I can't remain...
+Dialogue: 0,0:05:17.66,0:05:18.71,DefaultItalics,Farma,0000,0000,0000,,on the sidelines!
+Dialogue: 0,0:05:29.93,0:05:31.02,DefaultItalics,Farma,0000,0000,0000,,Lung cancer.
+Dialogue: 0,0:05:31.02,0:05:32.68,DefaultItalics,Farma,0000,0000,0000,,Bronchiectasis.
+Dialogue: 0,0:05:32.68,0:05:33.62,DefaultItalics,Farma,0000,0000,0000,,Pneumonia.
+Dialogue: 0,0:05:34.94,0:05:36.88,DefaultItalics,Farma,0000,0000,0000,,It's not simply pneumonia...
+Dialogue: 0,0:05:37.28,0:05:38.09,DefaultItalics,Farma,0000,0000,0000,,In that case...
+Dialogue: 0,0:05:38.36,0:05:39.55,DefaultItalics,Farma,0000,0000,0000,,tuberculosis?
+Dialogue: 0,0:05:42.08,0:05:44.52,DefaultItalics,Farma,0000,0000,0000,,The white death, as it was once known.
+Dialogue: 0,0:05:46.80,0:05:50.47,DefaultItalics,Farma,0000,0000,0000,,Given the lack of injection devices, \Nthe oral route is my only option.
+Dialogue: 0,0:05:50.47,0:05:52.07,DefaultItalics,Farma,0000,0000,0000,,Four medicines, if possible.
+Dialogue: 0,0:05:52.07,0:05:55.14,DefaultItalics,Farma,0000,0000,0000,,One of those four needs to be rifampin,
+Dialogue: 0,0:05:55.67,0:05:59.15,DefaultItalics,Farma,0000,0000,0000,,but it has a high molecular \Nweight and a complex structure,
+Dialogue: 0,0:05:59.15,0:06:01.15,DefaultItalics,Farma,0000,0000,0000,,making it difficult to envision accurately.
+Dialogue: 0,0:06:02.41,0:06:04.15,DefaultItalics,Farma,0000,0000,0000,,If I mess up...
+Dialogue: 0,0:06:07.54,0:06:11.79,DefaultItalics,Farma,0000,0000,0000,,So this is what it means to deal \Ndirectly with the patient.
+Dialogue: 0,0:06:14.47,0:06:16.18,Default,Louis,0000,0000,0000,,Mother!
+Dialogue: 0,0:06:15.58,0:06:16.64,DefaultTop,Noah,0000,0000,0000,,Your Highness!
+Dialogue: 0,0:06:17.01,0:06:18.26,Default,Noah,0000,0000,0000,,Prince Louis!
+Dialogue: 0,0:06:18.26,0:06:21.72,Default,Louis,0000,0000,0000,,Mother, when will you be all better?
+Dialogue: 0,0:06:21.72,0:06:22.48,Default,Ãlisabeth II,0000,0000,0000,,Louis...
+Dialogue: 0,0:06:22.71,0:06:25.46,Default,Noah,0000,0000,0000,,Your Highness, we mustn't \Ndisturb Her Majesty!
+Dialogue: 0,0:06:25.46,0:06:26.07,Default,Louis,0000,0000,0000,,No!
+Dialogue: 0,0:06:26.31,0:06:27.13,Default,Noah,0000,0000,0000,,Your Highness.
+Dialogue: 0,0:06:27.13,0:06:28.28,Default,Louis,0000,0000,0000,,No!
+Dialogue: 0,0:07:08.82,0:07:09.78,Default,Farma,0000,0000,0000,,Your Majesty.
+Dialogue: 0,0:07:12.18,0:07:16.75,Default,Farma,0000,0000,0000,,Though it is not my place, may I request \Npermission to treat Your Majesty?
+Dialogue: 0,0:07:17.27,0:07:20.20,Default,Farma,0000,0000,0000,,There is a new medicine \Nfor Your Majesty's illness.
+Dialogue: 0,0:07:21.27,0:07:22.67,Default,Bruno,0000,0000,0000,,Farma, stop!
+Dialogue: 0,0:07:23.04,0:07:24.88,Default,Ãlisabeth II,0000,0000,0000,,A new... medicine?
+Dialogue: 0,0:07:24.88,0:07:27.22,Default,Ãlisabeth II,0000,0000,0000,,Is there... truly?
+Dialogue: 0,0:07:27.22,0:07:28.12,Default,Farma,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:28.12,0:07:31.60,Default,Bruno,0000,0000,0000,,This is no time for jests, boy! Enough!
+Dialogue: 0,0:07:31.60,0:07:33.30,Default,Ãlisabeth II,0000,0000,0000,,Hold, Bruno!
+Dialogue: 0,0:07:37.47,0:07:38.97,Default,Ãlisabeth II,0000,0000,0000,,You know of a medicine?
+Dialogue: 0,0:07:38.97,0:07:40.58,Default,Ãlisabeth II,0000,0000,0000,,That is to say,
+Dialogue: 0,0:07:40.58,0:07:43.50,Default,Ãlisabeth II,0000,0000,0000,,you know the name of my affliction as well?
+Dialogue: 0,0:07:44.04,0:07:45.39,Default,Farma,0000,0000,0000,,I believe I do.
+Dialogue: 0,0:07:46.87,0:07:48.13,Default,Ãlisabeth II,0000,0000,0000,,I see.
+Dialogue: 0,0:07:48.13,0:07:49.44,Default,Ãlisabeth II,0000,0000,0000,,Very well, then.
+Dialogue: 0,0:07:49.44,0:07:50.27,Default,Claude,0000,0000,0000,,Your Majesty!
+Dialogue: 0,0:07:52.07,0:07:53.20,Default,Ãlisabeth II,0000,0000,0000,,Claude...
+Dialogue: 0,0:07:55.51,0:07:57.77,Default,Ãlisabeth II,0000,0000,0000,,When I was hale and hearty,
+Dialogue: 0,0:07:57.77,0:08:01.02,Default,Ãlisabeth II,0000,0000,0000,,I was held to be the finest practitioner \Nof Divine Arts in the empire.
+Dialogue: 0,0:08:01.02,0:08:06.00,Default,Ãlisabeth II,0000,0000,0000,,I believe I still retain the ability \Nto discern who is worthy of trust.
+Dialogue: 0,0:08:09.46,0:08:10.92,Default,Ãlisabeth II,0000,0000,0000,,You...
+Dialogue: 0,0:08:10.92,0:08:15.14,Default,Ãlisabeth II,0000,0000,0000,,I see that you alone... \Nhave not yet given up.
+Dialogue: 0,0:08:16.44,0:08:17.60,Default,Farma,0000,0000,0000,,Yes, Your Majesty.
+Dialogue: 0,0:08:17.60,0:08:20.37,Default,Ãlisabeth II,0000,0000,0000,,Good. Permission granted.
+Dialogue: 0,0:08:26.93,0:08:29.13,Default,Bruno,0000,0000,0000,,Farma! Open this door!
+Dialogue: 0,0:08:29.13,0:08:30.44,Default,Bruno,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:08:30.66,0:08:33.19,Default,Bruno,0000,0000,0000,,Open up, you fool!
+Dialogue: 0,0:08:44.00,0:08:47.38,DefaultItalics,Farma,0000,0000,0000,,To prevent the bacteria from \Nacquiring drug resistance,
+Dialogue: 0,0:08:47.38,0:08:51.42,DefaultItalics,Farma,0000,0000,0000,,I need to use three or four \Ndrugs together, if possible.
+Dialogue: 0,0:08:51.66,0:08:52.93,DefaultItalics,Farma,0000,0000,0000,,Isoniazid,
+Dialogue: 0,0:08:52.93,0:08:54.12,DefaultItalics,Farma,0000,0000,0000,,pyrazinamide,
+Dialogue: 0,0:08:54.48,0:08:55.81,DefaultItalics,Farma,0000,0000,0000,,ethambutol,
+Dialogue: 0,0:08:59.97,0:09:01.32,DefaultItalics,Farma,0000,0000,0000,,and finally,
+Dialogue: 0,0:09:01.75,0:09:03.09,DefaultItalics,Farma,0000,0000,0000,,rifampin!
+Dialogue: 0,0:09:31.49,0:09:32.46,Default,Bruno,0000,0000,0000,,Farma.
+Dialogue: 0,0:09:33.45,0:09:35.11,Default,Bruno,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:09:37.33,0:09:39.49,Default,Farma,0000,0000,0000,,I am preparing for Her Majesty's treatment.
+Dialogue: 0,0:09:39.49,0:09:40.71,Default,Bruno,0000,0000,0000,,Don't be ridiculous!
+Dialogue: 0,0:09:40.71,0:09:43.30,Default,Bruno,0000,0000,0000,,No one in the world can \Ncure the white death!
+Dialogue: 0,0:09:44.45,0:09:46.11,Default,Farma,0000,0000,0000,,I'm surprised.
+Dialogue: 0,0:09:46.11,0:09:48.53,Default,Farma,0000,0000,0000,,So you had already ascertained \Nthat it was the white death?
+Dialogue: 0,0:09:48.53,0:09:51.47,Default,Bruno,0000,0000,0000,,That much has been clear \Nfor quite some time!
+Dialogue: 0,0:09:52.36,0:09:56.94,DefaultItalics,Farma,0000,0000,0000,,Unlike me, he diagnosed her \Nwithout special help.
+Dialogue: 0,0:09:57.91,0:10:00.29,DefaultItalics,Farma,0000,0000,0000,,He really is a magnificent pharmacian.
+Dialogue: 0,0:10:01.07,0:10:04.84,Default,Bruno,0000,0000,0000,,Being a pharmacian is not about \Npointlessly brandishing your knowledge.
+Dialogue: 0,0:10:05.31,0:10:09.58,Default,Bruno,0000,0000,0000,,You must use your knowledge \Nto soothe the patient's heart.
+Dialogue: 0,0:10:10.88,0:10:14.00,Default,Bruno,0000,0000,0000,,Farma, think of the patient!
+Dialogue: 0,0:10:14.50,0:10:16.70,Default,Bruno,0000,0000,0000,,The white death is an incurable illness.
+Dialogue: 0,0:10:17.22,0:10:19.25,Default,Bruno,0000,0000,0000,,The patient is suffering.
+Dialogue: 0,0:10:19.25,0:10:21.74,Default,Bruno,0000,0000,0000,,What is the point of \Ndriving them to despair?
+Dialogue: 0,0:10:21.74,0:10:23.81,Default,Bruno,0000,0000,0000,,A new medicine?
+Dialogue: 0,0:10:23.81,0:10:26.93,Default,Bruno,0000,0000,0000,,To spout such nonsense is reprehensible.
+Dialogue: 0,0:10:26.93,0:10:29.39,Default,Farma,0000,0000,0000,,No, Father. The medicine exists!
+Dialogue: 0,0:10:30.19,0:10:31.34,Default,Farma,0000,0000,0000,,And it's...
+Dialogue: 0,0:10:31.34,0:10:33.55,Default,Farma,0000,0000,0000,,something you need to take as well!
+Dialogue: 0,0:10:38.54,0:10:40.46,Default,Bruno,0000,0000,0000,,Wait! What are you doing?
+Dialogue: 0,0:10:47.08,0:10:48.16,Default,Farma,0000,0000,0000,,Why?
+Dialogue: 0,0:10:49.26,0:10:50.86,Default,Bruno,0000,0000,0000,,Answer me, Farma!
+Dialogue: 0,0:10:51.42,0:10:54.84,Default,Bruno,0000,0000,0000,,What is it that you are \Nattempting to compound?
+Dialogue: 0,0:10:54.84,0:10:56.75,Default,Farma,0000,0000,0000,,Put your wand away, Father!
+Dialogue: 0,0:10:56.75,0:10:59.30,Default,Farma,0000,0000,0000,,Do you mean to destroy the whole lab?
+Dialogue: 0,0:10:59.49,0:11:00.55,Default,Bruno,0000,0000,0000,,Answer!
+Dialogue: 0,0:11:00.55,0:11:03.73,Default,Bruno,0000,0000,0000,,If you cannot explain, it's poison!
+Dialogue: 0,0:11:04.82,0:11:06.44,Default,Bruno,0000,0000,0000,,Sword Dance of Ice!
+Dialogue: 0,0:11:19.53,0:11:21.53,Default,Bruno,0000,0000,0000,,What? With no wand or incantation?!
+Dialogue: 0,0:11:22.77,0:11:23.84,Default,Bruno,0000,0000,0000,,Farma...
+Dialogue: 0,0:11:24.25,0:11:25.11,Default,Bruno,0000,0000,0000,,No...
+Dialogue: 0,0:11:25.52,0:11:26.76,Default,Bruno,0000,0000,0000,,Who...
+Dialogue: 0,0:11:27.03,0:11:28.34,Default,Bruno,0000,0000,0000,,are you?
+Dialogue: 0,0:11:35.15,0:11:36.87,Default,Bruno,0000,0000,0000,,I ask you once more.
+Dialogue: 0,0:11:36.87,0:11:38.92,Default,Bruno,0000,0000,0000,,Just who are you?
+Dialogue: 0,0:11:54.76,0:11:56.50,Default,Bruno,0000,0000,0000,,What is all this?
+Dialogue: 0,0:11:57.74,0:12:00.25,Default,Farma,0000,0000,0000,,Knowledge of new medicines.
+Dialogue: 0,0:12:00.25,0:12:02.79,Default,Farma,0000,0000,0000,,I dreamed of it the day \NI was struck by lightning.
+Dialogue: 0,0:12:05.41,0:12:06.65,Default,Bruno,0000,0000,0000,,A dream...
+Dialogue: 0,0:12:07.23,0:12:08.93,Default,Bruno,0000,0000,0000,,And that day was the turning point?
+Dialogue: 0,0:12:09.56,0:12:10.36,Default,Farma,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:12.34,0:12:15.53,Default,Bruno,0000,0000,0000,,On your shoulder. That's the holy mark.
+Dialogue: 0,0:12:15.89,0:12:17.99,Default,Bruno,0000,0000,0000,,Did the Panactheos grant you a revelation?
+Dialogue: 0,0:12:18.41,0:12:20.64,Default,Farma,0000,0000,0000,,I... couldn't say.
+Dialogue: 0,0:12:22.63,0:12:24.47,Default,Bruno,0000,0000,0000,,So that's the situation.
+Dialogue: 0,0:12:24.47,0:12:26.44,Default,Bruno,0000,0000,0000,,This is incredible.
+Dialogue: 0,0:12:26.44,0:12:30.17,Default,Bruno,0000,0000,0000,,To think the Panactheos \Ngranted my son a blessing...
+Dialogue: 0,0:12:30.38,0:12:32.32,Default,Farma,0000,0000,0000,,Please, Father!
+Dialogue: 0,0:12:32.32,0:12:34.65,Default,Farma,0000,0000,0000,,Administer this medicine to Her Majesty!
+Dialogue: 0,0:12:34.95,0:12:37.24,Default,Farma,0000,0000,0000,,If we say that you compounded it,
+Dialogue: 0,0:12:37.24,0:12:39.45,Default,Farma,0000,0000,0000,,your standing within the \Ncourt will be preserved.
+Dialogue: 0,0:12:41.82,0:12:42.73,Default,Bruno,0000,0000,0000,,No.
+Dialogue: 0,0:12:45.29,0:12:49.17,Default,Bruno,0000,0000,0000,,The medicine you make is yours to give.
+Dialogue: 0,0:12:49.48,0:12:53.22,Default,Bruno,0000,0000,0000,,That has always been my teaching.
+Dialogue: 0,0:12:55.46,0:12:58.61,Default,Bruno,0000,0000,0000,,Her Majesty placed her faith \Nin you and your assessment.
+Dialogue: 0,0:12:58.61,0:13:02.13,Default,Bruno,0000,0000,0000,,She resolved to stake her life \Non your medicine.
+Dialogue: 0,0:13:02.13,0:13:06.84,Default,Bruno,0000,0000,0000,,Thus you, too, must stake your own life \Non giving your medicine.
+Dialogue: 0,0:13:06.84,0:13:10.76,Default,Bruno,0000,0000,0000,,That is a pharmacian's duty, \Nand a pharmacian's pride.
+Dialogue: 0,0:13:12.78,0:13:13.96,Default,Farma,0000,0000,0000,,Yes, Father.
+Dialogue: 0,0:13:22.39,0:13:24.79,DefaultItalics,Bruno,0000,0000,0000,,Farma's attribute was positive water.
+Dialogue: 0,0:13:24.79,0:13:29.36,DefaultItalics,Bruno,0000,0000,0000,,Even if he can produce water, \Nhe should not be able to erase it...
+Dialogue: 0,0:13:45.72,0:13:47.13,Default,Bruno,0000,0000,0000,,Are you...
+Dialogue: 0,0:13:48.39,0:13:51.32,Default,Bruno,0000,0000,0000,,Are you... Farma?
+Dialogue: 0,0:13:51.88,0:13:54.92,Default,Bruno,0000,0000,0000,,Are you really my son?
+Dialogue: 0,0:13:56.61,0:14:00.31,Default,Farma,0000,0000,0000,,I mean, I consider myself to be.
+Dialogue: 0,0:14:08.40,0:14:10.66,Default,Farma,0000,0000,0000,,Ladies and gentlemen, sorry for the wait.
+Dialogue: 0,0:14:11.60,0:14:13.89,Default,Court Physician A,0000,0000,0000,,Why is he hiding his face?
+Dialogue: 0,0:14:13.89,0:14:16.66,Default,Pharmacian A,0000,0000,0000,,What disrespect he shows the Empress!
+Dialogue: 0,0:14:16.66,0:14:18.25,Default,Court Physician A,0000,0000,0000,,Does it mean he can't face her?
+Dialogue: 0,0:14:18.25,0:14:19.59,Default,Claude,0000,0000,0000,,That took some time.
+Dialogue: 0,0:14:19.59,0:14:22.37,Default,Claude,0000,0000,0000,,Where is your father? \NDid he turn tail and flee?
+Dialogue: 0,0:14:22.69,0:14:25.35,Default,Farma,0000,0000,0000,,No. Nothing of the sort.
+Dialogue: 0,0:14:28.37,0:14:31.29,Default,Ãlisabeth II,0000,0000,0000,,The time is of no import. Come closer.
+Dialogue: 0,0:14:39.31,0:14:41.86,Default,Farma,0000,0000,0000,,This is the new medicine, Your Majesty.
+Dialogue: 0,0:14:45.18,0:14:49.11,Default,Claude,0000,0000,0000,,Chief Royal Pharmacian, \Nshouldn't you stop your son?
+Dialogue: 0,0:14:49.64,0:14:50.78,Default,Bruno,0000,0000,0000,,No...
+Dialogue: 0,0:14:51.08,0:14:57.01,Default,Bruno,0000,0000,0000,,He... His skills may have \Nalready surpassed ours.
+Dialogue: 0,0:14:57.37,0:14:59.50,Default,Bruno,0000,0000,0000,,All I can do is watch him.
+Dialogue: 0,0:15:03.65,0:15:06.66,Default,Farma,0000,0000,0000,,Before I report the effects \Nof this new medicine,
+Dialogue: 0,0:15:06.66,0:15:08.95,Default,Farma,0000,0000,0000,,there is something I would \Nlike Your Majesty to see.
+Dialogue: 0,0:15:09.31,0:15:11.76,Default,Farma,0000,0000,0000,,Might I have Your Majesty's cooperation?
+Dialogue: 0,0:15:12.96,0:15:15.89,Default,Ãlisabeth II,0000,0000,0000,,Very well. Proceed.
+Dialogue: 0,0:15:17.66,0:15:21.53,Default,Farma,0000,0000,0000,,This is a sputum sample \NI obtained from Your Majesty.
+Dialogue: 0,0:15:25.95,0:15:30.37,Default,Farma,0000,0000,0000,,Please bring that close to your eye and \Npeer through the hole toward some light.
+Dialogue: 0,0:15:33.99,0:15:35.70,Default,Ãlisabeth II,0000,0000,0000,,Like this?
+Dialogue: 0,0:15:48.64,0:15:50.53,Default,Ãlisabeth II,0000,0000,0000,,What are these?
+Dialogue: 0,0:15:50.97,0:15:55.18,Default,Ãlisabeth II,0000,0000,0000,,I see... They look like creaturesâ
+Dialogue: 0,0:15:59.21,0:16:00.18,Default,Ãlisabeth II,0000,0000,0000,,Claude.
+Dialogue: 0,0:16:07.53,0:16:08.64,Default,Claude,0000,0000,0000,,Pardon me.
+Dialogue: 0,0:16:10.94,0:16:11.95,Default,Claude,0000,0000,0000,,Now then.
+Dialogue: 0,0:16:13.70,0:16:16.00,Default,Claude,0000,0000,0000,,What are these?! Bugs?
+Dialogue: 0,0:16:16.33,0:16:19.16,Default,Court Physician,0000,0000,0000,,Head Court Physician, what do you see?
+Dialogue: 0,0:16:20.66,0:16:23.84,Default,Court Physician,0000,0000,0000,,Incredible... They look \Njust like caterpillars.
+Dialogue: 0,0:16:23.84,0:16:26.12,Default,Pharmacian,0000,0000,0000,,Are these living organisms?
+Dialogue: 0,0:16:26.12,0:16:29.91,Default,Ãlisabeth II,0000,0000,0000,,Farma, explain what we have witnessed.
+Dialogue: 0,0:16:29.91,0:16:33.59,Default,Farma,0000,0000,0000,,They're extremely small organisms \Nthat cause the white death.
+Dialogue: 0,0:16:33.59,0:16:34.84,Default,Farma,0000,0000,0000,,They're bacteria.
+Dialogue: 0,0:16:35.13,0:16:39.56,Default,Farma,0000,0000,0000,,Your Majesty's body is being \Naffected by these organisms.
+Dialogue: 0,0:16:39.56,0:16:41.97,Default,Ãlisabeth II,0000,0000,0000,,Bac-teria, you say?
+Dialogue: 0,0:16:43.50,0:16:49.49,Default,Farma,0000,0000,0000,,There exist diseases in this world caused by \Ninfection with micro-organisms like these.
+Dialogue: 0,0:16:50.34,0:16:53.08,Default,Farma,0000,0000,0000,,The medicine I am giving Your Majesty
+Dialogue: 0,0:16:53.08,0:16:55.92,Default,Farma,0000,0000,0000,,operates on the organisms \Nthat cause the white death.
+Dialogue: 0,0:16:56.29,0:17:00.24,Default,Farma,0000,0000,0000,,If the medicine is taken properly for \Nhalf a year, full recovery can be expected.
+Dialogue: 0,0:17:00.51,0:17:02.45,Default,Claude,0000,0000,0000,,That is quite a long time.
+Dialogue: 0,0:17:02.45,0:17:05.30,Default,Farma,0000,0000,0000,,The white death is a tenacious malady.
+Dialogue: 0,0:17:08.35,0:17:15.50,Default,Ãlisabeth II,0000,0000,0000,,Farma, your explanation fundamentally \Nupends our existing concept of disease.
+Dialogue: 0,0:17:16.27,0:17:19.85,Default,Ãlisabeth II,0000,0000,0000,,Very well. I shall take your medicine.
+Dialogue: 0,0:17:21.16,0:17:22.07,Default,Farma,0000,0000,0000,,As you wish.
+Dialogue: 0,0:17:27.48,0:17:30.47,Default,Farma,0000,0000,0000,,Now then, starting today,
+Dialogue: 0,0:17:30.47,0:17:33.45,Default,Farma,0000,0000,0000,,I will watch Your Majesty take \Nthis medicine every day.
+Dialogue: 0,0:17:33.45,0:17:38.74,Default,Farma,0000,0000,0000,,This is called directly observed \Ntreatment, short-courseâ
+Dialogue: 0,0:17:39.69,0:17:40.60,Default,Farma,0000,0000,0000,,Your Majesty.
+Dialogue: 0,0:17:41.71,0:17:45.07,Default,Ãlisabeth II,0000,0000,0000,,I put myself in your care, Farma.
+Dialogue: 0,0:17:45.68,0:17:49.29,Default,Farma,0000,0000,0000,,Your Majesty, I, Farma de MÃ©dicis,
+Dialogue: 0,0:17:49.29,0:17:51.16,Default,Farma,0000,0000,0000,,hereby stake my life
+Dialogue: 0,0:17:51.16,0:17:54.29,Default,Farma,0000,0000,0000,,on Your Majesty's safe \Nand effective treatment.
+Dialogue: 0,0:17:55.91,0:17:56.71,Default,Farma,0000,0000,0000,,Here I go.
+Dialogue: 0,0:18:03.75,0:18:04.90,Default,Farma,0000,0000,0000,,Your Majesty.
+Dialogue: 0,0:18:05.28,0:18:06.23,Default,Ãlisabeth II,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:15.56,0:18:16.70,Default,Farma,0000,0000,0000,,Ladies and gentlemen,
+Dialogue: 0,0:18:17.52,0:18:22.74,Default,Farma,0000,0000,0000,,when this new medicine has succeeded in \Nappropriately eliminating the bacteria,
+Dialogue: 0,0:18:22.74,0:18:25.57,Default,Farma,0000,0000,0000,,the white death shall cease \Nto be an incurable disease!
+Dialogue: 0,0:18:26.25,0:18:30.20,Default,Farma,0000,0000,0000,,Never again shall we fear this illness!
+Dialogue: 0,0:18:32.72,0:18:35.73,Default,Pharmacian A,0000,0000,0000,,Young man, just what is this object?
+Dialogue: 0,0:18:35.73,0:18:37.74,Default,Pharmacian A,0000,0000,0000,,Please, spare no detail!
+Dialogue: 0,0:18:37.74,0:18:40.14,Default,Court Physician A,0000,0000,0000,,What a splendid Divine Art!
+Dialogue: 0,0:18:40.14,0:18:44.78,Default,Farma,0000,0000,0000,,This is not a Divine Art. \NIt is a device anyone can make.
+Dialogue: 0,0:18:44.75,0:18:47.71,Default,Ãlisabeth II,0000,0000,0000,,Farma de MÃ©dicis...
+Dialogue: 0,0:18:44.78,0:18:46.84,DefaultTop,Farma,0000,0000,0000,,I will share the designs.
+Dialogue: 0,0:19:16.10,0:19:18.42,DefaultItalics,Bruno,0000,0000,0000,,A pharmacian must be close with patients.
+Dialogue: 0,0:19:19.22,0:19:22.83,DefaultItalics,Bruno,0000,0000,0000,,What a pharmacian needs most \Nis not skill, but heart.
+Dialogue: 0,0:19:23.94,0:19:25.89,DefaultItalics,Bruno,0000,0000,0000,,In accordance with that conviction,
+Dialogue: 0,0:19:25.89,0:19:30.84,DefaultItalics,Bruno,0000,0000,0000,,I have interacted earnestly with my \Npatients, and I believe I understood them.
+Dialogue: 0,0:19:31.36,0:19:32.54,DefaultItalics,Bruno,0000,0000,0000,,And yet,
+Dialogue: 0,0:19:32.54,0:19:37.21,DefaultItalics,Bruno,0000,0000,0000,,I have failed to do even a single \Nfatherly thing for my son.
+Dialogue: 0,0:19:37.93,0:19:44.49,DefaultItalics,Bruno,0000,0000,0000,,I don't even know what my son thought \Nabout, or how he felt about his life.
+Dialogue: 0,0:19:49.08,0:19:54.87,DefaultItalics,Bruno,0000,0000,0000,,Despite that, I can tell that the boy \Nbefore me is not the Farma I knew.
+Dialogue: 0,0:20:04.82,0:20:08.18,Default,Farma,0000,0000,0000,,I'm glad Her Majesty managed to sleep.
+Dialogue: 0,0:20:08.18,0:20:10.34,Default,Farma,0000,0000,0000,,I hope she rests well.
+Dialogue: 0,0:20:10.64,0:20:14.48,Default,Bruno,0000,0000,0000,,Y-Yes. I'm sure your medicine helped.
+Dialogue: 0,0:20:15.00,0:20:16.75,Default,Farma,0000,0000,0000,,I hope so...
+Dialogue: 0,0:20:23.71,0:20:25.54,Default,Farma,0000,0000,0000,,Um, these are for you.
+Dialogue: 0,0:20:27.75,0:20:31.31,Default,Farma,0000,0000,0000,,If you're willing to take them, that is.
+Dialogue: 0,0:20:35.49,0:20:38.16,Default,Bruno,0000,0000,0000,,The Panactheos has blessed you.
+Dialogue: 0,0:20:38.16,0:20:40.65,Default,Bruno,0000,0000,0000,,A god's will cannot be comprehended,
+Dialogue: 0,0:20:40.65,0:20:45.11,Default,Bruno,0000,0000,0000,,but I imagine this is a reminder that \NI have much room for improvement.
+Dialogue: 0,0:20:47.71,0:20:51.55,Default,Bruno,0000,0000,0000,,If it is my Guardian Deity's will, \Nthen I can only obey.
+Dialogue: 0,0:20:53.25,0:20:55.18,Default,Farma,0000,0000,0000,,You are mistaken.
+Dialogue: 0,0:20:56.33,0:20:58.21,Default,Farma,0000,0000,0000,,Though I had knowledge,
+Dialogue: 0,0:20:58.21,0:21:02.92,Default,Farma,0000,0000,0000,,I didn't understand the needs of \Na patient on the verge of death.
+Dialogue: 0,0:21:03.33,0:21:06.50,Default,Farma,0000,0000,0000,,That is something you taught me.
+Dialogue: 0,0:21:07.96,0:21:10.77,Default,Farma,0000,0000,0000,,Though I have been granted these abilities,
+Dialogue: 0,0:21:10.77,0:21:13.18,Default,Farma,0000,0000,0000,,I am still only an \Napprentice-level pharmacian.
+Dialogue: 0,0:21:13.90,0:21:17.51,Default,Farma,0000,0000,0000,,My acumen is shallow and unrefined.
+Dialogue: 0,0:21:18.37,0:21:19.38,Default,Farma,0000,0000,0000,,So please,
+Dialogue: 0,0:21:19.85,0:21:22.61,Default,Farma,0000,0000,0000,,as someone deeply immersed in medicine,
+Dialogue: 0,0:21:22.61,0:21:25.10,Default,Farma,0000,0000,0000,,continue to show me the way.
+Dialogue: 0,0:21:25.69,0:21:28.44,Default,Farma,0000,0000,0000,,Let's pursue the path of medicine together,
+Dialogue: 0,0:21:28.44,0:21:29.46,Default,Farma,0000,0000,0000,,Father.
+Dialogue: 0,0:21:39.27,0:21:40.28,Default,Bruno,0000,0000,0000,,Thank you,
+Dialogue: 0,0:21:40.73,0:21:42.10,Default,Bruno,0000,0000,0000,,my son.
+Dialogue: 0,0:22:07.65,0:22:10.17,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&} Ending Theme Song....
+Dialogue: 0,0:22:19.22,0:22:23.97,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Inori no koe kakikesu you ni âª
+Dialogue: 0,0:22:24.11,0:22:27.64,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Moroi kanjou wa âª
+Dialogue: 0,0:22:27.73,0:22:30.53,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Ame to kashite âª
+Dialogue: 0,0:22:30.61,0:22:35.26,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Yosoku mo naku furidasu sora o âª
+Dialogue: 0,0:22:35.36,0:22:38.54,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Niramitsuzukete mo âª
+Dialogue: 0,0:22:38.70,0:22:41.89,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Aoi dakesa âª
+Dialogue: 0,0:22:42.07,0:22:47.74,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Jisho ni mo nai sekai no shinsou âª
+Dialogue: 0,0:22:47.83,0:22:50.09,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Boku no naka no âª
+Dialogue: 0,0:22:50.17,0:22:52.87,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Kasadate kara âª
+Dialogue: 0,0:22:53.02,0:22:56.52,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Sukui no isami âª
+Dialogue: 0,0:22:56.61,0:23:01.15,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Furuitataseru\NHare nochiu tokidoki yume âª
+Dialogue: 0,0:23:01.23,0:23:04.01,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Hatenaki hibi hate o mezashi âª
+Dialogue: 0,0:23:04.09,0:23:09.53,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Itsunomanika furikaeru sono hi ni  \Nnani o miyou ?
+Dialogue: 0,0:23:09.61,0:23:12.40,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Ame ni utare shioreru ai âª
+Dialogue: 0,0:23:12.48,0:23:15.26,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Sotto kasa o sashidasukara âª
+Dialogue: 0,0:23:15.35,0:23:19.20,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Egao o misete tomoni âª
+Dialogue: 0,0:23:19.29,0:23:23.90,DefaultItalicsTop,,0,0,0,,{\c&H40FCFF&}âª Ashita o yuko-o-o-o-o-o-ou âª
+Dialogue: 0,0:23:34.97,0:23:39.07,DefaultTop,,0,0,0,,Next Episode:
+Dialogue: 0,0:23:34.97,0:23:39.97,Next Episode Title,Next Episode Title,0000,0000,0000,,{\blur6\pos(960,421.5)\3c&HA2780A&}E{\3c&H867D22&}p{\3c&H6A823A&}i{\3c&H4F8652&}s{\3c&H338B6A&}o{\3c&H398452&}d{\3c&H407C3B&}e {\3c&H4C6D0C&}4
+Dialogue: 0,0:23:34.97,0:23:39.97,Next Episode Title,Next Episode Title,0000,0000,0000,,{\blur6\3c&HA2780A&\pos(960,765)}T{*\3c&H9B7910&}h{*\3c&H947A16&}e {*\3c&H867D22&}E{*\3c&H7F7E28&}m{*\3c&H787F2E&}p{*\3c&H718034&}r{*\3c&H6A823A&}e{*\3c&H648340&}s{*\3c&H5D8446&}s {*\3c&H4F8652&}a{*\3c&H488758&}n{*\3c&H41895E&}d {\3c&H338B6A&}a{*\3c&H348965&}n {*\3c&H37865A&}I{*\3c&H398455&}m{*\3c&H3A8350&}p{*\3c&H3B814B&}e{*\3c&H3D7F45&}r{*\3c&H3E7E40&}i{*\3c&H407C3B&}a{*\3c&H417A36&}l {*\3c&H44772B&}C{*\3c&H457526&}h{*\3c&H467421&}a{*\3c&H48721C&}r{*\3c&H497016&}t{*\3c&H4B6F11&}e{\3c&H4C6D0C&}r
